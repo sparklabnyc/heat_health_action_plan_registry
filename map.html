@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HHAP Registry – Map View</title>
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Leaflet CSS -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""
+  />
+</head>
+<body>
+  <header>
+    <h1>Global Heat-Health Action Plan Registry – Map View</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="map.html">Map View</a>
+      <a href="https://YOUR_GOOGLE_FORM_LINK_HERE" target="_blank">Submit a New Plan</a>
+    </nav>
+  </header>
+
+  <main>
+    <div id="mapContainer">
+      <div id="map"></div>
+    </div>
+    <p class="map-note">
+      Note: Marker locations are approximate country-level locations and may need refinement over time.
+    </p>
+  </main>
+
+  <footer>
+    <p>Map view based on aggregated metadata from the HHAP registry.</p>
+  </footer>
+
+  <!-- Leaflet JS -->
+  <script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""
+  ></script>
+
+  <script src="script.js"></script>
+</body>
+</html>
