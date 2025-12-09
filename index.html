@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Global Heat-Health Action Plan Registry</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Global Heat-Health Action Plan Registry</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="map.html">Map View</a>
+      <a href="https://YOUR_GOOGLE_FORM_LINK_HERE" target="_blank">Submit a New Plan</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="controls">
+      <div class="control-group">
+        <label for="searchInput">Search:</label>
+        <input type="text" id="searchInput" placeholder="Search plans...">
+      </div>
+
+      <div class="control-group">
+        <label for="countryFilter">Country:</label>
+        <select id="countryFilter">
+          <option value="">All countries</option>
+        </select>
+      </div>
+    </section>
+
+    <section>
+      <table id="plansTable">
+        <thead>
+          <tr>
+            <th>Title</th>
+            <th>Country</th>
+            <th>Region / State</th>
+            <th>City / Municipality</th>
+            <th>Year</th>
+            <th>Organization</th>
+            <th>Plan</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Filled by script.js -->
+        </tbody>
+      </table>
+    </section>
+  </main>
+
+  <footer>
+    <p>
+      Data are maintained via a public GitHub repository and updated automatically from form submissions.
+    </p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
