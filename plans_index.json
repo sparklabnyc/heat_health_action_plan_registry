@@ -1,41 +1,42 @@
 [
   {
+    "title": "South Africa National Heat Health Action Plan Guidelines",
+    "country": "South Africa",
+    "region": "",
+    "city": "",
+    "year": 2020,
+    "submitter_name": "",
+    "submitter_email": "",
+    "submitted_at": "2025-12-09T17:54:24.963Z"
+  },
+  {
     "title": "Pitt Meadows Hot Weather Response Plan",
     "country": "Canada",
     "region": "",
     "city": "Pitt Meadows ",
-    "year": "2011",
-    "organization": "City of Pitt Meadows",
-    "source_type": "url",
-    "url": "https://www.pittmeadows.ca/sites/default/files/docs/city-services/emergencyprepared/hot_weather_response_plan.pdf",
-    "pdf_drive_link": "",
-    "summary": "",
-    "json_file": "plans/Canada_unknown_2011_1765305143198.json"
+    "year": 2011,
+    "submitter_name": "",
+    "submitter_email": "",
+    "submitted_at": "2025-12-09T18:32:19.288Z"
   },
   {
     "title": "Port Moody Climate Action Plan ",
     "country": "Canada",
     "region": "",
     "city": "Port Moody",
-    "year": "2020",
-    "organization": "City of Port Moody Planning Division",
-    "source_type": "url",
-    "url": "https://api.ghdcdn.com/portmoody-edocs/v1/eDocs/Get?docnumber=511721",
-    "pdf_drive_link": "",
-    "summary": "",
-    "json_file": "plans/Canada_unknown_2020_1765305672764.json"
+    "year": 2020,
+    "submitter_name": "",
+    "submitter_email": "",
+    "submitted_at": "2025-12-09T18:41:10.618Z"
   },
   {
-    "title": "South Africa National Heat Health Action Plan Guidelines",
-    "country": "South Africa",
-    "region": "",
+    "title": "Excessive Heat Emergency Response Plan",
+    "country": "United States",
+    "region": "New Hampshire",
     "city": "",
-    "year": "2020",
-    "organization": "Department of Health ",
-    "source_type": "url",
-    "url": "http://www.health.gov.za/wp-content/uploads/2022/06/National-Heat-Health-Action-Guidelines.pdf",
-    "pdf_drive_link": "",
-    "summary": "",
-    "json_file": "plans/South_Africa_unknown_2020_1765302866558.json"
+    "year": 2014,
+    "submitter_name": "",
+    "submitter_email": "",
+    "submitted_at": "2025-12-10T15:47:52.085Z"
   }
 ]
