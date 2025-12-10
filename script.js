@@ -139,13 +139,21 @@ function renderTable(plans, tableBody) {
 
 // determine which link to use for the plan
 function determinePlanLink(plan) {
-  // Prefer url if present; otherwise fall back to pdf_drive_link
+  // 1️⃣ Prefer URL if provided
   if (plan.url && plan.url.startsWith("http")) {
     return plan.url;
   }
+
+  // 2️⃣ Next: GitHub-hosted PDF uploaded automatically
+  if (plan.pdf_link && plan.pdf_link.startsWith("http")) {
+    return plan.pdf_link;
+  }
+
+  // 3️⃣ Last: Google Drive fallback (old system)
   if (plan.pdf_drive_link && plan.pdf_drive_link.startsWith("http")) {
     return plan.pdf_drive_link;
   }
+
   return null;
 }
 
