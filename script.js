@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // Fetch the master index
 function fetchPlansIndex() {
-  return fetch("plans_index.json")
+  return fetch("plans_index.json?ts=" + Date.now())
     .then(res => res.json())
     .catch(err => {
       console.error("Error loading plans_index.json:", err);
