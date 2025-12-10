@@ -1,215 +1,224 @@
-// Load and initialize the table, map, and filters when the page loads
-document.addEventListener("DOMContentLoaded", init);
-
-async function init() {
-  const plans = await loadPlans();
-
-  if (document.getElementById("plansTableBody")) {
-    populateCountryFilter(plans);
-    renderTable(plans);
+// Helper: detect which page we are on
+document.addEventListener("DOMContentLoaded", () => {
+  if (document.getElementById("plansTable")) {
+    initTableView();
   }
-
   if (document.getElementById("map")) {
-    initMap(plans);
+    initMapView();
   }
+});
+
+// Fetch the master index
+function fetchPlansIndex() {
+  return fetch("plans_index.json?ts=" + Date.now())
+    .then(res => res.json())
+    .catch(err => {
+      console.error("Error loading plans_index.json:", err);
+      return [];
+    });
 }
 
-/* -----------------------------------------------------------
-   LOAD DATA
------------------------------------------------------------- */
+// TABLE VIEW
+function initTableView() {
+  const tableBody = document.querySelector("#plansTable tbody");
+  const searchInput = document.getElementById("searchInput");
+  const countryFilter = document.getElementById("countryFilter");
 
-async function loadPlans() {
-  const response = await fetch("plans_index.json");
-  const data = await response.json();
-  return data;
-}
+  fetchPlansIndex().then(data => {
+    let plans = data || [];
 
-/* -----------------------------------------------------------
-   DETERMINE PLAN LINK (UPDATED)
------------------------------------------------------------- */
+    // populate country filter options
+    const countries = Array.from(
+      new Set(plans.map(p => p.country).filter(Boolean))
+    ).sort((a, b) => a.localeCompare(b));
 
-function determinePlanLink(plan) {
-  // Prefer a normal website URL
-  if (plan.url && plan.url.startsWith("http")) {
-    return { link: plan.url, type: "url" };
-  }
+    countries.forEach(country => {
+      const opt = document.createElement("option");
+      opt.value = country;
+      opt.textContent = country;
+      countryFilter.appendChild(opt);
+    });
 
-  // GitHub-hosted PDF
-  if (plan.pdf_link && plan.pdf_link.startsWith("http")) {
-    return { link: plan.pdf_link, type: "pdf" };
-  }
+    // sort plans by country before rendering
+plans.sort((a, b) => {
+  const cA = (a.country || "").toLowerCase();
+  const cB = (b.country || "").toLowerCase();
+  return cA.localeCompare(cB);
+});
+    
+    // render initial table
+    renderTable(plans, tableBody);
 
-  // Legacy Drive PDF (older plans)
-  if (plan.pdf_drive_link && plan.pdf_drive_link.startsWith("http")) {
-    return { link: plan.pdf_drive_link, type: "pdf" };
-  }
+    // search + filter handlers
+    function applyFilters() {
+      const searchTerm = searchInput.value.toLowerCase().trim();
+      const selectedCountry = countryFilter.value;
 
-  return { link: null, type: null };
-}
+      const filtered = plans.filter(plan => {
+        // country filter
+        if (selectedCountry && plan.country !== selectedCountry) {
+          return false;
+        }
 
-/* -----------------------------------------------------------
-   POPULATE COUNTRY FILTER
------------------------------------------------------------- */
+        // search across several fields
+        const haystack = [
+          plan.title,
+          plan.country,
+          plan.region,
+          plan.city,
+          plan.year,
+          plan.organization,
+          plan.summary
+        ]
+          .map(v => (v || "").toString().toLowerCase())
+          .join(" ");
 
-function populateCountryFilter(plans) {
-  const select = document.getElementById("countryFilter");
-  const countries = [...new Set(plans.map((p) => p.country).filter(Boolean))].sort();
+        if (searchTerm && !haystack.includes(searchTerm)) {
+          return false;
+        }
+        return true;
+      });
 
-  countries.forEach((country) => {
-    const option = document.createElement("option");
-    option.value = country;
-    option.textContent = country;
-    select.appendChild(option);
+      renderTable(filtered, tableBody);
+    }
+
+    searchInput.addEventListener("input", applyFilters);
+    countryFilter.addEventListener("change", applyFilters);
   });
 }
 
-/* -----------------------------------------------------------
-   RENDER TABLE (UPDATED LINK LOGIC)
------------------------------------------------------------- */
+function renderTable(plans, tableBody) {
+  tableBody.innerHTML = "";
 
-function renderTable(plans) {
-  const tbody = document.getElementById("plansTableBody");
-  const filterValue = document.getElementById("countryFilter").value.toLowerCase();
-  const searchValue = document.getElementById("searchInput").value.toLowerCase();
-
-  tbody.innerHTML = "";
-
-  plans.forEach((plan) => {
-    const countryMatch = !filterValue || plan.country.toLowerCase() === filterValue;
-    const searchMatch =
-      plan.title.toLowerCase().includes(searchValue) ||
-      plan.country.toLowerCase().includes(searchValue) ||
-      (plan.region || "").toLowerCase().includes(searchValue) ||
-      (plan.city || "").toLowerCase().includes(searchValue);
-
-    if (!countryMatch || !searchMatch) return;
-
+  plans.forEach(plan => {
     const tr = document.createElement("tr");
 
-    tr.innerHTML = `
-      <td>${plan.title}</td>
-      <td>${plan.country}</td>
-      <td>${plan.region || ""}</td>
-      <td>${plan.city || ""}</td>
-      <td>${plan.year || ""}</td>
-      <td>${plan.organization || ""}</td>
-    `;
+    const titleTd = document.createElement("td");
+    titleTd.textContent = plan.title || "";
 
-    // Link logic
+    const countryTd = document.createElement("td");
+    countryTd.textContent = plan.country || "";
+
+    const regionTd = document.createElement("td");
+    regionTd.textContent = plan.region || "";
+
+    const cityTd = document.createElement("td");
+    cityTd.textContent = plan.city || "";
+
+    const yearTd = document.createElement("td");
+    yearTd.textContent = plan.year || "";
+
+    const orgTd = document.createElement("td");
+    orgTd.textContent = plan.organization || "";
+
     const linkTd = document.createElement("td");
-    const { link, type } = determinePlanLink(plan);
-
+    const link = determinePlanLink(plan);
     if (link) {
       const a = document.createElement("a");
       a.href = link;
       a.target = "_blank";
       a.rel = "noopener noreferrer";
       a.className = "plan-link-btn";
-      a.textContent = type === "pdf" ? "Download PDF" : "Open Plan";
+      a.textContent = "Open plan";
       linkTd.appendChild(a);
     } else {
       linkTd.textContent = "No link available";
     }
 
+    tr.appendChild(titleTd);
+    tr.appendChild(countryTd);
+    tr.appendChild(regionTd);
+    tr.appendChild(cityTd);
+    tr.appendChild(yearTd);
+    tr.appendChild(orgTd);
     tr.appendChild(linkTd);
-    tbody.appendChild(tr);
+
+    tableBody.appendChild(tr);
   });
 }
 
-/* -----------------------------------------------------------
-   MAP INITIALIZATION
------------------------------------------------------------- */
+// determine which link to use for the plan
+function determinePlanLink(plan) {
+  // 1️⃣ Prefer URL if provided
+  if (plan.url && plan.url.startsWith("http")) {
+    return plan.url;
+  }
 
-function initMap(plans) {
-  const map = L.map("map").setView([20, 0], 2);
+  // 2️⃣ Next: GitHub-hosted PDF uploaded automatically
+  if (plan.pdf_link && plan.pdf_link.startsWith("http")) {
+    return plan.pdf_link;
+  }
 
-  L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
-    maxZoom: 5,
-    attribution: "© OpenStreetMap",
-  }).addTo(map);
+  // 3️⃣ Last: Google Drive fallback (old system)
+  if (plan.pdf_drive_link && plan.pdf_drive_link.startsWith("http")) {
+    return plan.pdf_drive_link;
+  }
 
-  const groupedByCountry = groupPlansByCountry(plans);
-
-  Object.entries(groupedByCountry).forEach(([country, plansInCountry]) => {
-    const coords = lookupCountryCoords(country);
-    if (!coords) return;
-
-    const marker = L.marker(coords).addTo(map);
-    marker.bindPopup(createCountryPopupHtml(country, plansInCountry));
-  });
+  return null;
 }
 
-/* -----------------------------------------------------------
-   GROUPING & POPUP CONTENT (UPDATED LINK LOGIC)
------------------------------------------------------------- */
+// MAP VIEW
+function initMapView() {
+  fetchPlansIndex().then(plans => {
+    // Basic world map centered approx. on 0,0
+    const map = L.map("map").setView([20, 0], 2);
 
-function groupPlansByCountry(plans) {
-  const grouped = {};
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      maxZoom: 6,
+      attribution: "&copy; OpenStreetMap contributors"
+    }).addTo(map);
 
-  plans.forEach((plan) => {
-    if (!grouped[plan.country]) {
-      grouped[plan.country] = [];
-    }
-    grouped[plan.country].push(plan);
+    // Simple country -> lat/lng mapping (extend over time)
+    const countryCoords = {
+      "USA": [37.8, -96.9],
+      "United States": [37.8, -96.9],
+      "Mexico": [23.6, -102.5],
+      "Canada": [56.1, -106.3],
+      "United Kingdom": [55.3, -3.4],
+      "UK": [55.3, -3.4],
+      "South Africa": [-30.6, 22.9],
+      "India": [20.6, 78.9],
+      "Australia": [-25.3, 133.8],
+      "Argentina": [-38.4, -63.6],
+      // Add more as you collect plans
+    };
+
+    // Group plans by country
+    const plansByCountry = {};
+    plans.forEach(plan => {
+      const c = plan.country || "Unknown";
+      if (!plansByCountry[c]) plansByCountry[c] = [];
+      plansByCountry[c].push(plan);
+    });
+
+    Object.keys(plansByCountry).forEach(country => {
+      const coords = countryCoords[country];
+      if (!coords) {
+        // No coordinates configured for this country yet
+        return;
+      }
+
+      const plansList = plansByCountry[country];
+      const popupHtml = createCountryPopupHtml(country, plansList);
+
+      L.marker(coords)
+        .addTo(map)
+        .bindPopup(popupHtml);
+    });
   });
-
-  return grouped;
 }
 
 function createCountryPopupHtml(country, plans) {
   let html = `<strong>${country}</strong><br><ul>`;
-
-  plans.forEach((plan) => {
-    const { link, type } = determinePlanLink(plan);
+  plans.forEach(plan => {
+    const link = determinePlanLink(plan);
     const safeTitle = plan.title || "Unnamed plan";
-
     if (link) {
-      const label = type === "pdf" ? "Download PDF" : "Open Plan";
-      html += `<li><a href="${link}" target="_blank" rel="noopener noreferrer">${safeTitle} – ${label}</a></li>`;
+      html += `<li><a href="${link}" target="_blank" rel="noopener noreferrer">${safeTitle}</a></li>`;
     } else {
       html += `<li>${safeTitle} (no link)</li>`;
     }
   });
-
   html += "</ul>";
   return html;
 }
-
-/* -----------------------------------------------------------
-   COUNTRY COORDINATES
------------------------------------------------------------- */
-
-function lookupCountryCoords(country) {
-  const countryCoords = {
-    "United States": [37.8, -96.9],
-    "Canada": [56.1304, -106.3468],
-    "Argentina": [-38.4161, -63.6167],
-    "Australia": [-25.2744, 133.7751],
-    "India": [20.5937, 78.9629],
-    "China": [35.8617, 104.1954],
-    "Japan": [36.2048, 138.2529],
-    "France": [46.2276, 2.2137],
-    "Germany:" [51.1657, 10.4515],
-    "Spain": [40.4637, -3.7492],
-    "Mexico": [23.6345, -102.5528],
-    "Brazil": [-14.235, -51.9253],
-    "South Africa": [-30.5595, 22.9375],
-    "Italy": [41.8719, 12.5674],
-    "Chile": [-35.6751, -71.543],
-    "Peru": [-9.19, -75.0152]
-  };
-
-  return countryCoords[country] || null;
-}
-
-/* -----------------------------------------------------------
-   FILTER EVENT LISTENERS
------------------------------------------------------------- */
-
-document.getElementById("countryFilter")?.addEventListener("change", () => {
-  loadPlans().then(renderTable);
-});
-
-document.getElementById("searchInput")?.addEventListener("input", () => {
-  loadPlans().then(renderTable);
-});
