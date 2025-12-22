@@ -4,6 +4,7 @@
   "region": "",
   "city": "Port Moody",
   "year": 2020,
+  "organization": "City of Port Moody Planning Division",
   "url": "https://api.ghdcdn.com/portmoody-edocs/v1/eDocs/Get?docnumber=511721",
   "pdf_link": "",
   "submitter_name": "",
