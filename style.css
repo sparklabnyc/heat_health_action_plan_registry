@@ -152,4 +152,17 @@ footer {
   z-index: 2;
 }
 
+.table-wrapper {
+  max-height: 70vh;
+  overflow-y: auto;
+}
+
+#plansTable thead th {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background-color: #ffffff;
+  border-bottom: 2px solid #ccc;
+}
+
 
