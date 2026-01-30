@@ -2,6 +2,8 @@
   {
     "title": "South Africa National Heat Health Action Plan Guidelines",
     "country": "South Africa",
+    "region": "",
+    "city": "",
     "year": 2020,
     "organization": "Department of Health ",
     "url": "http://www.health.gov.za/wp-content/uploads/2022/06/National-Heat-Health-Action-Guidelines.pdf",
@@ -13,6 +15,8 @@
   {
     "title": "Pitt Meadows Hot Weather Response Plan",
     "country": "Canada",
+    "region": "",
+    "city": "Pitt Meadows ",
     "year": 2011,
     "organization": "City of Pitt Meadows",
     "url": "https://www.pittmeadows.ca/sites/default/files/docs/city-services/emergencyprepared/hot_weather_response_plan.pdf",
@@ -24,6 +28,8 @@
   {
     "title": "Port Moody Climate Action Plan ",
     "country": "Canada",
+    "region": "",
+    "city": "Port Moody",
     "year": 2020,
     "organization": "City of Port Moody Planning Division",
     "url": "https://api.ghdcdn.com/portmoody-edocs/v1/eDocs/Get?docnumber=511721",
@@ -35,6 +41,8 @@
   {
     "title": "Excessive Heat Emergency Response Plan",
     "country": "United States",
+    "region": "New Hampshire",
+    "city": "",
     "year": 2014,
     "organization": "New Hampshire Department of Health and Human Services",
     "url": "https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/documents/2021-11/nh-excessive-heat-plan-2014.pdf",
@@ -46,6 +54,8 @@
   {
     "title": "Surrey's Extreme Heat Response Guideline",
     "country": "Canada",
+    "region": "",
+    "city": "Surrey",
     "year": 2024,
     "organization": "City of Surrey Emergency Program",
     "url": "https://heathealth.info/wp-content/uploads/2024-surrey-extreme-heat-response-guideline.pdf",
@@ -57,6 +67,8 @@
   {
     "title": "City of Greater Sudbury Hot Weather Response Plan",
     "country": "Canada",
+    "region": "",
+    "city": "Sudbury",
     "year": 2010,
     "organization": "Sudbury and District Health Unit",
     "url": "https://www.greatersudbury.ca/sites/sudburyen/assets/content/div_emergprep/documents/hot_weather_response_plan_2010.pdf",
@@ -68,6 +80,8 @@
   {
     "title": "Maryland Department of Health Extreme Heat Emergency Plan",
     "country": "United States",
+    "region": "Maryland",
+    "city": "",
     "year": 2023,
     "organization": "Maryland Department of Health",
     "url": "https://health.maryland.gov/preparedness/Documents/MDH%20Extreme%20Heat%20Emergency%20Plan%202023.pdf",
@@ -79,6 +93,8 @@
   {
     "title": "City of Austin Heat Resilience Playbook",
     "country": "United States",
+    "region": "",
+    "city": "Austin",
     "year": 2023,
     "organization": "City of Austin Office of Resilience",
     "url": "https://www.austintexas.gov/sites/default/files/files/Resilience/Austin-heat-resilience-playbook.pdf",
@@ -90,10 +106,12 @@
   {
     "title": "BC Provincial Heat Alert and Response System (BC HARS)",
     "country": "Canada",
+    "region": "British Columbia",
+    "city": "",
     "year": 2023,
     "organization": "BC Ministry of Health",
     "url": "",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Canada__2023_9.pdf",
+    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Canada_British_Columbia_2023_9.pdf",
     "submitter_name": "",
     "submitter_email": "",
     "submitted_at": "2025-12-10T18:35:07.708Z"
@@ -101,6 +119,8 @@
   {
     "title": "Keep Metro Boston Cool",
     "country": "United States",
+    "region": "",
+    "city": "Boston ",
     "year": 2022,
     "organization": "Metro Mayors Coalition ",
     "url": "",
@@ -112,6 +132,8 @@
   {
     "title": "City of Phoenix 2024 Heat Response Plan",
     "country": "United States",
+    "region": "",
+    "city": "Phoenix ",
     "year": 2024,
     "organization": "Heat Ready PHX",
     "url": "https://www.phoenix.gov/content/dam/phoenix/heatsite/documents/FINAL%20-%202024%20Heat%20Response%20Plan%20.pdf",
@@ -123,6 +145,8 @@
   {
     "title": "PDMA Khyber Pakhtunkhwa Heat Wave Action Plan",
     "country": "Pakistan",
+    "region": "Khyber Pakhtunkhwa",
+    "city": "",
     "year": 2022,
     "organization": "Provincial Disaster Management Authority - Khyber Pakhtunkhwa",
     "url": "https://heathealth.info/resources/heat-wave-action-plan-government-of-khyber-pakhtunkhwa/",
@@ -134,6 +158,8 @@
   {
     "title": "Karachi Heatwave Management: A Guide to Planning and Response",
     "country": "Pakistan",
+    "region": "",
+    "city": "Karachi",
     "year": 2017,
     "organization": "Commissioner Karachi",
     "url": "https://heathealth.info/wp-content/uploads/HeatwaveManagementPlan.pdf",
@@ -145,6 +171,8 @@
   {
     "title": "Contingency Plan for Seasonal Health Response",
     "country": "Portugal",
+    "region": "",
+    "city": "",
     "year": 2023,
     "organization": "Ministry of Health",
     "url": "",
@@ -156,6 +184,8 @@
   {
     "title": "National Plan for Adaptation to Climate Change",
     "country": "Italy",
+    "region": "",
+    "city": "",
     "year": 2022,
     "organization": "Ministry of Health and Energy Security",
     "url": "",
@@ -167,6 +197,8 @@
   {
     "title": "Heatwave Plan",
     "country": "Luxembourg",
+    "region": "",
+    "city": "",
     "year": 2023,
     "organization": "Ministry of Health",
     "url": "",
@@ -178,6 +210,8 @@
   {
     "title": "Hydrometeorological Contingency Plan",
     "country": "Argentina",
+    "region": "",
+    "city": "La Plata ",
     "year": 2014,
     "organization": "La Plata Municipality",
     "url": "",
@@ -189,10 +223,12 @@
   {
     "title": "Andalusian Plan for the prevention of the effects of excessive temperatures on health",
     "country": "Spain",
+    "region": "Andalusia",
+    "city": "",
     "year": 2022,
     "organization": "Andalusian government",
     "url": "",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Spain__2022_18.pdf",
+    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Spain_Andalusia_2022_18.pdf",
     "submitter_name": "",
     "submitter_email": "",
     "submitted_at": "2025-12-22T19:51:09.829Z"
@@ -200,6 +236,8 @@
   {
     "title": "Preventive action plan for the effects of excess temperatures on health",
     "country": "Spain",
+    "region": "Cantabria ",
+    "city": "",
     "year": 2022,
     "organization": "Ministry of Health of Cantabria ",
     "url": "https://heathealth.info/resources/plan-de-actuaciones-preventivas-de-los-efectos-del-exceso-de-temperaturas-sobre-la-salud-cantabria-2022/",
@@ -211,6 +249,8 @@
   {
     "title": "National Plan for preventive actions for the effects of excess temperatures on health",
     "country": "Spain",
+    "region": "",
+    "city": "",
     "year": 2023,
     "organization": "Ministry of Health",
     "url": "",
@@ -222,6 +262,8 @@
   {
     "title": "Heatwave Action Plan",
     "country": "Sweden",
+    "region": "",
+    "city": "Ekero ",
     "year": 2023,
     "organization": "Ekero Municipality Government ",
     "url": "",
@@ -233,6 +275,8 @@
   {
     "title": "National Heatwave Plan",
     "country": "Netherlands",
+    "region": "",
+    "city": "",
     "year": 2015,
     "organization": "National Institute for Public Health and the Environment",
     "url": "https://www.rivm.nl/bibliotheek/rapporten/2014-0051.pdf",
@@ -244,6 +288,8 @@
   {
     "title": "Dealing with the health effects of heat waves. Guidance for action plans.",
     "country": "Sweden",
+    "region": "",
+    "city": "",
     "year": 2022,
     "organization": "Public Health Agency of Sweden",
     "url": "https://www.folkhalsomyndigheten.se/publikationer-och-material/publikationsarkiv/a/att-hantera-halsoeffekter-av-varmeboljor-vagledning-till-handlingsplaner/",
@@ -255,6 +301,8 @@
   {
     "title": "Adverse Weather and Health Plan. Protecting health from weather related harm.",
     "country": "England, UK",
+    "region": "",
+    "city": "",
     "year": 2024,
     "organization": "UK Health Security Agency",
     "url": "https://www.gov.uk/government/publications/adverse-weather-and-health-plan",
@@ -266,6 +314,8 @@
   {
     "title": "General government heat protection plan",
     "country": "Austria",
+    "region": "",
+    "city": "",
     "year": 2017,
     "organization": "Ministry of Women's Health",
     "url": "https://climate-adapt.eea.europa.eu/en/metadata/case-studies/operation-of-the-austrian-heat-protection-plan/austrian_heat_protection_plan-2017.pdf/@@download/file",
@@ -277,6 +327,8 @@
   {
     "title": "Monitoring and Control of the Effects of Heatwaves",
     "country": "Spain",
+    "region": "",
+    "city": "Madrid",
     "year": 2022,
     "organization": "General Directorate of Public Health",
     "url": "https://www.comunidad.madrid/sites/default/files/doc/sanidad/calo/20220614_plan_vigilancia_olas_de_calor_2022.pdf",
@@ -288,6 +340,8 @@
   {
     "title": "Heat Protection Plan Tyrol",
     "country": "Austria",
+    "region": "Tirol ",
+    "city": "",
     "year": 2023,
     "organization": "Tirol Regional Government",
     "url": "https://www.preventionweb.net/publication/policies-and-plans/austria-heat-protection-plan-tirol",
@@ -299,6 +353,8 @@
   {
     "title": "National public health and heat prevention 2016-2020 action plan",
     "country": "Lithuania",
+    "region": "",
+    "city": "",
     "year": 2016,
     "organization": "Ministry of Health",
     "url": "",
@@ -310,6 +366,8 @@
   {
     "title": "Plan for monitoring and preventing the effects of excessive temperatures on health",
     "country": "Spain",
+    "region": "Extremadura",
+    "city": "",
     "year": 2013,
     "organization": "Extremadura Health Servicee",
     "url": "https://saludextremadura.ses.es/filescms/web/uploaded_files/CustomContentResources/1%20Ola%20calor%20Plan%20Extremadura.pdf",
@@ -321,10 +379,12 @@
   {
     "title": "Styrian heat protection plan",
     "country": "Austria",
+    "region": "Styria",
+    "city": "",
     "year": 2023,
     "organization": "Styria Department of Health",
     "url": "",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Austria__2023_30.pdf",
+    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Austria_Styria_2023_30.pdf",
     "submitter_name": "",
     "submitter_email": "",
     "submitted_at": "2025-12-22T22:25:32.234Z"
@@ -332,6 +392,8 @@
   {
     "title": "Heat protection plan for health of the Federal Ministry of Health",
     "country": "Germany",
+    "region": "",
+    "city": "",
     "year": 2023,
     "organization": "Ministry of Health",
     "url": "https://www.bundesgesundheitsministerium.de/ministerium/meldungen/lauterbach-besser-auf-gesundheitliche-auswirkungen-von-hitze-vorbereiten",
@@ -343,6 +405,8 @@
   {
     "title": "Vaud health prevention and intervention plan in case of heatwave",
     "country": "Switzerland",
+    "region": "Vaud",
+    "city": "",
     "year": 2020,
     "organization": "General direction of health",
     "url": "https://heathealth.info/wp-content/uploads/Plan_vaudois_canicule_2020.pdf",
@@ -354,6 +418,8 @@
   {
     "title": "National Heatwave Plan",
     "country": "France",
+    "region": "",
+    "city": "",
     "year": 2017,
     "organization": "Various federal government departments",
     "url": "https://sante.gouv.fr/IMG/pdf/pnc_actualise_2017.pdf",
@@ -365,10 +431,12 @@
   {
     "title": "Vorarlberg Heat Protection Plan",
     "country": "Austria",
+    "region": "Vorarlberg",
+    "city": "",
     "year": 2020,
     "organization": "Vorarlberg State Government Department of Health",
     "url": "",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Austria__2020_34.pdf",
+    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Austria_Vorarlberg_2020_34.pdf",
     "submitter_name": "",
     "submitter_email": "",
     "submitted_at": "2025-12-22T22:40:14.941Z"
@@ -376,6 +444,8 @@
   {
     "title": "Heatwaves and high temperatures: Action plan and advice for those who work in Kalmar municipality",
     "country": "Sweden",
+    "region": "",
+    "city": "Kalmar",
     "year": 2020,
     "organization": "Kalmar government",
     "url": "",
@@ -387,6 +457,8 @@
   {
     "title": "A catalogue of measures to protect human health from heat",
     "country": "Switzerland",
+    "region": "",
+    "city": "",
     "year": 2021,
     "organization": "Swiss Tropical and Public Health Institute",
     "url": "",
@@ -398,6 +470,8 @@
   {
     "title": "Guidance for Local Heat Plans",
     "country": "Netherlands",
+    "region": "",
+    "city": "",
     "year": 2019,
     "organization": "Ministry of Infrastructure and Water Management",
     "url": "https://klimaatadaptatienederland.nl/hulpmiddelen/overzicht/lokaal-hitteplan/",
@@ -409,6 +483,8 @@
   {
     "title": "Vienna Heat Action Plan ",
     "country": "Austria",
+    "region": "",
+    "city": "Vienna",
     "year": 2022,
     "organization": "Vienna City Government",
     "url": "",
@@ -420,6 +496,8 @@
   {
     "title": "Flemish Heat Action Plan",
     "country": "Belgium",
+    "region": "Flanders",
+    "city": "",
     "year": 2024,
     "organization": "Flemish government ",
     "url": "https://heathealth.info/resources/vlaams-warmteactieplan-flemish-heat-actionplan/#:~:text=This%20plan%20outlines%20how%20and,health%20effects%20due%20to%20heat.",
@@ -431,6 +509,8 @@
   {
     "title": "Heat-Health Action Plan of the former Yugoslav Republic of Macedonia",
     "country": "North Macedonia ",
+    "region": "",
+    "city": "",
     "year": 2011,
     "organization": "Federal Ministry for the Environment, Nature Conservation and Nuclear Safety",
     "url": "https://iris.who.int/items/608d8fdd-be15-460d-83b6-092ef889ef24",
@@ -442,6 +522,8 @@
   {
     "title": "State Heatwave Subplan, A subplan of the NSW state emergency management plan",
     "country": "Australia",
+    "region": "New South Whales",
+    "city": "",
     "year": 2023,
     "organization": "New South Whales Government",
     "url": "https://heathealth.info/wp-content/uploads/Heatwave_Sub_plan_June_2023.pdf",
@@ -453,10 +535,12 @@
   {
     "title": "South Australia Health Extreme Heat and Heatwave Strategy",
     "country": "Australia",
+    "region": "South Australia ",
+    "city": "",
     "year": 2023,
     "organization": "Government of South Australia Disaster Management Branch",
     "url": "",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Australia__2023_42.pdf",
+    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Australia_South_Australia__2023_42.pdf",
     "submitter_name": "",
     "submitter_email": "",
     "submitted_at": "2025-12-22T23:01:47.760Z"
@@ -464,6 +548,8 @@
   {
     "title": "Turn Down the Heat Strategy and Action Plan",
     "country": "Australia",
+    "region": "Western Sydney",
+    "city": "",
     "year": 2018,
     "organization": "Western Sydney Regional Organization of Councils",
     "url": "https://wsroc.com.au/projects/project-turn-down-the-heat#:~:text=Turn%20Down%20the%20Heat%20Strategy%20and%20Action%20Plan%20(2018)&text=The%20strategy%20outlines%20five%20key,with%20green%20space%20and%20water",
@@ -475,6 +561,8 @@
   {
     "title": "Heat Health Plans: Guidelines",
     "country": "New Zealand",
+    "region": "",
+    "city": "",
     "year": 2023,
     "organization": "Ministry of Health",
     "url": "https://www.tewhatuora.govt.nz/publications/heat-health-plans-guidelines",
@@ -486,6 +574,8 @@
   {
     "title": "State Emergency Response Plan Extreme Heat Sub-Plan, Edition 2",
     "country": "Australia",
+    "region": "Victoria ",
+    "city": "",
     "year": 2017,
     "organization": "Emergency Management Victoria",
     "url": "https://files-em.em.vic.gov.au/public/EMV-web/SERP-StateExtremeHeatSub-plan.pdf",
@@ -497,6 +587,8 @@
   {
     "title": "National Guideline on Heat-Related Ilness",
     "country": "Bangladesh",
+    "region": "",
+    "city": "",
     "year": 2024,
     "organization": "Ministry of Health and Family Welfare",
     "url": "https://dghs.gov.bd/sites/default/files/files/dghs.portal.gov.bd/notices/23e5ad95_395e_4e75_8602_23d266ffd6ca/2024-07-09-04-39-d4da562016555d65823ffb4c2a52a9ef.pdf",
@@ -508,6 +600,8 @@
   {
     "title": "Nepalgunj Heat Action Plan",
     "country": "Nepal",
+    "region": "",
+    "city": "Nepalgunj",
     "year": 2023,
     "organization": "Red Cross Red Crescent Climate Centre",
     "url": "https://heathealth.info/resources/nepalgunj-heat-action-plan-2023/",
@@ -519,6 +613,8 @@
   {
     "title": "Heat Wave Action Plan Bhubaneswar City",
     "country": "India",
+    "region": "",
+    "city": "Bhubaneswar",
     "year": 2020,
     "organization": "Integrated Research and Action for Development",
     "url": "",
@@ -530,6 +626,8 @@
   {
     "title": "Rajouri Heat Wave Action Plan 2024-2025",
     "country": "India",
+    "region": "Rajouri",
+    "city": "",
     "year": 2024,
     "organization": "Divisional Disaster Management Authority and District Disaster Management Authority",
     "url": "https://cdn.s3waas.gov.in/s31aa48fc4880bb0c9b8a3bf979d3b917e/uploads/2024/04/2024041262.pdf",
@@ -541,6 +639,8 @@
   {
     "title": "Samba Heat Wave Action Plan",
     "country": "India",
+    "region": "Samba",
+    "city": "",
     "year": 2024,
     "organization": "District Disaster Management Authority",
     "url": "https://cdn.s3waas.gov.in/s3a97da629b098b75c294dffdc3e463904/uploads/2024/04/2024040464.pdf",
@@ -552,6 +652,8 @@
   {
     "title": "Vadodara Heat Wave Action Plan",
     "country": "India",
+    "region": "",
+    "city": "Vadadora",
     "year": 2024,
     "organization": "",
     "url": "",
@@ -563,10 +665,12 @@
   {
     "title": "Srinagar Heat Wave Action Plan 2024-2025",
     "country": "India",
+    "region": "Srinagar",
+    "city": "",
     "year": 2024,
     "organization": "",
     "url": "",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/India__2024_52.pdf",
+    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/India_Srinagar_2024_52.pdf",
     "submitter_name": "",
     "submitter_email": "",
     "submitted_at": "2026-01-02T14:35:21.252Z"
@@ -574,10 +678,12 @@
   {
     "title": "District Kathua Heat Wave Action Plan",
     "country": "India",
+    "region": "Kathua",
+    "city": "",
     "year": 2024,
     "organization": "",
     "url": "",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/India__2024_53.pdf",
+    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/India_Kathua_2024_53.pdf",
     "submitter_name": "",
     "submitter_email": "",
     "submitted_at": "2026-01-02T14:36:32.532Z"
@@ -585,10 +691,12 @@
   {
     "title": "Heat Wave Action Plan, Nuapada",
     "country": "India",
+    "region": "Nuapada",
+    "city": "",
     "year": 2023,
     "organization": "",
     "url": "",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/India__2023_54.pdf",
+    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/India_Nuapada_2023_54.pdf",
     "submitter_name": "",
     "submitter_email": "",
     "submitted_at": "2026-01-02T14:48:21.580Z"
@@ -596,6 +704,8 @@
   {
     "title": "Heat Wave Action Plan Patiala",
     "country": "India",
+    "region": "Patiala",
+    "city": "",
     "year": 2022,
     "organization": "",
     "url": "https://cdn.s3waas.gov.in/s38cb22bdd0b7ba1ab13d742e22eed8da2/uploads/2022/04/2022042190.pdf",
@@ -607,6 +717,8 @@
   {
     "title": "Pulwama Heat Wave Action Plan 2024-25",
     "country": "India",
+    "region": "Pulwama",
+    "city": "",
     "year": 2024,
     "organization": "",
     "url": "https://cdn.s3waas.gov.in/s3c75b6f114c23a4d7ea11331e7c00e73c/uploads/2024/03/2024032650.pdf",
@@ -618,6 +730,8 @@
   {
     "title": "Kishtwar Heat Wave Action Plan 2024-25",
     "country": "India",
+    "region": "Kishtwar",
+    "city": "",
     "year": 2024,
     "organization": "",
     "url": "https://cdn.s3waas.gov.in/s317d63b1625c816c22647a73e1482372b/uploads/2024/04/2024040421.pdf",
@@ -629,6 +743,8 @@
   {
     "title": "Doda Heat Wave Action Plan 2024-25",
     "country": "India",
+    "region": "Doda",
+    "city": "",
     "year": 2024,
     "organization": "",
     "url": "https://cdn.s3waas.gov.in/s3dc6a70712a252123c40d2adba6a11d84/uploads/2024/04/2024042368.pdf",
@@ -640,6 +756,8 @@
   {
     "title": "Heat Wave Action Plan-2016. Hazaribagh",
     "country": "India",
+    "region": "Hazaribagh",
+    "city": "",
     "year": 2016,
     "organization": "",
     "url": "https://hazaribag.nic.in/document/heat-wave-action-plan/",
@@ -651,6 +769,8 @@
   {
     "title": "Heat Wave Action Plan Ferozepur 2024",
     "country": "India",
+    "region": "Ferozepur",
+    "city": "",
     "year": 2024,
     "organization": "",
     "url": "https://cdn.s3waas.gov.in/s3a8c88a0055f636e4a163a5e3d16adab7/uploads/2024/03/2024032713.pdf",
@@ -662,6 +782,8 @@
   {
     "title": "Heat Action Plan for Thane City 2024",
     "country": "India",
+    "region": "",
+    "city": "Thane",
     "year": 2024,
     "organization": "",
     "url": "https://theanalysis.org.in/heat-action-plan-for-thane-city-2024/#:~:text=The%20Thane%20Municipal%20Corporation%20released%20a%20heat,Task%20Force%20Committee%20to%20monitor%20the%20plan",
@@ -673,6 +795,8 @@
   {
     "title": "Tamil Nadu Heat Wave Action Plan 2019",
     "country": "India",
+    "region": "Tamil Nadu",
+    "city": "",
     "year": 2019,
     "organization": "",
     "url": "https://heathealth.info/resources/heat-wave-action-plan-2019-tamil-nadu-india/",
@@ -684,6 +808,8 @@
   {
     "title": "Action Plan on Heat Wave West Bengal",
     "country": "India",
+    "region": "West Bengal",
+    "city": "",
     "year": 2023,
     "organization": "",
     "url": "http://wbdmd.gov.in/writereaddata/NW94089.pdf",
@@ -695,6 +821,8 @@
   {
     "title": "Ramban District Heat Wave Action Plan 2024-25",
     "country": "India",
+    "region": "Ramban",
+    "city": "",
     "year": 2024,
     "organization": "",
     "url": "https://cdn.s3waas.gov.in/s3ae0eb3eed39d2bcef4622b2499a05fe6/uploads/2024/04/2024040850.pdf",
@@ -706,6 +834,8 @@
   {
     "title": "Climate Adaptive and Gender Integrated Heat Wave Action Plan of Surat City",
     "country": "India",
+    "region": "",
+    "city": "Surat",
     "year": 2023,
     "organization": "",
     "url": "https://www.apn-gcr.org/wp-content/uploads/2023/06/Climate-Adaptive-and-Gender-Integrated-Heat-Wave-Action-Plan-of-Surat-City.pdf",
@@ -717,6 +847,8 @@
   {
     "title": "Jodhpur Heat Action Plan 2023",
     "country": "India",
+    "region": "",
+    "city": "Jodhpur",
     "year": 2023,
     "organization": "",
     "url": "https://www.nrdc.org/sites/default/files/2023-05/jodhpur-heat-action-plan-2023.pdf",
@@ -728,6 +860,8 @@
   {
     "title": "Ahmedabad Heat Action Plan 2019",
     "country": "India",
+    "region": "",
+    "city": "Ahmedabad",
     "year": 2019,
     "organization": "",
     "url": "https://www.nrdc.org/sites/default/files/ahmedabad-heat-action-plan-2018.pdf",
@@ -739,6 +873,8 @@
   {
     "title": "National Guidelines for Preparation of Action Plan - Prevention and Management of Heat Wave. 2019",
     "country": "India",
+    "region": "",
+    "city": "",
     "year": 2019,
     "organization": "",
     "url": "https://heathealth.info/resources/national-guidelines-for-preparation-of-action-plan-prevention-and-management-of-heat-wave/",
@@ -750,6 +886,8 @@
   {
     "title": "Draft Heat Action Plan. 2017",
     "country": "India",
+    "region": "Rajasthan",
+    "city": "",
     "year": 2017,
     "organization": "",
     "url": "https://heathealth.info/resources/rajasthan-climate-change-projectdraft-heat-action-plan/",
@@ -761,6 +899,8 @@
   {
     "title": "Odisha Heat Action Plan 2022",
     "country": "India",
+    "region": "Odisha",
+    "city": "",
     "year": 2022,
     "organization": "",
     "url": "https://drive.google.com/file/d/1sGLPgnHkc3NeFJjkw4tT2y3y537Ro6-f/view?usp=sharing",
@@ -772,6 +912,8 @@
   {
     "title": "Himachal Pradesh Heat Wave Action Plan 2024",
     "country": "India",
+    "region": "Himachal Pradesh",
+    "city": "",
     "year": 2024,
     "organization": "",
     "url": "https://hpsdma.nic.in/WriteReadData/LINKS/SD2848eecb-53d9-44a0-b272-a56c46fa1ec5.pdf",
@@ -783,6 +925,8 @@
   {
     "title": "Gorakhpur Heat Action Plan",
     "country": "India",
+    "region": "Gorakhpur",
+    "city": "",
     "year": 2019,
     "organization": "",
     "url": "https://www.preventionweb.net/files/68564_68562sopforheatwave2.pdf",
@@ -794,6 +938,8 @@
   {
     "title": "Heat Wave Action Plan-Rajkot City",
     "country": "India",
+    "region": "",
+    "city": "Rajkot",
     "year": 2022,
     "organization": "",
     "url": "https://irade.org/Rajkot-Heat-Action-Plan.pdf",
@@ -805,6 +951,8 @@
   {
     "title": "Heat Wave Action Plan",
     "country": "India",
+    "region": "Uttar Pradesh",
+    "city": "",
     "year": 2024,
     "organization": "",
     "url": "https://upsdma.up.nic.in/2024/Heat_Wave_Action_Plan_2024.pdf",
@@ -816,6 +964,8 @@
   {
     "title": "Haryana Heatwave Action Plan",
     "country": "India",
+    "region": "Haryana",
+    "city": "",
     "year": 2019,
     "organization": "",
     "url": "https://cdnbbsr.s3waas.gov.in/s3d79c6256b9bdac53a55801a066b70da3/uploads/2020/10/2020101187.pdf",
@@ -827,6 +977,8 @@
   {
     "title": "Karnataka state Heat Wave Action Plan 2023-24",
     "country": "India",
+    "region": "Karnataka",
+    "city": "",
     "year": 2023,
     "organization": "",
     "url": "https://heathealth.info/wp-content/uploads/Karnataka-heat-action-plan-.pdf",
@@ -838,6 +990,8 @@
   {
     "title": "The Telangana State Heatwave Action Plan 2021",
     "country": "India",
+    "region": "Telangana",
+    "city": "",
     "year": 2021,
     "organization": "",
     "url": "https://heathealth.info/wp-content/uploads/ts-heatwave-action-plan-2021-signed-compressed.pdf",
@@ -849,6 +1003,8 @@
   {
     "title": "Gujarat State Action Plan-Prevention and Mitigation of Impacts of Heat Wave 2020",
     "country": "India",
+    "region": "Gujarat",
+    "city": "",
     "year": 2020,
     "organization": "",
     "url": "http://www.gsdma.org/uploads/Assets/other/gujaratstateheatwaveactionplan2020-2104252020024137455.pdf",
@@ -860,6 +1016,8 @@
   {
     "title": "Heat Action Plan 2020",
     "country": "India",
+    "region": "Odisha",
+    "city": "",
     "year": 2020,
     "organization": "",
     "url": "https://www.osdma.org/preparedness/one-stop-risk-management-system/heat-wave/#gsc.tab=0",
@@ -871,6 +1029,8 @@
   {
     "title": "Goa Heatwave Action Plan",
     "country": "India",
+    "region": "Goa",
+    "city": "",
     "year": 2024,
     "organization": "",
     "url": "http://www.gsdma.org/uploads/Assets/other/gujaratstateheatwaveactionplan2020-2104252020024137455.pdf",
@@ -882,6 +1042,8 @@
   {
     "title": "Delhi Heat Action Plan 2024-25",
     "country": "India",
+    "region": "Delhi",
+    "city": "",
     "year": 2024,
     "organization": "",
     "url": "https://ddma.delhi.gov.in/sites/default/files/ddma/generic_multiple_files/final_hap_12.04.2024.pdf",
@@ -893,6 +1055,8 @@
   {
     "title": "Bihar Heat Action Plan",
     "country": "India",
+    "region": "Bihar",
+    "city": "",
     "year": 2019,
     "organization": "",
     "url": "http://bsdma.org/images/publication/Bihar%20Heat%20Action%20Plan.pdf",
