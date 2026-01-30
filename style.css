@@ -173,8 +173,8 @@ footer {
   }
 }
 
-.table-legend {
+footer .table-note {
   font-size: 0.85em;
   color: #555;
-  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
