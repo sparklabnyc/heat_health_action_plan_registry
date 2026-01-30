@@ -112,7 +112,7 @@ function renderTable(plans, tableBody) {
     headerRow.className = "country-header-row";
 
     const headerCell = document.createElement("td");
-    headerCell.colSpan = 7; // match number of columns
+    headerCell.colSpan = 6; // match number of columns
     headerCell.innerHTML = `<strong>${country}</strong>`;
 
 
@@ -152,19 +152,12 @@ function renderTable(plans, tableBody) {
         linkTd.textContent = "No link available";
       }
 
-      const mhTd = document.createElement("td");
-      mhTd.textContent =
-        plan.included_in_paper === false
-          ? "Added after publication"
-          : "Included";
-
       tr.appendChild(titleTd);
       tr.appendChild(countryTd);
       tr.appendChild(regionTd);
       tr.appendChild(cityTd);
       tr.appendChild(yearTd);
       tr.appendChild(linkTd);
-      tr.appendChild(mhTd);
 
       tableBody.appendChild(tr);
     });
