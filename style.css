@@ -172,3 +172,9 @@ footer {
     font-size: 0.8rem;
   }
 }
+
+.table-legend {
+  font-size: 0.85em;
+  color: #555;
+  margin-top: 0.5em;
+}
