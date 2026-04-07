@@ -1,5 +1,5 @@
 {
-  "title": "National Plan for Adaptation to Climate Change - Italy, Italy",
+  "title": "National Plan for Adaptation to Climate Change - Italy",
   "format": "Action Plan",
   "type": "Action Plan",
   "country": "Italy",
@@ -8,9 +8,8 @@
   "year": 2022,
   "organization": "",
   "location": "41.87194, 12.56738",
+  "country_location": "41.87194, 12.56738",
   "url": "",
   "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Italy__2022_15.pdf",
-  "submitter_name": "",
-  "submitter_email": "",
   "submitted_at": "2025-12-22T19:40:52.334Z"
 }
