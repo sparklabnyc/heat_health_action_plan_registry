@@ -1,6 +1,6 @@
 [
   {
-    "title": "South Africa National Heat Health Action Plan Guidelines - South Africa, South Africa",
+    "title": "South Africa National Heat Health Action Plan Guidelines - South Africa",
     "format": "Action Plan",
     "type": "Action Plan",
     "country": "South Africa",
@@ -9,10 +9,9 @@
     "year": 2020,
     "organization": "",
     "location": "-30.559482, 22.937506",
+    "country_location": "-30.559482, 22.937506",
     "url": "http://www.health.gov.za/wp-content/uploads/2022/06/National-Heat-Health-Action-Guidelines.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-09T17:54:24.963Z"
   },
   {
@@ -25,10 +24,9 @@
     "year": 2011,
     "organization": "",
     "location": "49.2190648, -122.6895165",
+    "country_location": "56.130366, -106.346771",
     "url": "https://www.pittmeadows.ca/sites/default/files/docs/city-services/emergencyprepared/hot_weather_response_plan.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-09T18:32:19.288Z"
   },
   {
@@ -41,10 +39,9 @@
     "year": 2020,
     "organization": "",
     "location": "49.2849107, -122.8677562",
+    "country_location": "56.130366, -106.346771",
     "url": "https://api.ghdcdn.com/portmoody-edocs/v1/eDocs/Get?docnumber=511721",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-09T18:41:10.618Z"
   },
   {
@@ -57,10 +54,9 @@
     "year": 2014,
     "organization": "",
     "location": "43.1938516, -71.5723953",
+    "country_location": "38.7945952, -106.5348379",
     "url": "https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/documents/2021-11/nh-excessive-heat-plan-2014.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-10T15:47:52.085Z"
   },
   {
@@ -73,10 +69,9 @@
     "year": 2024,
     "organization": "",
     "location": "49.1913466, -122.8490125",
+    "country_location": "56.130366, -106.346771",
     "url": "https://heathealth.info/wp-content/uploads/2024-surrey-extreme-heat-response-guideline.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-10T17:28:42.385Z"
   },
   {
@@ -89,10 +84,9 @@
     "year": 2010,
     "organization": "",
     "location": "46.4917317, -80.99302899999999",
+    "country_location": "56.130366, -106.346771",
     "url": "https://www.greatersudbury.ca/sites/sudburyen/assets/content/div_emergprep/documents/hot_weather_response_plan_2010.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-10T18:26:56.245Z"
   },
   {
@@ -105,10 +99,9 @@
     "year": 2023,
     "organization": "",
     "location": "39.0457549, -76.64127119999999",
+    "country_location": "38.7945952, -106.5348379",
     "url": "https://health.maryland.gov/preparedness/Documents/MDH%20Extreme%20Heat%20Emergency%20Plan%202023.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-10T18:28:11.287Z"
   },
   {
@@ -121,10 +114,9 @@
     "year": 2023,
     "organization": "",
     "location": "30.267153, -97.7430608",
+    "country_location": "38.7945952, -106.5348379",
     "url": "https://www.austintexas.gov/sites/default/files/files/Resilience/Austin-heat-resilience-playbook.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-10T18:31:12.750Z"
   },
   {
@@ -137,10 +129,9 @@
     "year": 2023,
     "organization": "",
     "location": "53.7266683, -127.6476206",
+    "country_location": "56.130366, -106.346771",
     "url": "",
     "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Canada_British_Columbia_2023_9.pdf",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-10T18:35:07.708Z"
   },
   {
@@ -153,10 +144,9 @@
     "year": 2022,
     "organization": "",
     "location": "42.3555076, -71.0565364",
+    "country_location": "38.7945952, -106.5348379",
     "url": "",
     "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/United_States__2022_10.pdf",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T19:19:42.629Z"
   },
   {
@@ -169,10 +159,9 @@
     "year": 2024,
     "organization": "",
     "location": "33.4482948, -112.0725488",
+    "country_location": "38.7945952, -106.5348379",
     "url": "https://www.phoenix.gov/content/dam/phoenix/heatsite/documents/FINAL%20-%202024%20Heat%20Response%20Plan%20.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T19:23:50.698Z"
   },
   {
@@ -185,10 +174,9 @@
     "year": 2022,
     "organization": "",
     "location": "34.1515173, 71.5723953",
+    "country_location": "30.375321, 69.34511599999999",
     "url": "https://heathealth.info/resources/heat-wave-action-plan-government-of-khyber-pakhtunkhwa/",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T19:26:48.415Z"
   },
   {
@@ -201,14 +189,13 @@
     "year": 2017,
     "organization": "",
     "location": "24.8607343, 67.0011364",
+    "country_location": "30.375321, 69.34511599999999",
     "url": "https://heathealth.info/wp-content/uploads/HeatwaveManagementPlan.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T19:29:04.756Z"
   },
   {
-    "title": "Contingency Plan for Seasonal Health Response - Portugal, Portugal",
+    "title": "Contingency Plan for Seasonal Health Response - Portugal",
     "format": "Action Plan",
     "type": "Action Plan",
     "country": "Portugal",
@@ -217,14 +204,13 @@
     "year": 2023,
     "organization": "",
     "location": "39.39987199999999, -8.224454",
+    "country_location": "39.39987199999999, -8.224454",
     "url": "",
     "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Portugal__2023_14.pdf",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T19:37:46.155Z"
   },
   {
-    "title": "National Plan for Adaptation to Climate Change - Italy, Italy",
+    "title": "National Plan for Adaptation to Climate Change - Italy",
     "format": "Action Plan",
     "type": "Action Plan",
     "country": "Italy",
@@ -233,14 +219,13 @@
     "year": 2022,
     "organization": "",
     "location": "41.87194, 12.56738",
+    "country_location": "41.87194, 12.56738",
     "url": "",
     "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Italy__2022_15.pdf",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T19:40:52.334Z"
   },
   {
-    "title": "Heatwave Plan - Luxembourg, Luxembourg",
+    "title": "Heatwave Plan - Luxembourg",
     "format": "Action Plan",
     "type": "Action Plan",
     "country": "Luxembourg",
@@ -249,10 +234,9 @@
     "year": 2023,
     "organization": "",
     "location": "49.815273, 6.129582999999999",
+    "country_location": "49.815273, 6.129582999999999",
     "url": "",
     "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Luxembourg__2023_16.pdf",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T19:41:46.747Z"
   },
   {
@@ -265,10 +249,9 @@
     "year": 2014,
     "organization": "",
     "location": "-34.9204948, -57.95356570000001",
+    "country_location": "-38.416097, -63.61667199999999",
     "url": "",
     "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Argentina__2014_17.pdf",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T19:46:48.413Z"
   },
   {
@@ -281,10 +264,9 @@
     "year": 2022,
     "organization": "",
     "location": "37.5442706, -4.7277528",
+    "country_location": "40.46366700000001, -3.74922",
     "url": "",
     "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Spain_Andalusia_2022_18.pdf",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T19:51:09.829Z"
   },
   {
@@ -297,14 +279,13 @@
     "year": 2022,
     "organization": "",
     "location": "43.1828396, -3.9878427",
+    "country_location": "40.46366700000001, -3.74922",
     "url": "https://heathealth.info/resources/plan-de-actuaciones-preventivas-de-los-efectos-del-exceso-de-temperaturas-sobre-la-salud-cantabria-2022/",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T20:00:08.930Z"
   },
   {
-    "title": "National Plan for preventive actions for the effects of excess temperatures on health - Spain, Spain",
+    "title": "National Plan for preventive actions for the effects of excess temperatures on health - Spain",
     "format": "Action Plan",
     "type": "Action Plan",
     "country": "Spain",
@@ -313,10 +294,9 @@
     "year": 2023,
     "organization": "",
     "location": "40.46366700000001, -3.74922",
+    "country_location": "40.46366700000001, -3.74922",
     "url": "",
     "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Spain__2023_20.pdf",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T20:02:15.234Z"
   },
   {
@@ -329,14 +309,13 @@
     "year": 2023,
     "organization": "",
     "location": "59.283333, 17.8",
+    "country_location": "60.12816100000001, 18.643501",
     "url": "",
     "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Sweden__2023_21.pdf",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T20:08:16.450Z"
   },
   {
-    "title": "National Heatwave Plan - Netherlands, Netherlands",
+    "title": "National Heatwave Plan - Netherlands",
     "format": "Action Plan",
     "type": "Action Plan",
     "country": "Netherlands",
@@ -345,14 +324,13 @@
     "year": 2015,
     "organization": "",
     "location": "52.132633, 5.291265999999999",
+    "country_location": "52.132633, 5.291265999999999",
     "url": "https://www.rivm.nl/bibliotheek/rapporten/2014-0051.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T20:12:49.899Z"
   },
   {
-    "title": "Dealing with the health effects of heat waves. Guidance for action plans. - Sweden, Sweden",
+    "title": "Dealing with the health effects of heat waves. Guidance for action plans. - Sweden",
     "format": "Action Plan",
     "type": "Action Plan",
     "country": "Sweden",
@@ -361,14 +339,13 @@
     "year": 2022,
     "organization": "",
     "location": "60.12816100000001, 18.643501",
+    "country_location": "60.12816100000001, 18.643501",
     "url": "https://www.folkhalsomyndigheten.se/publikationer-och-material/publikationsarkiv/a/att-hantera-halsoeffekter-av-varmeboljor-vagledning-till-handlingsplaner/",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T20:15:11.157Z"
   },
   {
-    "title": "Adverse Weather and Health Plan. Protecting health from weather related harm. - England, UK, England, UK",
+    "title": "Adverse Weather and Health Plan. Protecting health from weather related harm. - England, UK",
     "format": "Action Plan",
     "type": "Action Plan",
     "country": "England, UK",
@@ -377,14 +354,13 @@
     "year": 2024,
     "organization": "",
     "location": "52.83816401015793, -2.327480843616569",
+    "country_location": "52.83816401015793, -2.327480843616569",
     "url": "https://www.gov.uk/government/publications/adverse-weather-and-health-plan",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T21:46:37.526Z"
   },
   {
-    "title": "General government heat protection plan - Austria, Austria",
+    "title": "General government heat protection plan - Austria",
     "format": "Action Plan",
     "type": "Action Plan",
     "country": "Austria",
@@ -393,10 +369,9 @@
     "year": 2017,
     "organization": "",
     "location": "47.516231, 14.550072",
+    "country_location": "47.516231, 14.550072",
     "url": "https://climate-adapt.eea.europa.eu/en/metadata/case-studies/operation-of-the-austrian-heat-protection-plan/austrian_heat_protection_plan-2017.pdf/@@download/file",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T21:51:46.502Z"
   },
   {
@@ -409,10 +384,9 @@
     "year": 2022,
     "organization": "",
     "location": "40.41672790000001, -3.7032905",
+    "country_location": "40.46366700000001, -3.74922",
     "url": "https://www.comunidad.madrid/sites/default/files/doc/sanidad/calo/20220614_plan_vigilancia_olas_de_calor_2022.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T21:54:19.374Z"
   },
   {
@@ -425,14 +399,13 @@
     "year": 2023,
     "organization": "",
     "location": "47.2537414, 11.601487",
+    "country_location": "47.516231, 14.550072",
     "url": "https://www.preventionweb.net/publication/policies-and-plans/austria-heat-protection-plan-tirol",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T21:58:37.526Z"
   },
   {
-    "title": "National public health and heat prevention 2016-2020 action plan - Lithuania, Lithuania",
+    "title": "National public health and heat prevention 2016-2020 action plan - Lithuania",
     "format": "Action Plan",
     "type": "Action Plan",
     "country": "Lithuania",
@@ -441,10 +414,9 @@
     "year": 2016,
     "organization": "",
     "location": "55.169438, 23.881275",
+    "country_location": "55.169438, 23.881275",
     "url": "",
     "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Lithuania__2016_28.pdf",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T22:01:24.023Z"
   },
   {
@@ -457,10 +429,9 @@
     "year": 2013,
     "organization": "",
     "location": "39.4937392, -6.0679194",
+    "country_location": "40.46366700000001, -3.74922",
     "url": "https://saludextremadura.ses.es/filescms/web/uploaded_files/CustomContentResources/1%20Ola%20calor%20Plan%20Extremadura.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T22:23:29.532Z"
   },
   {
@@ -473,14 +444,13 @@
     "year": 2023,
     "organization": "",
     "location": "47.2649012, 14.8939302",
+    "country_location": "47.516231, 14.550072",
     "url": "",
     "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Austria_Styria_2023_30.pdf",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T22:25:32.234Z"
   },
   {
-    "title": "Heat protection plan for health of the Federal Ministry of Health - Germany, Germany",
+    "title": "Heat protection plan for health of the Federal Ministry of Health - Germany",
     "format": "Action Plan",
     "type": "Action Plan",
     "country": "Germany",
@@ -489,10 +459,9 @@
     "year": 2023,
     "organization": "",
     "location": "51.165691, 10.451526",
+    "country_location": "51.165691, 10.451526",
     "url": "https://www.bundesgesundheitsministerium.de/ministerium/meldungen/lauterbach-besser-auf-gesundheitliche-auswirkungen-von-hitze-vorbereiten",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T22:27:57.242Z"
   },
   {
@@ -505,14 +474,13 @@
     "year": 2020,
     "organization": "",
     "location": "46.5613135, 6.536765",
+    "country_location": "46.818188, 8.227511999999999",
     "url": "https://heathealth.info/wp-content/uploads/Plan_vaudois_canicule_2020.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T22:30:55.432Z"
   },
   {
-    "title": "National Heatwave Plan - France, France",
+    "title": "National Heatwave Plan - France",
     "format": "Action Plan",
     "type": "Action Plan",
     "country": "France",
@@ -521,10 +489,9 @@
     "year": 2017,
     "organization": "",
     "location": "46.227638, 2.213749",
+    "country_location": "46.227638, 2.213749",
     "url": "https://sante.gouv.fr/IMG/pdf/pnc_actualise_2017.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T22:37:18.390Z"
   },
   {
@@ -537,10 +504,9 @@
     "year": 2020,
     "organization": "",
     "location": "47.2497427, 9.9797373",
+    "country_location": "47.516231, 14.550072",
     "url": "",
     "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Austria_Vorarlberg_2020_34.pdf",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T22:40:14.941Z"
   },
   {
@@ -553,14 +519,13 @@
     "year": 2020,
     "organization": "",
     "location": "56.6634447, 16.356779",
+    "country_location": "60.12816100000001, 18.643501",
     "url": "",
     "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Sweden__2020_35.pdf",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T22:42:33.374Z"
   },
   {
-    "title": "A catalogue of measures to protect human health from heat - Switzerland, Switzerland",
+    "title": "A catalogue of measures to protect human health from heat - Switzerland",
     "format": "Action Plan",
     "type": "Action Plan",
     "country": "Switzerland",
@@ -569,14 +534,13 @@
     "year": 2021,
     "organization": "",
     "location": "46.818188, 8.227511999999999",
+    "country_location": "46.818188, 8.227511999999999",
     "url": "",
     "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Switzerland__2021_36.pdf",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T22:45:44.865Z"
   },
   {
-    "title": "Guidance for Local Heat Plans - Netherlands, Netherlands",
+    "title": "Guidance for Local Heat Plans - Netherlands",
     "format": "Action Plan",
     "type": "Action Plan",
     "country": "Netherlands",
@@ -585,10 +549,9 @@
     "year": 2019,
     "organization": "",
     "location": "52.132633, 5.291265999999999",
+    "country_location": "52.132633, 5.291265999999999",
     "url": "https://klimaatadaptatienederland.nl/hulpmiddelen/overzicht/lokaal-hitteplan/",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T22:50:07.477Z"
   },
   {
@@ -601,10 +564,9 @@
     "year": 2022,
     "organization": "",
     "location": "48.20806959999999, 16.3713095",
+    "country_location": "47.516231, 14.550072",
     "url": "",
     "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Austria__2022_38.pdf",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T22:52:18.645Z"
   },
   {
@@ -617,14 +579,13 @@
     "year": 2024,
     "organization": "",
     "location": "51.0950244, 4.4477809",
+    "country_location": "50.503887, 4.469936",
     "url": "https://heathealth.info/resources/vlaams-warmteactieplan-flemish-heat-actionplan/#:~:text=This%20plan%20outlines%20how%20and,health%20effects%20due%20to%20heat.",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T22:53:26.035Z"
   },
   {
-    "title": "Heat-Health Action Plan of the former Yugoslav Republic of Macedonia - North Macedonia , North Macedonia ",
+    "title": "Heat-Health Action Plan of the former Yugoslav Republic of Macedonia - North Macedonia ",
     "format": "Action Plan",
     "type": "Action Plan",
     "country": "North Macedonia ",
@@ -633,10 +594,9 @@
     "year": 2011,
     "organization": "",
     "location": "41.608635, 21.745275",
+    "country_location": "41.608635, 21.745275",
     "url": "https://iris.who.int/items/608d8fdd-be15-460d-83b6-092ef889ef24",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T22:55:05.960Z"
   },
   {
@@ -649,10 +609,9 @@
     "year": 2023,
     "organization": "",
     "location": "-31.2532183, 146.921099",
+    "country_location": "-25.274398, 133.775136",
     "url": "https://heathealth.info/wp-content/uploads/Heatwave_Sub_plan_June_2023.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T22:58:41.575Z"
   },
   {
@@ -665,10 +624,9 @@
     "year": 2023,
     "organization": "",
     "location": "-30.0002315, 136.2091547",
+    "country_location": "-25.274398, 133.775136",
     "url": "",
     "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Australia_South_Australia__2023_42.pdf",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T23:01:47.760Z"
   },
   {
@@ -681,14 +639,13 @@
     "year": 2018,
     "organization": "",
     "location": "-33.80484879999999, 150.7214362",
+    "country_location": "-25.274398, 133.775136",
     "url": "https://wsroc.com.au/projects/project-turn-down-the-heat#:~:text=Turn%20Down%20the%20Heat%20Strategy%20and%20Action%20Plan%20(2018)&text=The%20strategy%20outlines%20five%20key,with%20green%20space%20and%20water",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T23:03:50.442Z"
   },
   {
-    "title": "Heat Health Plans: Guidelines - New Zealand, New Zealand",
+    "title": "Heat Health Plans: Guidelines - New Zealand",
     "format": "Action Plan",
     "type": "Action Plan",
     "country": "New Zealand",
@@ -697,10 +654,9 @@
     "year": 2023,
     "organization": "",
     "location": "-40.900557, 174.885971",
+    "country_location": "-40.900557, 174.885971",
     "url": "https://www.tewhatuora.govt.nz/publications/heat-health-plans-guidelines",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T23:04:49.356Z"
   },
   {
@@ -713,14 +669,13 @@
     "year": 2017,
     "organization": "",
     "location": "-36.9847807, 143.3906074",
+    "country_location": "-25.274398, 133.775136",
     "url": "https://files-em.em.vic.gov.au/public/EMV-web/SERP-StateExtremeHeatSub-plan.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-22T23:06:30.757Z"
   },
   {
-    "title": "National Guideline on Heat-Related Ilness - Bangladesh, Bangladesh",
+    "title": "National Guideline on Heat-Related Ilness - Bangladesh",
     "format": "Action Plan",
     "type": "Action Plan",
     "country": "Bangladesh",
@@ -729,10 +684,9 @@
     "year": 2024,
     "organization": "",
     "location": "23.684994, 90.356331",
+    "country_location": "23.684994, 90.356331",
     "url": "https://dghs.gov.bd/sites/default/files/files/dghs.portal.gov.bd/notices/23e5ad95_395e_4e75_8602_23d266ffd6ca/2024-07-09-04-39-d4da562016555d65823ffb4c2a52a9ef.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-30T20:44:26.870Z"
   },
   {
@@ -745,10 +699,9 @@
     "year": 2023,
     "organization": "",
     "location": "28.053906, 81.6159241",
+    "country_location": "28.394857, 84.12400799999999",
     "url": "https://heathealth.info/resources/nepalgunj-heat-action-plan-2023/",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-30T20:45:59.179Z"
   },
   {
@@ -761,10 +714,9 @@
     "year": 2020,
     "organization": "",
     "location": "20.2959847, 85.8246101",
+    "country_location": "20.593684, 78.96288",
     "url": "",
     "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/India__2020_48.pdf",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-30T20:51:05.858Z"
   },
   {
@@ -777,10 +729,9 @@
     "year": 2024,
     "organization": "",
     "location": "33.3716143, 74.315191",
+    "country_location": "20.593684, 78.96288",
     "url": "https://cdn.s3waas.gov.in/s31aa48fc4880bb0c9b8a3bf979d3b917e/uploads/2024/04/2024041262.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-30T20:54:40.883Z"
   },
   {
@@ -793,10 +744,9 @@
     "year": 2024,
     "organization": "",
     "location": "18.2997834, 76.2456436",
+    "country_location": "20.593684, 78.96288",
     "url": "https://cdn.s3waas.gov.in/s3a97da629b098b75c294dffdc3e463904/uploads/2024/04/2024040464.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2025-12-30T20:56:05.772Z"
   },
   {
@@ -809,10 +759,9 @@
     "year": 2024,
     "organization": "",
     "location": "22.3000395, 73.2064994",
+    "country_location": "20.593684, 78.96288",
     "url": "",
     "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/India__2024_51.pdf",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-02T14:33:52.353Z"
   },
   {
@@ -825,10 +774,9 @@
     "year": 2024,
     "organization": "",
     "location": "34.0836708, 74.7972825",
+    "country_location": "20.593684, 78.96288",
     "url": "",
     "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/India_Srinagar_2024_52.pdf",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-02T14:35:21.252Z"
   },
   {
@@ -841,10 +789,9 @@
     "year": 2024,
     "organization": "",
     "location": "32.3863082, 75.5173465",
+    "country_location": "20.593684, 78.96288",
     "url": "",
     "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/India_Kathua_2024_53.pdf",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-02T14:36:32.532Z"
   },
   {
@@ -857,10 +804,9 @@
     "year": 2023,
     "organization": "",
     "location": "20.8060184, 82.5361393",
+    "country_location": "20.593684, 78.96288",
     "url": "",
     "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/India_Nuapada_2023_54.pdf",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-02T14:48:21.580Z"
   },
   {
@@ -873,10 +819,9 @@
     "year": 2022,
     "organization": "",
     "location": "30.3397809, 76.3868797",
+    "country_location": "20.593684, 78.96288",
     "url": "https://cdn.s3waas.gov.in/s38cb22bdd0b7ba1ab13d742e22eed8da2/uploads/2022/04/2022042190.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-03T14:48:22.000Z"
   },
   {
@@ -889,10 +834,9 @@
     "year": 2024,
     "organization": "",
     "location": "33.8716117, 74.89456919999999",
+    "country_location": "20.593684, 78.96288",
     "url": "https://cdn.s3waas.gov.in/s3c75b6f114c23a4d7ea11331e7c00e73c/uploads/2024/03/2024032650.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-04T14:48:22.000Z"
   },
   {
@@ -905,10 +849,9 @@
     "year": 2024,
     "organization": "",
     "location": "33.3115906, 75.76621949999999",
+    "country_location": "20.593684, 78.96288",
     "url": "https://cdn.s3waas.gov.in/s317d63b1625c816c22647a73e1482372b/uploads/2024/04/2024040421.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-05T14:48:22.000Z"
   },
   {
@@ -921,10 +864,9 @@
     "year": 2024,
     "organization": "",
     "location": "33.1457497, 75.5480491",
+    "country_location": "20.593684, 78.96288",
     "url": "https://cdn.s3waas.gov.in/s3dc6a70712a252123c40d2adba6a11d84/uploads/2024/04/2024042368.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-06T14:48:22.000Z"
   },
   {
@@ -937,10 +879,9 @@
     "year": 2016,
     "organization": "",
     "location": "23.9924669, 85.3636758",
+    "country_location": "20.593684, 78.96288",
     "url": "https://hazaribag.nic.in/document/heat-wave-action-plan/",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-07T14:48:22.000Z"
   },
   {
@@ -953,10 +894,9 @@
     "year": 2024,
     "organization": "",
     "location": "30.9331348, 74.6224755",
+    "country_location": "20.593684, 78.96288",
     "url": "https://cdn.s3waas.gov.in/s3a8c88a0055f636e4a163a5e3d16adab7/uploads/2024/03/2024032713.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-08T14:48:22.000Z"
   },
   {
@@ -969,10 +909,9 @@
     "year": 2024,
     "organization": "",
     "location": "19.2122949, 72.97716609999999",
+    "country_location": "20.593684, 78.96288",
     "url": "https://theanalysis.org.in/heat-action-plan-for-thane-city-2024/#:~:text=The%20Thane%20Municipal%20Corporation%20released%20a%20heat,Task%20Force%20Committee%20to%20monitor%20the%20plan",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-09T14:48:22.000Z"
   },
   {
@@ -985,10 +924,9 @@
     "year": 2019,
     "organization": "",
     "location": "11.1271225, 78.6568942",
+    "country_location": "20.593684, 78.96288",
     "url": "https://heathealth.info/resources/heat-wave-action-plan-2019-tamil-nadu-india/",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-10T14:48:22.000Z"
   },
   {
@@ -1001,10 +939,9 @@
     "year": 2023,
     "organization": "",
     "location": "22.9867569, 87.8549755",
+    "country_location": "20.593684, 78.96288",
     "url": "http://wbdmd.gov.in/writereaddata/NW94089.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-11T14:48:22.000Z"
   },
   {
@@ -1017,10 +954,9 @@
     "year": 2024,
     "organization": "",
     "location": "33.2463875, 75.1938909",
+    "country_location": "20.593684, 78.96288",
     "url": "https://cdn.s3waas.gov.in/s3ae0eb3eed39d2bcef4622b2499a05fe6/uploads/2024/04/2024040850.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-12T14:48:22.000Z"
   },
   {
@@ -1033,10 +969,9 @@
     "year": 2023,
     "organization": "",
     "location": "21.1702401, 72.83106070000001",
+    "country_location": "20.593684, 78.96288",
     "url": "https://www.apn-gcr.org/wp-content/uploads/2023/06/Climate-Adaptive-and-Gender-Integrated-Heat-Wave-Action-Plan-of-Surat-City.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-13T14:48:22.000Z"
   },
   {
@@ -1049,10 +984,9 @@
     "year": 2023,
     "organization": "",
     "location": "26.2389469, 73.02430939999999",
+    "country_location": "20.593684, 78.96288",
     "url": "https://www.nrdc.org/sites/default/files/2023-05/jodhpur-heat-action-plan-2023.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-14T14:48:22.000Z"
   },
   {
@@ -1065,14 +999,13 @@
     "year": 2019,
     "organization": "",
     "location": "23.022505, 72.5713621",
+    "country_location": "20.593684, 78.96288",
     "url": "https://www.nrdc.org/sites/default/files/ahmedabad-heat-action-plan-2018.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-15T14:48:22.000Z"
   },
   {
-    "title": "National Guidelines for Preparation of Action Plan - Prevention and Management of Heat Wave. 2019 - India, India",
+    "title": "National Guidelines for Preparation of Action Plan - Prevention and Management of Heat Wave. 2019 - India",
     "format": "Action Plan",
     "type": "Action Plan",
     "country": "India",
@@ -1081,10 +1014,9 @@
     "year": 2019,
     "organization": "",
     "location": "20.593684, 78.96288",
+    "country_location": "20.593684, 78.96288",
     "url": "https://heathealth.info/resources/national-guidelines-for-preparation-of-action-plan-prevention-and-management-of-heat-wave/",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-16T14:48:22.000Z"
   },
   {
@@ -1097,10 +1029,9 @@
     "year": 2017,
     "organization": "",
     "location": "27.0238036, 74.21793260000001",
+    "country_location": "20.593684, 78.96288",
     "url": "https://heathealth.info/resources/rajasthan-climate-change-projectdraft-heat-action-plan/",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-17T14:48:22.000Z"
   },
   {
@@ -1113,10 +1044,9 @@
     "year": 2022,
     "organization": "",
     "location": "20.2375561, 84.2700179",
+    "country_location": "20.593684, 78.96288",
     "url": "https://drive.google.com/file/d/1sGLPgnHkc3NeFJjkw4tT2y3y537Ro6-f/view?usp=sharing",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-18T14:48:22.000Z"
   },
   {
@@ -1129,10 +1059,9 @@
     "year": 2024,
     "organization": "",
     "location": "32.1024076, 77.5619419",
+    "country_location": "20.593684, 78.96288",
     "url": "https://hpsdma.nic.in/WriteReadData/LINKS/SD2848eecb-53d9-44a0-b272-a56c46fa1ec5.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-19T14:48:22.000Z"
   },
   {
@@ -1145,10 +1074,9 @@
     "year": 2019,
     "organization": "",
     "location": "26.7605545, 83.3731675",
+    "country_location": "20.593684, 78.96288",
     "url": "https://www.preventionweb.net/files/68564_68562sopforheatwave2.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-20T14:48:22.000Z"
   },
   {
@@ -1161,10 +1089,9 @@
     "year": 2022,
     "organization": "",
     "location": "22.3038945, 70.80215989999999",
+    "country_location": "20.593684, 78.96288",
     "url": "https://irade.org/Rajkot-Heat-Action-Plan.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-21T14:48:22.000Z"
   },
   {
@@ -1177,10 +1104,9 @@
     "year": 2024,
     "organization": "",
     "location": "27.5705886, 80.0981869",
+    "country_location": "20.593684, 78.96288",
     "url": "https://upsdma.up.nic.in/2024/Heat_Wave_Action_Plan_2024.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-22T14:48:22.000Z"
   },
   {
@@ -1193,10 +1119,9 @@
     "year": 2019,
     "organization": "",
     "location": "29.0587757, 76.085601",
+    "country_location": "20.593684, 78.96288",
     "url": "https://cdnbbsr.s3waas.gov.in/s3d79c6256b9bdac53a55801a066b70da3/uploads/2020/10/2020101187.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-23T14:48:22.000Z"
   },
   {
@@ -1209,10 +1134,9 @@
     "year": 2023,
     "organization": "",
     "location": "15.3172775, 75.7138884",
+    "country_location": "20.593684, 78.96288",
     "url": "https://heathealth.info/wp-content/uploads/Karnataka-heat-action-plan-.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-24T14:48:22.000Z"
   },
   {
@@ -1225,10 +1149,9 @@
     "year": 2021,
     "organization": "",
     "location": "18.1124372, 79.01929969999999",
+    "country_location": "20.593684, 78.96288",
     "url": "https://heathealth.info/wp-content/uploads/ts-heatwave-action-plan-2021-signed-compressed.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-25T14:48:22.000Z"
   },
   {
@@ -1241,10 +1164,9 @@
     "year": 2020,
     "organization": "",
     "location": "22.6708317, 71.5723953",
+    "country_location": "20.593684, 78.96288",
     "url": "http://www.gsdma.org/uploads/Assets/other/gujaratstateheatwaveactionplan2020-2104252020024137455.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-26T14:48:22.000Z"
   },
   {
@@ -1257,10 +1179,9 @@
     "year": 2020,
     "organization": "",
     "location": "20.2375561, 84.2700179",
+    "country_location": "20.593684, 78.96288",
     "url": "https://www.osdma.org/preparedness/one-stop-risk-management-system/heat-wave/#gsc.tab=0",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-27T14:48:22.000Z"
   },
   {
@@ -1273,10 +1194,9 @@
     "year": 2024,
     "organization": "",
     "location": "15.2993265, 74.12399599999999",
+    "country_location": "20.593684, 78.96288",
     "url": "http://www.gsdma.org/uploads/Assets/other/gujaratstateheatwaveactionplan2020-2104252020024137455.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-28T14:48:22.000Z"
   },
   {
@@ -1289,10 +1209,9 @@
     "year": 2024,
     "organization": "",
     "location": "28.7040592, 77.10249019999999",
+    "country_location": "20.593684, 78.96288",
     "url": "https://ddma.delhi.gov.in/sites/default/files/ddma/generic_multiple_files/final_hap_12.04.2024.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-29T14:48:22.000Z"
   },
   {
@@ -1305,10 +1224,9 @@
     "year": 2019,
     "organization": "",
     "location": "25.9644427, 85.2722472",
+    "country_location": "20.593684, 78.96288",
     "url": "http://bsdma.org/images/publication/Bihar%20Heat%20Action%20Plan.pdf",
     "pdf_link": "",
-    "submitter_name": "",
-    "submitter_email": "",
     "submitted_at": "2026-01-30T14:48:22.000Z"
   },
   {
@@ -1321,10 +1239,9 @@
     "year": 2025,
     "organization": "",
     "location": "28.2925364, 74.9707262",
+    "country_location": "20.593684, 78.96288",
     "url": "https://heathealth.info/wp-content/uploads/MHT-Churu-Heat-Action-Plan-compressed.pdf",
     "pdf_link": "",
-    "submitter_name": "Nate Matthews-Trigg",
-    "submitter_email": "nathanielmatthewstrigg@gmail.com",
     "submitted_at": "2026-02-03T20:37:55.317Z"
   },
   {
@@ -1337,10 +1254,9 @@
     "year": 2025,
     "organization": "",
     "location": "25.3176452, 82.9739144",
+    "country_location": "20.593684, 78.96288",
     "url": "https://heathealth.info/wp-content/uploads/Varanasi-Heat-Action-Plan-MHT-NRDC-IIPHG-compressed.pdf",
     "pdf_link": "",
-    "submitter_name": "Nate Matthews-Trigg",
-    "submitter_email": "nathanielmatthewstrigg@gmail.com",
     "submitted_at": "2026-02-03T20:45:19.352Z"
   },
   {
@@ -1353,10 +1269,9 @@
     "year": 2024,
     "organization": "",
     "location": "34.0489281, -111.0937311",
+    "country_location": "38.7945952, -106.5348379",
     "url": "https://heathealth.info/wp-content/uploads/extreme-heat-preparedness-plan-2024-03-1-compressed.pdf",
     "pdf_link": "",
-    "submitter_name": "Nate Matthews-Trigg",
-    "submitter_email": "nathanielmatthewstrigg@gmail.com",
     "submitted_at": "2026-02-03T20:47:14.527Z"
   },
   {
@@ -1369,14 +1284,13 @@
     "year": 2024,
     "organization": "",
     "location": "40.7127753, -74.0059728",
+    "country_location": "38.7945952, -106.5348379",
     "url": "https://dec.ny.gov/sites/default/files/2024-06/extremeheatactionplan.pdf",
     "pdf_link": "",
-    "submitter_name": "Nate Matthews-Trigg",
-    "submitter_email": "nathanielmatthewstrigg@gmail.com",
     "submitted_at": "2026-02-03T20:49:43.927Z"
   },
   {
-    "title": "National Heat Strategy 2024-2030 - United States, United States",
+    "title": "National Heat Strategy 2024-2030 - United States",
     "format": "Action Plan",
     "type": "Action Plan",
     "country": "United States",
@@ -1385,14 +1299,13 @@
     "year": 2024,
     "organization": "",
     "location": "38.7945952, -106.5348379",
+    "country_location": "38.7945952, -106.5348379",
     "url": "https://heathealth.info/wp-content/uploads/National_Heat_Strategy-2024-2030.pdf",
     "pdf_link": "",
-    "submitter_name": "Nate Matthews-Trigg",
-    "submitter_email": "nathanielmatthewstrigg@gmail.com",
     "submitted_at": "2026-02-03T20:51:22.591Z"
   },
   {
-    "title": "Clinic Heat-Health Action Plan - United States, United States",
+    "title": "Clinic Heat-Health Action Plan - United States",
     "format": "Action Plan",
     "type": "Action Plan",
     "country": "United States",
@@ -1401,14 +1314,13 @@
     "year": 2025,
     "organization": "",
     "location": "38.7945952, -106.5348379",
+    "country_location": "38.7945952, -106.5348379",
     "url": "https://www.dropbox.com/scl/fi/6p21z1ojab66lx360yirv/HH_Full-Library_ToC_4.14.25.pdf?rlkey=tf4pzdbwd7lu6jk6fuzshi9xd&st=29lfj449&dl=0",
     "pdf_link": "",
-    "submitter_name": "Nate Matthews-Trigg",
-    "submitter_email": "nmatthewstrigg@americares.org",
     "submitted_at": "2026-02-04T17:24:31.285Z"
   },
   {
-    "title": "Wildfire Smoke and Extreme Heat Action Plan - Canada, Canada",
+    "title": "Wildfire Smoke and Extreme Heat Action Plan - Canada",
     "format": "Action Plan",
     "type": "Action Plan",
     "country": "Canada",
@@ -1417,10 +1329,9 @@
     "year": 2023,
     "organization": "",
     "location": "56.130366, -106.346771",
+    "country_location": "56.130366, -106.346771",
     "url": "https://centreforlunghealth.ca/wildfire-smoke-and-extreme-heat-action-plan/",
     "pdf_link": "",
-    "submitter_name": "Beth White",
-    "submitter_email": "centreforlunghealth@vch.ca",
     "submitted_at": "2026-02-04T17:36:05.621Z"
   },
   {
@@ -1433,10 +1344,9 @@
     "year": 2022,
     "organization": "",
     "location": "36.778261, -119.4179324",
+    "country_location": "38.7945952, -106.5348379",
     "url": "https://resources.ca.gov/-/media/CNRA-Website/Files/Initiatives/Climate-Resilience/2022-Final-Extreme-Heat-Action-Plan.pdf",
     "pdf_link": "",
-    "submitter_name": "Alexandra Carlin",
-    "submitter_email": "byalexcarlin@gmail.com",
     "submitted_at": "2026-02-25T18:28:04.027Z"
   },
   {
@@ -1449,10 +1359,9 @@
     "year": 2026,
     "organization": "",
     "location": "34.3871821, -118.1122679",
+    "country_location": "38.7945952, -106.5348379",
     "url": "https://assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/d9822e58-5316-4df0-986e-232e963e2658/LA%20CHAP%20Feb2026_FINAL%20Interactive.pdf",
     "pdf_link": "",
-    "submitter_name": "Alexandra Carlin",
-    "submitter_email": "byalexcarlin@gmail.com",
     "submitted_at": "2026-02-25T18:35:19.650Z"
   },
   {
@@ -1465,10 +1374,9 @@
     "year": 2025,
     "organization": "",
     "location": "33.0933809, -116.6081653",
+    "country_location": "38.7945952, -106.5348379",
     "url": "https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/ExtremeHeat/EHRP_Consumer_Version.pdf",
     "pdf_link": "",
-    "submitter_name": "Alex Carlin",
-    "submitter_email": "byalexcarlin@gmail.com",
     "submitted_at": "2026-02-26T17:18:26.823Z"
   }
 ]
