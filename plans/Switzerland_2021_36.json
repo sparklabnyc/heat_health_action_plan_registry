@@ -1,5 +1,5 @@
 {
-  "title": "A catalogue of measures to protect human health from heat - Switzerland, Switzerland",
+  "title": "A catalogue of measures to protect human health from heat - Switzerland",
   "format": "Action Plan",
   "type": "Action Plan",
   "country": "Switzerland",
@@ -8,9 +8,8 @@
   "year": 2021,
   "organization": "",
   "location": "46.818188, 8.227511999999999",
+  "country_location": "46.818188, 8.227511999999999",
   "url": "",
   "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Switzerland__2021_36.pdf",
-  "submitter_name": "",
-  "submitter_email": "",
   "submitted_at": "2025-12-22T22:45:44.865Z"
 }
