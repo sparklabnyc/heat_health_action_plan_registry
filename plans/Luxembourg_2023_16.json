@@ -1,5 +1,5 @@
 {
-  "title": "Heatwave Plan - Luxembourg, Luxembourg",
+  "title": "Heatwave Plan - Luxembourg",
   "format": "Action Plan",
   "type": "Action Plan",
   "country": "Luxembourg",
@@ -8,9 +8,8 @@
   "year": 2023,
   "organization": "",
   "location": "49.815273, 6.129582999999999",
+  "country_location": "49.815273, 6.129582999999999",
   "url": "",
   "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Luxembourg__2023_16.pdf",
-  "submitter_name": "",
-  "submitter_email": "",
   "submitted_at": "2025-12-22T19:41:46.747Z"
 }
