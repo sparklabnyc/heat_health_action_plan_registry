@@ -1,5 +1,5 @@
 {
-  "title": "Contingency Plan for Seasonal Health Response - Portugal, Portugal",
+  "title": "Contingency Plan for Seasonal Health Response - Portugal",
   "format": "Action Plan",
   "type": "Action Plan",
   "country": "Portugal",
@@ -8,9 +8,8 @@
   "year": 2023,
   "organization": "",
   "location": "39.39987199999999, -8.224454",
+  "country_location": "39.39987199999999, -8.224454",
   "url": "",
   "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Portugal__2023_14.pdf",
-  "submitter_name": "",
-  "submitter_email": "",
   "submitted_at": "2025-12-22T19:37:46.155Z"
 }
