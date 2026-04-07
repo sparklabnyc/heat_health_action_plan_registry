@@ -179,7 +179,7 @@ const MARKER_STYLES = {
 function createCircleMarker(coords, level) {
   const style = MARKER_STYLES[level];
   return L.circleMarker(coords, {
-    radius: level === "city" ? 7 : level === "region" ? 8 : 9,
+    radius: 6,
     color: style.color,
     fillColor: style.fillColor,
     fillOpacity: 0.85,
