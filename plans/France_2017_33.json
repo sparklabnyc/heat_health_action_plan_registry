@@ -1,5 +1,5 @@
 {
-  "title": "National Heatwave Plan - France, France",
+  "title": "National Heatwave Plan - France",
   "format": "Action Plan",
   "type": "Action Plan",
   "country": "France",
@@ -8,9 +8,8 @@
   "year": 2017,
   "organization": "",
   "location": "46.227638, 2.213749",
+  "country_location": "46.227638, 2.213749",
   "url": "https://sante.gouv.fr/IMG/pdf/pnc_actualise_2017.pdf",
   "pdf_link": "",
-  "submitter_name": "",
-  "submitter_email": "",
   "submitted_at": "2025-12-22T22:37:18.390Z"
 }
