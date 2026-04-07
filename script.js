@@ -40,12 +40,12 @@ function initTableView() {
     });
 
     // sort plans by country before rendering
-plans.sort((a, b) => {
-  const cA = (a.country || "").toLowerCase();
-  const cB = (b.country || "").toLowerCase();
-  return cA.localeCompare(cB);
-});
-    
+    plans.sort((a, b) => {
+      const cA = (a.country || "").toLowerCase();
+      const cB = (b.country || "").toLowerCase();
+      return cA.localeCompare(cB);
+    });
+
     // render initial table
     renderTable(plans, tableBody);
 
@@ -55,26 +55,19 @@ plans.sort((a, b) => {
       const selectedCountry = countryFilter.value;
 
       const filtered = plans.filter(plan => {
-        // country filter
-        if (selectedCountry && plan.country !== selectedCountry) {
-          return false;
-        }
+        if (selectedCountry && plan.country !== selectedCountry) return false;
 
-        // search across several fields
         const haystack = [
           plan.title,
           plan.country,
           plan.region,
           plan.city,
-          plan.year,
-          plan.summary
+          plan.year
         ]
           .map(v => (v || "").toString().toLowerCase())
           .join(" ");
 
-        if (searchTerm && !haystack.includes(searchTerm)) {
-          return false;
-        }
+        if (searchTerm && !haystack.includes(searchTerm)) return false;
         return true;
       });
 
@@ -89,17 +82,13 @@ plans.sort((a, b) => {
 function renderTable(plans, tableBody) {
   tableBody.innerHTML = "";
 
-  // Group plans by country
   const plansByCountry = {};
   plans.forEach(plan => {
     const country = plan.country || "Unknown";
-    if (!plansByCountry[country]) {
-      plansByCountry[country] = [];
-    }
+    if (!plansByCountry[country]) plansByCountry[country] = [];
     plansByCountry[country].push(plan);
   });
 
-  // Sort countries alphabetically
   const sortedCountries = Object.keys(plansByCountry).sort((a, b) =>
     a.localeCompare(b)
   );
@@ -107,19 +96,14 @@ function renderTable(plans, tableBody) {
   sortedCountries.forEach(country => {
     const countryPlans = plansByCountry[country];
 
-    /* ---------- Country header row ---------- */
     const headerRow = document.createElement("tr");
     headerRow.className = "country-header-row";
-
     const headerCell = document.createElement("td");
-    headerCell.colSpan = 6; // match number of columns
+    headerCell.colSpan = 6;
     headerCell.innerHTML = `<strong>${country}</strong>`;
-
-
     headerRow.appendChild(headerCell);
     tableBody.appendChild(headerRow);
 
-    /* ---------- Plan rows ---------- */
     countryPlans.forEach(plan => {
       const tr = document.createElement("tr");
 
@@ -158,111 +142,128 @@ function renderTable(plans, tableBody) {
       tr.appendChild(cityTd);
       tr.appendChild(yearTd);
       tr.appendChild(linkTd);
-
       tableBody.appendChild(tr);
     });
   });
 }
 
-
-// determine which link to use for the plan
 function determinePlanLink(plan) {
-  // 1️⃣ Prefer URL if provided
-  if (plan.url && plan.url.startsWith("http")) {
-    return plan.url;
-  }
-
-  // 2️⃣ Next: GitHub-hosted PDF uploaded automatically
-  if (plan.pdf_link && plan.pdf_link.startsWith("http")) {
-    return plan.pdf_link;
-  }
-
-  // 3️⃣ Last: Google Drive fallback (old system)
-  if (plan.pdf_drive_link && plan.pdf_drive_link.startsWith("http")) {
-    return plan.pdf_drive_link;
-  }
-
+  if (plan.url && plan.url.startsWith("http")) return plan.url;
+  if (plan.pdf_link && plan.pdf_link.startsWith("http")) return plan.pdf_link;
+  if (plan.pdf_drive_link && plan.pdf_drive_link.startsWith("http")) return plan.pdf_drive_link;
   return null;
 }
 
-// MAP VIEW
-function initMapView() {
-  fetchPlansIndex().then(plans => {
-    // Basic world map centered approx. on 0,0
-    const map = L.map("map").setView([20, 0], 2);
+// ── MAP VIEW ────────────────────────────────────────────────────────────────
 
-    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-      maxZoom: 6,
-      attribution: "&copy; OpenStreetMap contributors"
-    }).addTo(map);
+function getPlanLevel(plan) {
+  if (plan.city && plan.city.toString().trim() !== "") return "city";
+  if (plan.region && plan.region.toString().trim() !== "") return "region";
+  return "country";
+}
 
-    // Simple country -> lat/lng mapping (extend over time)
-    const countryCoords = {
-      "Canada": [56.1, -106.3],
-      "United States": [37.8, -96.9],
-      "USA": [37.8, -96.9],
-      "Argentina": [-38.4, -63.6],
-      "United Kingdom": [55.3, -3.4],
-      "UK": [55.3, -3.4],
-      "Ireland": [53.1, -8.2],
-      "France": [46.2, 2.2],
-      "Germany": [51.2, 10.4],
-      "Italy": [41.9, 12.6],
-      "Spain": [40.4, -3.7],
-      "Portugal": [39.4, -8.2],
-      "Netherlands": [52.1, 5.3],
-      "Belgium": [50.8, 4.5],
-      "Luxembourg": [49.8, 6.1],
-      "Switzerland": [46.8, 8.2],
-      "Austria": [47.5, 14.6],
-      "Sweden": [62.0, 15.0],
-      "Lithuania": [55.2, 23.9],
-      "North Macedonia": [41.6, 21.7],
-      "India": [20.6, 78.9],
-      "Pakistan": [30.4, 69.3],
-      "Bangladesh": [23.7, 90.4],
-      "Nepal": [28.4, 84.1],
-      "South Africa": [-30.6, 22.9],
-      "Australia": [-25.3, 133.8],
-      "New Zealand": [-40.9, 174.9]
-    };
+function parseCoords(locationStr) {
+  if (!locationStr) return null;
+  const parts = locationStr.split(",").map(s => parseFloat(s.trim()));
+  if (parts.length === 2 && !isNaN(parts[0]) && !isNaN(parts[1])) return parts;
+  return null;
+}
 
-    // Group plans by country
-    const plansByCountry = {};
-    plans.forEach(plan => {
-      const c = plan.country || "Unknown";
-      if (!plansByCountry[c]) plansByCountry[c] = [];
-      plansByCountry[c].push(plan);
-    });
+// Colored circle markers using Leaflet's CircleMarker
+const MARKER_STYLES = {
+  country: { color: "#1565C0", fillColor: "#1E88E5", label: "National plan" },
+  region:  { color: "#2E7D32", fillColor: "#43A047", label: "Regional plan" },
+  city:    { color: "#B71C1C", fillColor: "#E53935", label: "City plan"     }
+};
 
-    Object.keys(plansByCountry).forEach(country => {
-      const coords = countryCoords[country];
-      if (!coords) {
-        // No coordinates configured for this country yet
-        return;
-      }
-
-      const plansList = plansByCountry[country];
-      const popupHtml = createCountryPopupHtml(country, plansList);
-
-      L.marker(coords)
-        .addTo(map)
-        .bindPopup(popupHtml);
-    });
+function createCircleMarker(coords, level) {
+  const style = MARKER_STYLES[level];
+  return L.circleMarker(coords, {
+    radius: level === "city" ? 7 : level === "region" ? 8 : 9,
+    color: style.color,
+    fillColor: style.fillColor,
+    fillOpacity: 0.85,
+    weight: 1.5
   });
 }
 
-function createCountryPopupHtml(country, plans) {
-  let html = `<strong>${country}</strong><br><ul>`;
-  plans.forEach(plan => {
-    const link = determinePlanLink(plan);
-    const safeTitle = plan.title || "Unnamed plan";
-    if (link) {
-      html += `<li><a href="${link}" target="_blank" rel="noopener noreferrer">${safeTitle}</a></li>`;
-    } else {
-      html += `<li>${safeTitle} (no link)</li>`;
-    }
+function createPopupHtml(plan) {
+  const level = getPlanLevel(plan);
+  const levelLabels = { country: "National", region: "Regional", city: "City" };
+  const link = determinePlanLink(plan);
+  const location = [plan.city, plan.region, plan.country].filter(Boolean).join(", ");
+
+  return `
+    <div style="max-width: 240px; font-family: sans-serif; font-size: 13px; line-height: 1.5;">
+      <strong style="font-size: 14px;">${plan.title || "Unnamed plan"}</strong><br>
+      <span style="color: #666;">${location}</span><br>
+      <span style="color: #666;">Year: ${plan.year || "—"}</span><br>
+      ${plan.organization ? `<span style="color: #666;">Org: ${plan.organization}</span><br>` : ""}
+      <span style="
+        display: inline-block;
+        margin-top: 4px;
+        padding: 2px 8px;
+        border-radius: 10px;
+        font-size: 11px;
+        font-weight: 500;
+        background: ${MARKER_STYLES[level].fillColor};
+        color: white;
+      ">${levelLabels[level]}</span>
+      ${link ? `<br><a href="${link}" target="_blank" rel="noopener noreferrer"
+        style="display:inline-block; margin-top:6px; color: #1565C0;">Open plan →</a>` : ""}
+    </div>
+  `;
+}
+
+function addLegend(map) {
+  const legend = L.control({ position: "bottomleft" });
+  legend.onAdd = function () {
+    const div = L.DomUtil.create("div");
+    div.style.cssText = `
+      background: white;
+      padding: 10px 14px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+      font-family: sans-serif;
+      font-size: 13px;
+      line-height: 2;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.15);
+    `;
+    div.innerHTML = Object.entries(MARKER_STYLES).map(([, s]) => `
+      <div style="display:flex; align-items:center; gap:8px;">
+        <span style="
+          display:inline-block; width:12px; height:12px;
+          border-radius:50%;
+          background:${s.fillColor};
+          border: 1.5px solid ${s.color};
+        "></span>
+        ${s.label}
+      </div>
+    `).join("");
+    return div;
+  };
+  legend.addTo(map);
+}
+
+function initMapView() {
+  fetchPlansIndex().then(plans => {
+    const map = L.map("map").setView([20, 0], 2);
+
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      maxZoom: 10,
+      attribution: "&copy; OpenStreetMap contributors"
+    }).addTo(map);
+
+    plans.forEach(plan => {
+      const coords = parseCoords(plan.location);
+      if (!coords) return;
+
+      const level = getPlanLevel(plan);
+      const marker = createCircleMarker(coords, level);
+      marker.bindPopup(createPopupHtml(plan));
+      marker.addTo(map);
+    });
+
+    addLegend(map);
   });
-  html += "</ul>";
-  return html;
 }
