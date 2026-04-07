@@ -1,5 +1,5 @@
 {
-  "title": "Guidance for Local Heat Plans - Netherlands, Netherlands",
+  "title": "Guidance for Local Heat Plans - Netherlands",
   "format": "Action Plan",
   "type": "Action Plan",
   "country": "Netherlands",
@@ -8,9 +8,8 @@
   "year": 2019,
   "organization": "",
   "location": "52.132633, 5.291265999999999",
+  "country_location": "52.132633, 5.291265999999999",
   "url": "https://klimaatadaptatienederland.nl/hulpmiddelen/overzicht/lokaal-hitteplan/",
   "pdf_link": "",
-  "submitter_name": "",
-  "submitter_email": "",
   "submitted_at": "2025-12-22T22:50:07.477Z"
 }
