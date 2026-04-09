@@ -171,7 +171,7 @@ function parseCoords(locationStr) {
 
 const MARKER_STYLES = {
   country: { color: "#1565C0", fillColor: "#1E88E5", label: "National plan" },
-  state:   { color: "#2E7D32", fillColor: "#43A047", label: "State/provincial plan" },
+  state:   { color: "#2E7D32", fillColor: "#43A047", label: "Subnational plan" },
   city:    { color: "#B71C1C", fillColor: "#E53935", label: "City plan" }
 };
 
