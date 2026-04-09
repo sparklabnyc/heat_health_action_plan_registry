@@ -29,7 +29,7 @@ function initTableView() {
 
     // populate country filter options
     const countries = Array.from(
-      new Set(plans.map(p => p.country).filter(Boolean))
+      new Set(plans.map(p => p.country_display || p.country).filter(Boolean))
     ).sort((a, b) => a.localeCompare(b));
 
     countries.forEach(country => {
@@ -41,28 +41,28 @@ function initTableView() {
 
     // sort plans by country before rendering
     plans.sort((a, b) => {
-      const cA = (a.country || "").toLowerCase();
-      const cB = (b.country || "").toLowerCase();
+      const cA = (a.country_display || a.country || "").toLowerCase();
+      const cB = (b.country_display || b.country || "").toLowerCase();
       return cA.localeCompare(cB);
     });
 
-    // render initial table
     renderTable(plans, tableBody);
 
-    // search + filter handlers
     function applyFilters() {
       const searchTerm = searchInput.value.toLowerCase().trim();
       const selectedCountry = countryFilter.value;
 
       const filtered = plans.filter(plan => {
-        if (selectedCountry && plan.country !== selectedCountry) return false;
+        const displayCountry = plan.country_display || plan.country;
+        if (selectedCountry && displayCountry !== selectedCountry) return false;
 
         const haystack = [
           plan.title,
-          plan.country,
-          plan.region,
+          plan.country_display || plan.country,
+          plan.state,
           plan.city,
-          plan.year
+          plan.year,
+          plan.description
         ]
           .map(v => (v || "").toString().toLowerCase())
           .join(" ");
@@ -84,7 +84,7 @@ function renderTable(plans, tableBody) {
 
   const plansByCountry = {};
   plans.forEach(plan => {
-    const country = plan.country || "Unknown";
+    const country = plan.country_display || plan.country || "Unknown";
     if (!plansByCountry[country]) plansByCountry[country] = [];
     plansByCountry[country].push(plan);
   });
@@ -111,10 +111,10 @@ function renderTable(plans, tableBody) {
       titleTd.textContent = plan.title || "";
 
       const countryTd = document.createElement("td");
-      countryTd.textContent = plan.country || "";
+      countryTd.textContent = plan.country_display || plan.country || "";
 
-      const regionTd = document.createElement("td");
-      regionTd.textContent = plan.region || "";
+      const stateTd = document.createElement("td");
+      stateTd.textContent = plan.state || "";
 
       const cityTd = document.createElement("td");
       cityTd.textContent = plan.city || "";
@@ -138,7 +138,7 @@ function renderTable(plans, tableBody) {
 
       tr.appendChild(titleTd);
       tr.appendChild(countryTd);
-      tr.appendChild(regionTd);
+      tr.appendChild(stateTd);
       tr.appendChild(cityTd);
       tr.appendChild(yearTd);
       tr.appendChild(linkTd);
@@ -158,7 +158,7 @@ function determinePlanLink(plan) {
 
 function getPlanLevel(plan) {
   if (plan.city && plan.city.toString().trim() !== "") return "city";
-  if (plan.region && plan.region.toString().trim() !== "") return "region";
+  if (plan.state && plan.state.toString().trim() !== "") return "state";
   return "country";
 }
 
@@ -169,11 +169,10 @@ function parseCoords(locationStr) {
   return null;
 }
 
-// Colored circle markers using Leaflet's CircleMarker
 const MARKER_STYLES = {
   country: { color: "#1565C0", fillColor: "#1E88E5", label: "National plan" },
-  region:  { color: "#2E7D32", fillColor: "#43A047", label: "Regional plan" },
-  city:    { color: "#B71C1C", fillColor: "#E53935", label: "City plan"     }
+  state:   { color: "#2E7D32", fillColor: "#43A047", label: "State/provincial plan" },
+  city:    { color: "#B71C1C", fillColor: "#E53935", label: "City plan" }
 };
 
 function createCircleMarker(coords, level) {
@@ -189,9 +188,9 @@ function createCircleMarker(coords, level) {
 
 function createPopupHtml(plan) {
   const level = getPlanLevel(plan);
-  const levelLabels = { country: "National", region: "Regional", city: "City" };
+  const levelLabels = { country: "National", state: "State/Provincial", city: "City" };
   const link = determinePlanLink(plan);
-  const location = [plan.city, plan.region, plan.country].filter(Boolean).join(", ");
+  const location = [plan.city, plan.state, plan.country_display || plan.country].filter(Boolean).join(", ");
 
   return `
     <div style="max-width: 240px; font-family: sans-serif; font-size: 13px; line-height: 1.5;">
