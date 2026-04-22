@@ -178,3 +178,16 @@ footer .table-note {
   color: #555;
   margin-bottom: 0.5em;
 }
+
+/* ---------- Stats bar ---------- */
+.stats-bar {
+  padding: 0.75rem 0;
+  font-size: 1rem;
+  color: #555;
+  border-bottom: 1px solid #eee;
+}
+
+.stats-bar p {
+  margin: 0;
+  font-weight: 500;
+}
