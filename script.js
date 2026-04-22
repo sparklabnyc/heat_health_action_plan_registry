@@ -27,6 +27,14 @@ function initTableView() {
   fetchPlansIndex().then(data => {
     let plans = data || [];
 
+    // ── Plan count ───────────────────────────────────────────────────────────
+    const countEl = document.getElementById("planCount");
+    if (countEl) {
+      const numPlans = plans.length;
+      const numCountries = new Set(plans.map(p => p.country_display || p.country)).size;
+      countEl.textContent = `${numPlans} heat-health action plans from ${numCountries} countries`;
+    }
+
     // populate country filter options
     const countries = Array.from(
       new Set(plans.map(p => p.country_display || p.country).filter(Boolean))
