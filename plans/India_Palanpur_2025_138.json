@@ -14,8 +14,8 @@
   "organization": "Gujarat State Disaster Management Authority; Palanpur Municipality; Council on Energy, Environment and Water (GSDMA; CEEW)",
   "landscapes": "Arid, Urban, Household, Institutional, Occupational, Mass Gatherings, Tropical and Subtropical",
   "description": "This city-level heat action plan for Palanpur, Gujarat uses on-ground socio-economic data, historical climate datasets, future climate projections, satellite-derived indices, and ward-level heat-risk mapping to guide heat preparedness, response, and long-term mitigation. It includes local heat-health thresholds, early warning, inter-agency coordination, health sector preparedness, public communication, occupational protections, community cooling systems, water access, urban greening, monitoring and evaluation, and heat-related morbidity and mortality surveillance.",
-  "location": "24.1724338, 72.434581",
-  "country_location": "20.593684, 78.96288",
+  "location": "",
+  "country_location": "",
   "url": "https://cravis.ai/resources/action-plan",
   "pdf_link": ""
 }
