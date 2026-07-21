@@ -14,8 +14,8 @@
   "organization": "UK Health Security Agency (UKHSA)",
   "landscapes": "Household, Institutional, Mass Gatherings, Occupational, Rural, Urban",
   "description": "Newer version available, English the 2024 to 2025 second edition with the 2026 to 2027 version because it is the newer UKHSA Adverse Weather and Health Plan.",
-  "location": "",
-  "country_location": "",
+  "location": "52.83816401015793, -2.327480843616569",
+  "country_location": "55.378051, -3.435973",
   "url": "https://assets.publishing.service.gov.uk/media/69cbbd2b024cdf09254f3f57/Adverse_Weather_and_Health_Plan_2026_2027.pdf?utm_",
   "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/United_Kingdom_England_2026_93.pdf"
 }
