@@ -14,8 +14,8 @@
   "organization": "Ministry of Health",
   "landscapes": "Household, Institutional, Urban",
   "description": "",
-  "location": "",
-  "country_location": "",
+  "location": "49.815273, 6.129582999999999",
+  "country_location": "49.815273, 6.129582999999999",
   "url": "",
   "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Luxembourg__2023_15.pdf"
 }
