@@ -1,5 +1,5 @@
 {
-  "title": "Handlingsplan V?rmeb?lja / Heatwave Action Plan - Ekero, Sweden",
+  "title": "Handlingsplan Värmebölja / Heatwave Action Plan - Ekero, Sweden",
   "format": "Action Plan",
   "type": "Action Plan",
   "resource_type": "Resource Library, Action Plan",
@@ -14,8 +14,8 @@
   "organization": "Ekero Municipality Government",
   "landscapes": "Household, Institutional, Occupational",
   "description": "",
-  "location": "59.283333, 17.8",
-  "country_location": "60.12816100000001, 18.643501",
+  "location": "",
+  "country_location": "",
   "url": "https://www.ekero.se/download/18.ad6b5961861cb65248155e6/1675754625243/Handlingsplan%20vid%20V%C3%A4rmeb%C3%B6lja.pdf",
   "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Sweden__2023_20.pdf"
 }
