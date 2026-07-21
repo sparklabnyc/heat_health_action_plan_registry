@@ -1,5 +1,5 @@
 {
-  "title": "Plan canicule ? Plan d?action en cas de grande chaleur / Heat Wave Plan ? Action plan in the event of extreme heat - Luxembourg",
+  "title": "Plan canicule – Plan d’action en cas de grande chaleur / Heat Wave Plan – Action plan in the event of extreme heat - Luxembourg",
   "format": "Action Plan",
   "type": "Action Plan",
   "resource_type": "Resource Library, Action Plan",
@@ -14,8 +14,8 @@
   "organization": "Ministry of Health",
   "landscapes": "Household, Institutional, Urban",
   "description": "",
-  "location": "49.815273, 6.129582999999999",
-  "country_location": "49.815273, 6.129582999999999",
+  "location": "",
+  "country_location": "",
   "url": "",
   "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Luxembourg__2023_15.pdf"
 }
