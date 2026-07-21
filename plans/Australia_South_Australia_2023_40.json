@@ -14,8 +14,8 @@
   "organization": "South Austraila Health, Disaster Management Branch (DMB)",
   "landscapes": "Urban, Rural, Household, Institutional, Occupational, Athletics",
   "description": "",
-  "location": "",
-  "country_location": "",
+  "location": "-30.0002315, 136.2091547",
+  "country_location": "-25.274398, 133.775136",
   "url": "",
   "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Australia_South_Australia_2023_40.pdf"
 }
