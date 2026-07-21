@@ -14,8 +14,8 @@
   "organization": "Western Sydney Regional Organisation of Councils (WSROC)",
   "landscapes": "Household, Institutional, Occupational, Urban",
   "description": "",
-  "location": "",
-  "country_location": "",
+  "location": "-33.8817547, 150.8609358",
+  "country_location": "-25.274398, 133.775136",
   "url": "https://wsroc.com.au/projects/project-turn-down-the-heat/greater-sydney-heat-smart-city-plan",
   "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Australia_New_South_Wales_2024_97.pdf"
 }
