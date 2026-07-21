@@ -1,5 +1,5 @@
 {
-  "title": "Plan Andaluz para la Prevenci?n de los Efectos de las Temperaturas Excesivas sobre la Salud 2022 / Andalusian Plan for the Prevention of the Effects of Excessive Temperatures on Health 2022 - Andalusia, Spain",
+  "title": "Plan Andaluz para la Prevención de los Efectos de las Temperaturas Excesivas sobre la Salud 2022 / Andalusian Plan for the Prevention of the Effects of Excessive Temperatures on Health 2022 - Andalusia, Spain",
   "format": "Action Plan",
   "type": "Action Plan",
   "resource_type": "Resource Library, Action Plan",
@@ -14,8 +14,8 @@
   "organization": "Andalusian government (SAS)",
   "landscapes": "Household, Institutional, Occupational, Urban",
   "description": "",
-  "location": "37.5442706, -4.7277528",
-  "country_location": "40.46366700000001, -3.74922",
+  "location": "",
+  "country_location": "",
   "url": "",
   "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Spain_Andalusia_2022_17.pdf"
 }
