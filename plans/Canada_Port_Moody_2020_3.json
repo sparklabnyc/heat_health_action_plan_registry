@@ -14,8 +14,8 @@
   "organization": "City of Port Moody",
   "landscapes": "Urban, Household, Institutional",
   "description": "",
-  "location": "49.2849107, -122.8677562",
-  "country_location": "56.130366, -106.346771",
+  "location": "",
+  "country_location": "",
   "url": "https://api.ghdcdn.com/portmoody-edocs/v1/eDocs/Get?docnumber=511721",
   "pdf_link": ""
 }
