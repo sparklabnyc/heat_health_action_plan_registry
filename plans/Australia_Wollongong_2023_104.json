@@ -14,8 +14,8 @@
   "organization": "Wollongong City Council",
   "landscapes": "Athletics, Household, Institutional, Mass Gatherings, Occupational, Urban",
   "description": "",
-  "location": "-34.4248336, 150.8931132",
-  "country_location": "-25.274398, 133.775136",
+  "location": "",
+  "country_location": "",
   "url": "https://wollongong.nsw.gov.au/__data/assets/pdf_file/0014/210830/Urban-Heat-Strategy.pdf",
   "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Australia_New_South_Wales_2023_104.pdf"
 }
