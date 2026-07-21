@@ -14,8 +14,8 @@
   "organization": "Municipality of La Plata (MLP)",
   "landscapes": "Household, Institutional, Urban",
   "description": "",
-  "location": "",
-  "country_location": "",
+  "location": "-34.9204948, -57.95356570000001",
+  "country_location": "-38.416097, -63.61667199999999",
   "url": "",
   "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Argentina__2014_16.pdf"
 }
