@@ -14,8 +14,8 @@
   "organization": "UK Health Security Agency (UKHSA)",
   "landscapes": "Household, Institutional, Urban",
   "description": "",
-  "location": "55.378051, -3.435973",
-  "country_location": "55.378051, -3.435973",
+  "location": "",
+  "country_location": "",
   "url": "https://www.gov.uk/government/publications/adverse-weather-and-health-plan",
   "pdf_link": ""
 }
