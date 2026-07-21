@@ -14,8 +14,8 @@
   "organization": "Department of Health (DH)",
   "landscapes": "Athletics, Household, Institutional, Occupational, Rural, Urban",
   "description": "",
-  "location": "",
-  "country_location": "",
+  "location": "52.83816401015793, -2.327480843616569",
+  "country_location": "55.378051, -3.435973",
   "url": "https://assets.publishing.service.gov.uk/media/5a7c83bde5274a559005a655/dh_127235.pdf",
   "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/United_Kingdom_England_2011_94.pdf"
 }
