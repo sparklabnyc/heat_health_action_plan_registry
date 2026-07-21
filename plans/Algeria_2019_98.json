@@ -1,5 +1,5 @@
 {
-  "title": "Plan National Climat de l?Alg?rie / Algeria National Climate Plan - Algeria",
+  "title": "Plan National Climat de l’Algérie / Algeria National Climate Plan - Algeria",
   "format": "Action Plan",
   "type": "Action Plan",
   "resource_type": "Resource Library, Action Plan",
@@ -11,11 +11,11 @@
   "city": "",
   "language": "French",
   "year": 2019,
-  "organization": "Minist?re de l?Environnement et des ?nergies Renouvelables (MEER)",
+  "organization": "Ministère de l’Environnement et des Énergies Renouvelables (MEER)",
   "landscapes": "Arid, Institutional, Rural, Urban",
   "description": "",
-  "location": "28.033886, 1.659626",
-  "country_location": "28.033886, 1.659626",
+  "location": "",
+  "country_location": "",
   "url": "https://heathealth.info/resources/algeria-national-climate-plan/",
   "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Algeria__2019_98.pdf"
 }
