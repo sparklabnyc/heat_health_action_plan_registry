@@ -1,5 +1,5 @@
 {
-  "title": "Plan de Contingencia Hidrometeorol?gica / Hydrometeorological Contingency Plan - La Plata, Argentina",
+  "title": "Plan de Contingencia Hidrometeorológica / Hydrometeorological Contingency Plan - La Plata, Argentina",
   "format": "Action Plan",
   "type": "Action Plan",
   "resource_type": "Resource Library, Action Plan",
@@ -14,8 +14,8 @@
   "organization": "Municipality of La Plata (MLP)",
   "landscapes": "Household, Institutional, Urban",
   "description": "",
-  "location": "-34.9204948, -57.95356570000001",
-  "country_location": "-38.416097, -63.61667199999999",
+  "location": "",
+  "country_location": "",
   "url": "",
   "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Argentina__2014_16.pdf"
 }
