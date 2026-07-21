@@ -14,8 +14,8 @@
   "organization": "Ministry of Health",
   "landscapes": "Household, Institutional, Occupational, Urban, Arid",
   "description": "",
-  "location": "",
-  "country_location": "",
+  "location": "40.46366700000001, -3.74922",
+  "country_location": "40.46366700000001, -3.74922",
   "url": "",
   "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Spain__2023_19.pdf"
 }
