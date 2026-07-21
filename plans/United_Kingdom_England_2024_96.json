@@ -14,8 +14,8 @@
   "organization": "UK Health Security Agency (UKHSA)",
   "landscapes": "Household, Institutional, Mass Gatherings",
   "description": "This 2024-2025 second edition updates the 2023 AWHP and builds on the previous Heatwave Plan for England and Cold Weather Plan for England. Note that the document applies to England, not all UK devolved health systems. Second edition for 2024",
-  "location": "",
-  "country_location": "",
+  "location": "52.83816401015793, -2.327480843616569",
+  "country_location": "55.378051, -3.435973",
   "url": "https://heathealth.info/resources/adverse-weather-and-health-plan-protecting-health-from-weather-related-harm-2024-2025/",
   "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/United_Kingdom_England_2024_96.pdf"
 }
