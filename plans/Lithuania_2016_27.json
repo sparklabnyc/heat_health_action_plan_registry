@@ -1,5 +1,5 @@
 {
-  "title": "Nacionalinis visuomen?s sveikatos ir kar??io prevencijos 2016?2020 met? veiksm? planas / National Public Health and Heat Prevention 2016-2020 Action Plan - Lithuania",
+  "title": "Nacionalinis visuomenės sveikatos ir karščio prevencijos 2016–2020 metų veiksmų planas / National Public Health and Heat Prevention 2016-2020 Action Plan - Lithuania",
   "format": "Action Plan",
   "type": "Action Plan",
   "resource_type": "Resource Library, Action Plan",
@@ -14,8 +14,8 @@
   "organization": "Ministry of Health of the Republic of Lithuania",
   "landscapes": "Household, Institutional, Occupational, Urban",
   "description": "",
-  "location": "55.169438, 23.881275",
-  "country_location": "55.169438, 23.881275",
+  "location": "",
+  "country_location": "",
   "url": "https://www.e-tar.lt/portal/it/legalAct/78ffb580a97511e5be7fbe3f919a1ebe",
   "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Lithuania__2016_27.pdf"
 }
