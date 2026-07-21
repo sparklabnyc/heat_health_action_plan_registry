@@ -14,8 +14,8 @@
   "organization": "BC Centre for Disease Control, BC Ministry of Health (BCCDC, MoH)",
   "landscapes": "Household, Institutional, Occupational, Rural, Urban",
   "description": "",
-  "location": "53.7266683, -127.6476206",
-  "country_location": "56.130366, -106.346771",
+  "location": "",
+  "country_location": "",
   "url": "",
   "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Canada_British_Columbia_2023_8.pdf"
 }
