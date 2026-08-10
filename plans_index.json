@@ -3715,5 +3715,26 @@
     "country_location": "-30.559482, 22.937506",
     "url": "https://resource.capetown.gov.za/documentcentre/Documents/City%20research%20reports%20and%20review/ClimateChangeStrategyandActionPlanAnnualImplementationReport2023-24.pdf?utm_",
     "pdf_link": ""
+  },
+  {
+    "title": "ACTUALIZACIÓN DEL PLAN DE ADAPTACIÓN AL CAMBIO CLIMÁTICO SECTOR SALUD - Chile",
+    "format": "Action Plan",
+    "type": "Action Plan",
+    "resource_type": "Resource Library, Action Plan",
+    "topics": "Governance and Policy",
+    "country": "Chile",
+    "country_display": "Chile",
+    "region": "Latin America & Caribbean",
+    "state": "",
+    "city": "",
+    "language": "Spanish",
+    "year": 2024,
+    "organization": "Ministry of Health (MINSAL)",
+    "landscapes": "Healthcare, Institutional, Occupational, Rural, Urban",
+    "description": "A national plan that brings together all health sector initiatives to adapt to climate change",
+    "location": "-35.675147, -71.542969",
+    "country_location": "-35.675147, -71.542969",
+    "url": "https://degreyd.minsal.cl/wp-content/uploads/2025/02/Actualizacion-Plan-Sectorial-de-Cambio-Climatico-VF.pdf.pdf",
+    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Chile__2024_3.pdf"
   }
 ]
