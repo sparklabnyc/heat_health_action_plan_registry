@@ -131,18 +131,19 @@ function renderTable(plans, tableBody) {
       yearTd.textContent = plan.year || "";
 
       const linkTd = document.createElement("td");
-      const link = determinePlanLink(plan);
-      if (link) {
+      const { pdf, source } = getPlanLinks(plan);
+      const addLink = (href, text, cls) => {
         const a = document.createElement("a");
-        a.href = link;
+        a.href = href;
         a.target = "_blank";
         a.rel = "noopener noreferrer";
-        a.className = "plan-link-btn";
-        a.textContent = "Open plan";
+        a.className = cls;
+        a.textContent = text;
         linkTd.appendChild(a);
-      } else {
-        linkTd.textContent = "No link available";
-      }
+      };
+      if (pdf) addLink(pdf, "PDF", "plan-link-btn");
+      if (source) addLink(source, pdf ? "Source" : "Open plan", pdf ? "plan-source-link" : "plan-link-btn");
+      if (!pdf && !source) linkTd.textContent = "No link available";
 
       tr.appendChild(titleTd);
       tr.appendChild(countryTd);
@@ -161,6 +162,14 @@ function determinePlanLink(plan) {
   if (plan.pdf_drive_link && plan.pdf_drive_link.startsWith("http")) return plan.pdf_drive_link;
   return null;
 }
+
+function getPlanLinks(plan) {
+  const isHttp = s => typeof s === "string" && s.startsWith("http");
+  return {
+    pdf: isHttp(plan.pdf_link) ? plan.pdf_link : (isHttp(plan.pdf_drive_link) ? plan.pdf_drive_link : null),
+    source: isHttp(plan.url) ? plan.url : null
+  };
+}f
 
 // ── MAP VIEW ────────────────────────────────────────────────────────────────
 
@@ -197,7 +206,7 @@ function createCircleMarker(coords, level) {
 function createPopupHtml(plan) {
   const level = getPlanLevel(plan);
   const levelLabels = { country: "National", state: "State/Provincial", city: "City" };
-  const link = determinePlanLink(plan);
+  const { pdf, source } = getPlanLinks(plan);
   const location = [plan.city, plan.state, plan.country_display || plan.country].filter(Boolean).join(", ");
 
   return `
@@ -216,8 +225,12 @@ function createPopupHtml(plan) {
         background: ${MARKER_STYLES[level].fillColor};
         color: white;
       ">${levelLabels[level]}</span>
-      ${link ? `<br><a href="${link}" target="_blank" rel="noopener noreferrer"
-        style="display:inline-block; margin-top:6px; color: #1565C0;">Open plan →</a>` : ""}
+            ${(pdf || source) ? "<br>" : ""}
+      ${pdf ? `<a href="${pdf}" target="_blank" rel="noopener noreferrer"
+        style="display:inline-block; margin-top:6px; color: #1565C0;">PDF →</a>` : ""}
+      ${pdf && source ? " &nbsp;·&nbsp; " : ""}
+      ${source ? `<a href="${source}" target="_blank" rel="noopener noreferrer"
+        style="display:inline-block; margin-top:6px; color: #1565C0;">${pdf ? "Source" : "Open plan"} →</a>` : ""}
     </div>
   `;
 }
