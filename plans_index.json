@@ -18,7 +18,7 @@
     "location": "-30.559482, 22.937506",
     "country_location": "-30.559482, 22.937506",
     "url": "https://www.health.gov.za/wp-content/uploads/2022/06/National-Heat-Health-Action-Guidelines.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/South_Africa__2020_South_Africa_National_Heat_Health_Action_Plan.pdf"
   },
   {
     "title": "Pitt Meadows Hot Weather Response Plan - Pitt Meadows, Canada",
@@ -39,7 +39,7 @@
     "location": "49.2190648, -122.6895165",
     "country_location": "56.130366, -106.346771",
     "url": "https://www.pittmeadows.ca/sites/default/files/docs/city-services/emergencyprepared/hot_weather_response_plan.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Canada_Pitt_Meadows_2011_Pitt_Meadows_Hot_Weather_Response_Plan.pdf"
   },
   {
     "title": "Port Moody Climate Action Plan - Port Moody, Canada",
@@ -60,7 +60,7 @@
     "location": "49.2849107, -122.8677562",
     "country_location": "56.130366, -106.346771",
     "url": "https://api.ghdcdn.com/portmoody-edocs/v1/eDocs/Get?docnumber=511721",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Canada_Port_Moody_2020_Port_Moody_Climate_Action_Plan.pdf"
   },
   {
     "title": "Excessive Heat Emergency Response Plan - New Hampshire, United States of America",
@@ -81,7 +81,7 @@
     "location": "43.1938516, -71.5723953",
     "country_location": "38.7945952, -106.5348379",
     "url": "https://www.dhhs.nh.gov/sites/g/files/ehbemt476/files/documents/2021-11/nh-excessive-heat-plan-2014.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_New_Hampshire_2014_Excessive_Heat_Emergency_Response_Plan.pdf"
   },
   {
     "title": "Surrey's Extreme Heat Response Guideline - Surrey, Canada",
@@ -102,7 +102,7 @@
     "location": "49.1913466, -122.8490125",
     "country_location": "56.130366, -106.346771",
     "url": "https://heathealth.info/wp-content/uploads/2024-surrey-extreme-heat-response-guideline.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Canada_Surrey_2024_Surrey_s_Extreme_Heat_Response_Guideline.pdf"
   },
   {
     "title": "City of Greater Sudbury Hot Weather Response Plan - Sudbury, Canada",
@@ -123,7 +123,7 @@
     "location": "46.4931827, -80.99052329999999",
     "country_location": "56.130366, -106.346771",
     "url": "https://www.greatersudbury.ca/sites/sudburyen/assets/content/div_emergprep/documents/hot_weather_response_plan_2010.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Canada_Sudbury_2010_City_of_Greater_Sudbury_Hot_Weather_Response_Plan.pdf"
   },
   {
     "title": "Heat Resilience Playbook: Keeping Austin Cool - Austin, United States of America",
@@ -144,7 +144,7 @@
     "location": "30.267153, -97.7430608",
     "country_location": "38.7945952, -106.5348379",
     "url": "https://austin.widen.net/view/pdf/zvrokafwhf/austin-resilience-playbook-10-1.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_Texas_2024_Heat_Resilience_Playbook_Keeping_Austin_Cool.pdf"
   },
   {
     "title": "BC Provincial Heat Alert and Response System (BC HARS): 2023 - British Columbia, Canada",
@@ -165,7 +165,7 @@
     "location": "53.7266683, -127.6476206",
     "country_location": "56.130366, -106.346771",
     "url": "",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Canada_British_Columbia_2023_8.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Canada_British_Columbia_2023_BC_Provincial_Heat_Alert_and_Response_System_BC.pdf"
   },
   {
     "title": "Keeping Metro Boston Cool - Boston, United States of America",
@@ -186,7 +186,7 @@
     "location": "42.3555076, -71.0565364",
     "country_location": "38.7945952, -106.5348379",
     "url": "",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/United_States_of_America__2022_9.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_Boston_2022_Keeping_Metro_Boston_Cool.pdf"
   },
   {
     "title": "City of Phoenix 2024 Heat Response Plan - Phoenix, United States of America",
@@ -207,7 +207,7 @@
     "location": "33.4482948, -112.0725488",
     "country_location": "38.7945952, -106.5348379",
     "url": "https://www.phoenix.gov/content/dam/phoenix/heatsite/documents/FINAL%20-%202024%20Heat%20Response%20Plan%20.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_Phoenix_2024_City_of_Phoenix_2024_Heat_Response_Plan.pdf"
   },
   {
     "title": "PDMA Khyber Pakhtunkhwa Heat Wave Action Plan 2022 - Khyber Pakhtunkhwa, Pakistan",
@@ -228,7 +228,7 @@
     "location": "34.1515173, 71.5723953",
     "country_location": "30.375321, 69.34511599999999",
     "url": "https://heathealth.info/resources/heat-wave-action-plan-government-of-khyber-pakhtunkhwa/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Pakistan_Khyber_Pakhtunkhwa_2022_PDMA_Khyber_Pakhtunkhwa_Heat_Wave_Action_Plan_2022.pdf"
   },
   {
     "title": "Karachi Heatwave Management: A Guide to Planning and Response - Karachi, Pakistan",
@@ -249,7 +249,7 @@
     "location": "24.8607343, 67.0011364",
     "country_location": "30.375321, 69.34511599999999",
     "url": "https://heathealth.info/wp-content/uploads/HeatwaveManagementPlan.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Pakistan_Karachi_2017_Karachi_Heatwave_Management_A_Guide_to_Planning.pdf"
   },
   {
     "title": "Plano de Contingência Saúde Sazonal – Módulo Verão Referenciais 2022 / Health Contingency Plan Seasonal – Summer Module Benchmarks 2022 - Portugal",
@@ -270,7 +270,7 @@
     "location": "39.39987199999999, -8.224454",
     "country_location": "39.39987199999999, -8.224454",
     "url": "",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Portugal__2023_13.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Portugal__2023_Plano_de_Contingencia_Saude_Sazonal_Modulo_Verao.pdf"
   },
   {
     "title": "Piano Nazionale di Adattamento ai Cambiamenti Climatici / National Plan for Adaptation to Climate Change - Italy",
@@ -291,7 +291,7 @@
     "location": "41.87194, 12.56738",
     "country_location": "41.87194, 12.56738",
     "url": "",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Italy__2022_14.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Italy__2022_Piano_Nazionale_di_Adattamento_ai_Cambiamenti.pdf"
   },
   {
     "title": "Plan canicule – Plan d’action en cas de grande chaleur / Heat Wave Plan – Action plan in the event of extreme heat - Luxembourg",
@@ -312,7 +312,7 @@
     "location": "49.815273, 6.129582999999999",
     "country_location": "49.815273, 6.129582999999999",
     "url": "",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Luxembourg__2023_15.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Luxembourg__2023_Plan_canicule_Plan_d_action_en_cas_de_grande.pdf"
   },
   {
     "title": "Plan de Contingencia Hidrometeorológica / Hydrometeorological Contingency Plan - La Plata, Argentina",
@@ -333,7 +333,7 @@
     "location": "-34.9204948, -57.95356570000001",
     "country_location": "-38.416097, -63.61667199999999",
     "url": "",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Argentina__2014_16.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Argentina_La_Plata_2014_Plan_de_Contingencia_Hidrometeorologica.pdf"
   },
   {
     "title": "Plan Andaluz para la Prevención de los Efectos de las Temperaturas Excesivas sobre la Salud 2022 / Andalusian Plan for the Prevention of the Effects of Excessive Temperatures on Health 2022 - Andalusia, Spain",
@@ -354,7 +354,7 @@
     "location": "37.5442706, -4.7277528",
     "country_location": "40.46366700000001, -3.74922",
     "url": "",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Spain_Andalusia_2022_17.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Spain_Andalusia_2022_Plan_Andaluz_para_la_Prevencion_de_los_Efectos_de.pdf"
   },
   {
     "title": "Plan De Actuaciones Preventivas De Los Efectos Del Exceso De Temperaturas Sobre La Salud Cantabria 2022 / Preventive Action Plan for the Effects of Excessive Heat on Health, Cantabria 2022 - Cantabria, Spain",
@@ -375,7 +375,7 @@
     "location": "43.1828396, -3.9878427",
     "country_location": "40.46366700000001, -3.74922",
     "url": "https://heathealth.info/resources/plan-de-actuaciones-preventivas-de-los-efectos-del-exceso-de-temperaturas-sobre-la-salud-cantabria-2022/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Spain_Cantabria_2022_Plan_De_Actuaciones_Preventivas_De_Los_Efectos.pdf"
   },
   {
     "title": "Handlingsplan Värmebölja / Heatwave Action Plan - Ekero, Sweden",
@@ -396,7 +396,7 @@
     "location": "59.283333, 17.8",
     "country_location": "60.12816100000001, 18.643501",
     "url": "https://www.ekero.se/download/18.ad6b5961861cb65248155e6/1675754625243/Handlingsplan%20vid%20V%C3%A4rmeb%C3%B6lja.pdf",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Sweden__2023_20.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Sweden_Ekero_2023_Handlingsplan_Varmebolja_Heatwave_Action_Plan.pdf"
   },
   {
     "title": "Nationaal Hitteplan / National Heatwave Plan - Netherlands",
@@ -417,7 +417,7 @@
     "location": "52.132633, 5.291265999999999",
     "country_location": "52.132633, 5.291265999999999",
     "url": "https://www.rivm.nl/bibliotheek/rapporten/2014-0051.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Netherlands__2015_Nationaal_Hitteplan_National_Heatwave_Plan.pdf"
   },
   {
     "title": "Att hantera hälsoeffekter av värmeböljor - Vägledning till handlingsplaner / Dealing with the Health Effects of Heat Waves - Guidance for Action Plans - Sweden",
@@ -438,7 +438,7 @@
     "location": "60.12816100000001, 18.643501",
     "country_location": "60.12816100000001, 18.643501",
     "url": "https://www.folkhalsomyndigheten.se/publikationer-och-material/publikationsarkiv/a/att-hantera-halsoeffekter-av-varmeboljor-vagledning-till-handlingsplaner/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Sweden__2022_Att_hantera_halsoeffekter_av_varmeboljor.pdf"
   },
   {
     "title": "Gesamtstaatlicher Hitzeschutzplan 2017 / General government heat protection plan 2017 - Austria",
@@ -480,7 +480,7 @@
     "location": "40.41672790000001, -3.7032905",
     "country_location": "40.46366700000001, -3.74922",
     "url": "https://heathealth.info/resources/vigilancia-y-control-de-los-efectos-de-las-olas-de-calor-2022-madrid-surveillance-and-control-of-heatwave-effects-2022-madrid/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Spain_Madrid_2022_Vigilancia_y_Control_de_los_Efectos_de_las_Olas.pdf"
   },
   {
     "title": "Hitzeschutzplan Tirol / Heat Protection Plan Tirol - Tirol, Austria",
@@ -501,7 +501,7 @@
     "location": "47.2537414, 11.601487",
     "country_location": "47.516231, 14.550072",
     "url": "https://www.preventionweb.net/publication/policies-and-plans/austria-heat-protection-plan-tirol",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Austria_Tirol_2023_Hitzeschutzplan_Tirol_Heat_Protection_Plan_Tirol.pdf"
   },
   {
     "title": "Nacionalinis visuomenės sveikatos ir karščio prevencijos 2016–2020 metų veiksmų planas / National Public Health and Heat Prevention 2016-2020 Action Plan - Lithuania",
@@ -522,7 +522,7 @@
     "location": "55.169438, 23.881275",
     "country_location": "55.169438, 23.881275",
     "url": "https://www.e-tar.lt/portal/it/legalAct/78ffb580a97511e5be7fbe3f919a1ebe",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Lithuania__2016_27.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Lithuania__2016_Nacionalinis_visuomenes_sveikatos_ir_karscio.pdf"
   },
   {
     "title": "Plan de vigilancia y prevención de los efectos del exceso de temperaturas sobre la salud / Plan for Monitoring and Preventing the Effects of Excessive Temperatures on Health - Extremadura, Spain",
@@ -543,7 +543,7 @@
     "location": "39.4937392, -6.0679194",
     "country_location": "40.46366700000001, -3.74922",
     "url": "https://saludextremadura.ses.es/filescms/web/uploaded_files/CustomContentResources/1%20Ola%20calor%20Plan%20Extremadura.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Spain_Extremadura_2013_Plan_de_vigilancia_y_prevencion_de_los_efectos.pdf"
   },
   {
     "title": "Hitzeschutzplan Steiermark / Styrian Heat Protection Plan - Styria, Austria",
@@ -564,7 +564,7 @@
     "location": "47.2649012, 14.8939302",
     "country_location": "47.516231, 14.550072",
     "url": "https://www.gesundheit.steiermark.at/cms/dokumente/11685019_72561200/6a7dd95a/HSPl_Stmk_2024.pdf",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Austria_Styria_2023_29.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Austria_Styria_2023_Hitzeschutzplan_Steiermark_Styrian_Heat.pdf"
   },
   {
     "title": "Hitzeschutzplan für Gesundheit des BMG / Heat Protection Plan for Health of the Federal Ministry of Health - Germany",
@@ -585,7 +585,7 @@
     "location": "51.165691, 10.451526",
     "country_location": "51.165691, 10.451526",
     "url": "https://www.bundesgesundheitsministerium.de/ministerium/meldungen/lauterbach-besser-auf-gesundheitliche-auswirkungen-von-hitze-vorbereiten",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Germany__2023_Hitzeschutzplan_fur_Gesundheit_des_BMG_Heat.pdf"
   },
   {
     "title": "Plan vaudois de prévention et d’intervention sanitaire en cas de canicule / Vaud Heatwave Prevention and Health Intervention Plan - Vaud, Switzerland",
@@ -606,7 +606,7 @@
     "location": "46.5613135, 6.536765",
     "country_location": "46.818188, 8.227511999999999",
     "url": "https://heathealth.info/wp-content/uploads/Plan_vaudois_canicule_2020.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Switzerland_Vaud_2020_Plan_vaudois_de_prevention_et_d_intervention.pdf"
   },
   {
     "title": "Plan National Canicule 2017 / National Heatwave Plan 2017 - France",
@@ -627,7 +627,7 @@
     "location": "46.227638, 2.213749",
     "country_location": "46.227638, 2.213749",
     "url": "https://sante.gouv.fr/IMG/pdf/pnc_actualise_2017.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/France__2017_Plan_National_Canicule_2017_National_Heatwave.pdf"
   },
   {
     "title": "Hitzeschutzplan Vorarlberg 2020 / Vorarlberg Heat Protection Plan 2020 - Vorarlberg, Austria",
@@ -648,7 +648,7 @@
     "location": "47.2497427, 9.9797373",
     "country_location": "47.516231, 14.550072",
     "url": "",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Austria_Vorarlberg_2020_33.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Austria_Vorarlberg_2020_Hitzeschutzplan_Vorarlberg_2020_Vorarlberg_Heat.pdf"
   },
   {
     "title": "Värmebölja och höga temperaturer / Heatwaves and high temperatures: Action plan and advice for those who work in Kalmar municipality - Kalmar, Sweden",
@@ -669,7 +669,7 @@
     "location": "56.6634447, 16.356779",
     "country_location": "60.12816100000001, 18.643501",
     "url": "",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Sweden__2020_34.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Sweden_Kalmar_2020_Varmebolja_och_hoga_temperaturer_Heatwaves_and.pdf"
   },
   {
     "title": "Ein Massnahmenkatalog für den Schutz der menschlichen Gesundheit vor Hitze / A catalogue of measures to protect human health from heat - Switzerland",
@@ -690,7 +690,7 @@
     "location": "46.818188, 8.227511999999999",
     "country_location": "46.818188, 8.227511999999999",
     "url": "https://www.nccs.admin.ch/dam/nccs/de/dokumente/website/sektoren/gesundheit/hitze-massnahmen-toolbox-2021.pdf.download.pdf/Hitze-Massnahmen-Toolbox%202021.pdf",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Switzerland__2021_35.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Switzerland__2021_Ein_Massnahmenkatalog_fur_den_Schutz_der.pdf"
   },
   {
     "title": "Wiener Hitzeaktionsplan: Für ein cooles Wien der Zukunft / Vienna Heat Action Plan: For a cool Vienna - Vienna, Austria",
@@ -711,7 +711,7 @@
     "location": "48.20806959999999, 16.3713095",
     "country_location": "47.516231, 14.550072",
     "url": "https://www.digital.wienbibliothek.at/urn/urn:nbn:at:AT-WBR-1785495",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Austria__2022_36.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Austria_Vienna_2022_Wiener_Hitzeaktionsplan_Fur_ein_cooles_Wien_der.pdf"
   },
   {
     "title": "Vlaams Warmteactieplan / Flemish Heat Action Plan - Flanders, Belgium",
@@ -732,7 +732,7 @@
     "location": "51.0950244, 4.4477809",
     "country_location": "50.503887, 4.469936",
     "url": "https://heathealth.info/resources/vlaams-warmteactieplan-flemish-heat-actionplan/#:~:text=This%20plan%20outlines%20how%20and,health%20effects%20due%20to%20heat.",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Belgium_Flanders_2024_Vlaams_Warmteactieplan_Flemish_Heat_Action_Plan.pdf"
   },
   {
     "title": "Heat-Health Action Plan to Protect the Health of the Population of the former Yugoslav Republic of Macedonia Against the Effects of Heat-Waves - North Macedonia",
@@ -753,7 +753,7 @@
     "location": "41.608635, 21.745275",
     "country_location": "41.608635, 21.745275",
     "url": "https://iris.who.int/items/608d8fdd-be15-460d-83b6-092ef889ef24",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/North_Macedonia__2011_Heat_Health_Action_Plan_to_Protect_the_Health_of.pdf"
   },
   {
     "title": "State Heatwave Subplan: A Subplan of the NSW State Emergency Management Plan - New South Wales, Australia",
@@ -774,7 +774,7 @@
     "location": "-31.2532183, 146.921099",
     "country_location": "-25.274398, 133.775136",
     "url": "https://heathealth.info/wp-content/uploads/Heatwave_Sub_plan_June_2023.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Australia_New_South_Wales_2023_State_Heatwave_Subplan_A_Subplan_of_the_NSW_State.pdf"
   },
   {
     "title": "South Australia Health Extreme Heat and Heatwave Strategy - South Australia, Australia",
@@ -795,7 +795,7 @@
     "location": "-30.0002315, 136.2091547",
     "country_location": "-25.274398, 133.775136",
     "url": "",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Australia_South_Australia_2023_40.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Australia_South_Australia_2023_South_Australia_Health_Extreme_Heat_and_Heatwave.pdf"
   },
   {
     "title": "Turn Down the Heat Strategy and Action Plan - Western Sydney, Australia",
@@ -816,7 +816,7 @@
     "location": "-33.80484879999999, 150.7214362",
     "country_location": "-25.274398, 133.775136",
     "url": "https://wsroc.com.au/projects/project-turn-down-the-heat#:~:text=Turn%20Down%20the%20Heat%20Strategy%20and%20Action%20Plan%20(2018)&text=The%20strategy%20outlines%20five%20key,with%20green%20space%20and%20water",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Australia_Western_Sydney_2018_Turn_Down_the_Heat_Strategy_and_Action_Plan.pdf"
   },
   {
     "title": "Heat Health Plans: Guidelines - New Zealand",
@@ -837,7 +837,7 @@
     "location": "-40.900557, 174.885971",
     "country_location": "-40.900557, 174.885971",
     "url": "https://www.tewhatuora.govt.nz/publications/heat-health-plans-guidelines",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/New_Zealand__2023_Heat_Health_Plans_Guidelines.pdf"
   },
   {
     "title": "State Emergency Response Plan: Extreme Heat Sub-Plan, Edition 2 - Victoria, Australia",
@@ -858,7 +858,7 @@
     "location": "-36.9847807, 143.3906074",
     "country_location": "-25.274398, 133.775136",
     "url": "https://files-em.em.vic.gov.au/public/EMV-web/SERP-StateExtremeHeatSub-plan.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Australia_Victoria_2017_State_Emergency_Response_Plan_Extreme_Heat_Sub.pdf"
   },
   {
     "title": "National Guideline on Heat-Related Illness - Bangladesh",
@@ -879,7 +879,7 @@
     "location": "23.684994, 90.356331",
     "country_location": "23.684994, 90.356331",
     "url": "https://heathealth.info/resources/national-guideline-on-heat-related-illness-bangladesh/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Bangladesh__2024_National_Guideline_on_Heat_Related_Illness.pdf"
   },
   {
     "title": "Nepalgunj Heat Action Plan 2023 - Nepalgunj, Nepal",
@@ -900,7 +900,7 @@
     "location": "28.053906, 81.6159241",
     "country_location": "28.394857, 84.12400799999999",
     "url": "https://heathealth.info/resources/nepalgunj-heat-action-plan-2023/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Nepal_Nepalgunj_2023_Nepalgunj_Heat_Action_Plan_2023.pdf"
   },
   {
     "title": "Heat Wave Action Plan: Bhubaneswar City - Bhubaneswar, India",
@@ -921,7 +921,7 @@
     "location": "20.2959847, 85.8246101",
     "country_location": "20.593684, 78.96288",
     "url": "",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/India_Odisha_2020_46.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Odisha_2020_Heat_Wave_Action_Plan_Bhubaneswar_City.pdf"
   },
   {
     "title": "Rajouri Heat Wave Action Plan 2024-2025 - Rajouri, India",
@@ -942,7 +942,7 @@
     "location": "33.3692728, 74.3166554",
     "country_location": "20.593684, 78.96288",
     "url": "https://cdn.s3waas.gov.in/s31aa48fc4880bb0c9b8a3bf979d3b917e/uploads/2024/04/2024041262.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Jammu_and_Kashmir_2024_Rajouri_Heat_Wave_Action_Plan_2024_2025.pdf"
   },
   {
     "title": "Samba Heat Wave Action Plan 2024 - Samba, India",
@@ -963,7 +963,7 @@
     "location": "32.5885841, 75.1078332",
     "country_location": "20.593684, 78.96288",
     "url": "https://cdn.s3waas.gov.in/s3a97da629b098b75c294dffdc3e463904/uploads/2024/04/2024040464.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Jammu_and_Kashmir_2024_Samba_Heat_Wave_Action_Plan_2024.pdf"
   },
   {
     "title": "Vadodara Heat Wave Action Plan 2024 - Vadodara, India",
@@ -984,7 +984,7 @@
     "location": "22.3000395, 73.2064994",
     "country_location": "20.593684, 78.96288",
     "url": "",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/India_Gujarat_2024_49.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Gujarat_2024_Vadodara_Heat_Wave_Action_Plan_2024.pdf"
   },
   {
     "title": "Srinagar Heat Wave Action Plan 2024-2025 - Srinagar, India",
@@ -1005,7 +1005,7 @@
     "location": "34.1079265, 74.8039205",
     "country_location": "20.593684, 78.96288",
     "url": "",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/India_Jammu_and_Kashmir_2024_50.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Jammu_and_Kashmir_2024_Srinagar_Heat_Wave_Action_Plan_2024_2025.pdf"
   },
   {
     "title": "District Kathua Heat Wave Action Plan 2024 - Kathua, India",
@@ -1026,7 +1026,7 @@
     "location": "32.3863082, 75.5173465",
     "country_location": "20.593684, 78.96288",
     "url": "",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/India_Jammu_and_Kashmir_2024_51.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Jammu_and_Kashmir_2024_District_Kathua_Heat_Wave_Action_Plan_2024.pdf"
   },
   {
     "title": "Heat Wave Action Plan, Nuapada - Nuapada, India",
@@ -1047,7 +1047,7 @@
     "location": "20.8060184, 82.5361393",
     "country_location": "20.593684, 78.96288",
     "url": "",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/India_Odisha_2023_52.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Odisha_2023_Heat_Wave_Action_Plan_Nuapada.pdf"
   },
   {
     "title": "Heat Wave Action Plan (Guide to Heat Wave Plan in District Patiala) - Patiala, India",
@@ -1068,7 +1068,7 @@
     "location": "30.3397809, 76.3868797",
     "country_location": "20.593684, 78.96288",
     "url": "https://cdn.s3waas.gov.in/s38cb22bdd0b7ba1ab13d742e22eed8da2/uploads/2022/04/2022042190.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Punjab_2022_Heat_Wave_Action_Plan_Guide_to_Heat_Wave_Plan_in.pdf"
   },
   {
     "title": "Pulwama Heat Wave Action Plan 2024-25 - Pulwama, India",
@@ -1089,7 +1089,7 @@
     "location": "33.8716117, 74.89456919999999",
     "country_location": "20.593684, 78.96288",
     "url": "https://cdn.s3waas.gov.in/s3c75b6f114c23a4d7ea11331e7c00e73c/uploads/2024/03/2024032650.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Jammu_and_Kashmir_2024_Pulwama_Heat_Wave_Action_Plan_2024_25.pdf"
   },
   {
     "title": "Kishtwar Heat Wave Action Plan 2024-25 - Kishtwar, India",
@@ -1110,7 +1110,7 @@
     "location": "33.3115906, 75.76621949999999",
     "country_location": "20.593684, 78.96288",
     "url": "https://cdn.s3waas.gov.in/s317d63b1625c816c22647a73e1482372b/uploads/2024/04/2024040421.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Jammu_and_Kashmir_2024_Kishtwar_Heat_Wave_Action_Plan_2024_25.pdf"
   },
   {
     "title": "Doda Heat Wave Action Plan 2024-25 - Doda, India",
@@ -1131,7 +1131,7 @@
     "location": "33.1457497, 75.5480491",
     "country_location": "20.593684, 78.96288",
     "url": "https://cdn.s3waas.gov.in/s3dc6a70712a252123c40d2adba6a11d84/uploads/2024/04/2024042368.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Jammu_and_Kashmir_2024_Doda_Heat_Wave_Action_Plan_2024_25.pdf"
   },
   {
     "title": "Heat Wave Action Plan-2016: Hazaribagh - Hazaribagh, India",
@@ -1152,7 +1152,7 @@
     "location": "23.9924669, 85.3636758",
     "country_location": "20.593684, 78.96288",
     "url": "https://hazaribag.nic.in/document/heat-wave-action-plan/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Jharkhand_2016_Heat_Wave_Action_Plan_2016_Hazaribagh.pdf"
   },
   {
     "title": "Ferozepur Heat Wave Action Plan 2024 - Ferozepur, India",
@@ -1173,7 +1173,7 @@
     "location": "30.9331348, 74.6224755",
     "country_location": "20.593684, 78.96288",
     "url": "https://cdn.s3waas.gov.in/s3a8c88a0055f636e4a163a5e3d16adab7/uploads/2024/03/2024032713.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Punjab_2024_Ferozepur_Heat_Wave_Action_Plan_2024.pdf"
   },
   {
     "title": "Heat Action Plan for Thane City 2024 - Thane, India",
@@ -1194,7 +1194,7 @@
     "location": "19.2122949, 72.97716609999999",
     "country_location": "20.593684, 78.96288",
     "url": "https://theanalysis.org.in/heat-action-plan-for-thane-city-2024/#:~:text=The%20Thane%20Municipal%20Corporation%20released%20a%20heat,Task%20Force%20Committee%20to%20monitor%20the%20plan",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Maharashtra_2024_Heat_Action_Plan_for_Thane_City_2024.pdf"
   },
   {
     "title": "Heat Wave Action Plan - 2019 - Tamil Nadu, India",
@@ -1215,7 +1215,7 @@
     "location": "11.1271225, 78.6568942",
     "country_location": "20.593684, 78.96288",
     "url": "https://heathealth.info/resources/heat-wave-action-plan-2019-tamil-nadu-india/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Tamil_Nadu_2019_Heat_Wave_Action_Plan_2019.pdf"
   },
   {
     "title": "Action Plan on Heat Wave: West Bengal - West Bengal, India",
@@ -1236,7 +1236,7 @@
     "location": "22.9867569, 87.8549755",
     "country_location": "20.593684, 78.96288",
     "url": "http://wbdmd.gov.in/writereaddata/NW94089.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_West_Bengal_2023_Action_Plan_on_Heat_Wave_West_Bengal.pdf"
   },
   {
     "title": "Heat Wave Action Plan 2024-25 - Ramban, India",
@@ -1257,7 +1257,7 @@
     "location": "33.2463875, 75.1938909",
     "country_location": "20.593684, 78.96288",
     "url": "https://cdn.s3waas.gov.in/s3ae0eb3eed39d2bcef4622b2499a05fe6/uploads/2024/04/2024040850.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Jammu_and_Kashmir_2024_Heat_Wave_Action_Plan_2024_25.pdf"
   },
   {
     "title": "Climate Adaptive and Gender Integrated Heat Wave Action Plan of Surat City - Surat, India",
@@ -1278,7 +1278,7 @@
     "location": "21.1980619, 72.8297585",
     "country_location": "20.593684, 78.96288",
     "url": "https://www.apn-gcr.org/wp-content/uploads/2023/06/Climate-Adaptive-and-Gender-Integrated-Heat-Wave-Action-Plan-of-Surat-City.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Gujarat_2023_Climate_Adaptive_and_Gender_Integrated_Heat_Wave.pdf"
   },
   {
     "title": "Jodhpur Heat Action Plan 2023 - Jodhpur, India",
@@ -1299,7 +1299,7 @@
     "location": "26.2389469, 73.02430939999999",
     "country_location": "20.593684, 78.96288",
     "url": "https://www.nrdc.org/sites/default/files/2023-05/jodhpur-heat-action-plan-2023.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Rajasthan_2023_Jodhpur_Heat_Action_Plan_2023.pdf"
   },
   {
     "title": "Ahmedabad Heat Action Plan 2019 - Ahmedabad, India",
@@ -1320,7 +1320,7 @@
     "location": "23.022505, 72.5713621",
     "country_location": "20.593684, 78.96288",
     "url": "https://www.nrdc.org/sites/default/files/ahmedabad-heat-action-plan-2018.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Gujarat_2019_Ahmedabad_Heat_Action_Plan_2019.pdf"
   },
   {
     "title": "National Guidelines for Preparation of Action Plan – Prevention and Management of Heat Wave - India",
@@ -1341,7 +1341,7 @@
     "location": "20.593684, 78.96288",
     "country_location": "20.593684, 78.96288",
     "url": "https://heathealth.info/resources/national-guidelines-for-preparation-of-action-plan-prevention-and-management-of-heat-wave/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India__2019_National_Guidelines_for_Preparation_of_Action.pdf"
   },
   {
     "title": "Rajasthan Climate Change Project: Draft Heat Action Plan - Jalore and Udaipur Districts, India",
@@ -1362,7 +1362,7 @@
     "location": "24.1980766, 73.65362089999999",
     "country_location": "20.593684, 78.96288",
     "url": "https://heathealth.info/resources/rajasthan-climate-change-projectdraft-heat-action-plan/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Rajasthan_2017_Rajasthan_Climate_Change_Project_Draft_Heat.pdf"
   },
   {
     "title": "Action Plan for Odisha 2022 - Odisha, India",
@@ -1383,7 +1383,7 @@
     "location": "20.2375561, 84.2700179",
     "country_location": "20.593684, 78.96288",
     "url": "https://drive.google.com/file/d/1sGLPgnHkc3NeFJjkw4tT2y3y537Ro6-f/view?usp=sharing",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Odisha_2022_Action_Plan_for_Odisha_2022.pdf"
   },
   {
     "title": "Himachal Pradesh Heat Wave Action Plan 2024 - Himachal Pradesh, India",
@@ -1404,7 +1404,7 @@
     "location": "32.1024076, 77.5619419",
     "country_location": "20.593684, 78.96288",
     "url": "https://heathealth.info/resources/himachal-pradesh-heat-wave-action-plan-2024/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Himachal_Pradesh_2024_Himachal_Pradesh_Heat_Wave_Action_Plan_2024.pdf"
   },
   {
     "title": "Heat Action Plan: Standard Operating Procedure for Heat Wave in Gorakhpur - Gorakhpur District, India",
@@ -1425,7 +1425,7 @@
     "location": "26.7346743, 83.33618799999999",
     "country_location": "20.593684, 78.96288",
     "url": "https://www.preventionweb.net/files/68564_68562sopforheatwave2.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Uttar_Pradesh_2019_Heat_Action_Plan_Standard_Operating_Procedure_for.pdf"
   },
   {
     "title": "Heat Wave Action Plan - Rajkot City, Gujarat - Rajkot, India",
@@ -1446,7 +1446,7 @@
     "location": "22.3038945, 70.80215989999999",
     "country_location": "20.593684, 78.96288",
     "url": "https://www.rmc.gov.in/rmcwebsite/docs/HomePage/Rajkot_HAP_2024.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Gujarat_2024_Heat_Wave_Action_Plan_Rajkot_City_Gujarat.pdf"
   },
   {
     "title": "Uttar Pradesh Heat Wave Action Plan 2024 - Uttar Pradesh, India",
@@ -1467,7 +1467,7 @@
     "location": "27.5705886, 80.0981869",
     "country_location": "20.593684, 78.96288",
     "url": "https://upsdma.up.nic.in/2024/Heat_Wave_Action_Plan_2024.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Uttar_Pradesh_2024_Uttar_Pradesh_Heat_Wave_Action_Plan_2024.pdf"
   },
   {
     "title": "Haryana Heat Wave Action Plan 2019 - Haryana, India",
@@ -1488,7 +1488,7 @@
     "location": "29.0587757, 76.085601",
     "country_location": "20.593684, 78.96288",
     "url": "https://cdnbbsr.s3waas.gov.in/s3d79c6256b9bdac53a55801a066b70da3/uploads/2020/10/2020101187.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Haryana_2019_Haryana_Heat_Wave_Action_Plan_2019.pdf"
   },
   {
     "title": "Karnataka State Heat Wave Action Plan 2024-25 - Karnataka, India",
@@ -1509,7 +1509,7 @@
     "location": "15.3172775, 75.7138884",
     "country_location": "20.593684, 78.96288",
     "url": "https://heathealth.info/wp-content/uploads/Karnataka-heat-action-plan-.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Karnataka_2023_Karnataka_State_Heat_Wave_Action_Plan_2024_25.pdf"
   },
   {
     "title": "The Telangana State Heatwave Action Plan 2021 - Telangana, India",
@@ -1530,7 +1530,7 @@
     "location": "18.1124372, 79.01929969999999",
     "country_location": "20.593684, 78.96288",
     "url": "https://heathealth.info/wp-content/uploads/ts-heatwave-action-plan-2021-signed-compressed.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Telangana_2021_The_Telangana_State_Heatwave_Action_Plan_2021.pdf"
   },
   {
     "title": "Gujarat State Action Plan: Prevention and Mitigation of Impacts of Heat Wave 2020 - Gujarat, India",
@@ -1551,7 +1551,7 @@
     "location": "22.6708317, 71.5723953",
     "country_location": "20.593684, 78.96288",
     "url": "http://www.gsdma.org/uploads/Assets/other/gujaratstateheatwaveactionplan2020-2104252020024137455.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Gujarat_2020_Gujarat_State_Action_Plan_Prevention_and.pdf"
   },
   {
     "title": "Heat Action Plan for Odisha 2020 - Odisha, India",
@@ -1572,7 +1572,7 @@
     "location": "20.2375561, 84.2700179",
     "country_location": "20.593684, 78.96288",
     "url": "https://www.osdma.org/preparedness/one-stop-risk-management-system/heat-wave/#gsc.tab=0",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Odisha_2020_Heat_Action_Plan_for_Odisha_2020.pdf"
   },
   {
     "title": "Goa State Action Plan: Prevention and Mitigation of Impacts of Heat Wave 2024 - Goa, India",
@@ -1593,7 +1593,7 @@
     "location": "15.2993265, 74.12399599999999",
     "country_location": "20.593684, 78.96288",
     "url": "https://northgoa.gov.in/heat-wave-action-plan/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Goa_2024_Goa_State_Action_Plan_Prevention_and_Mitigation.pdf"
   },
   {
     "title": "Delhi Heat Action Plan 2024-25 - Delhi, India",
@@ -1614,7 +1614,7 @@
     "location": "28.7040592, 77.10249019999999",
     "country_location": "20.593684, 78.96288",
     "url": "https://www.preventionweb.net/publication/policies-and-plans/india-delhi-heat-action-plan-2024-25",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Delhi_2024_Delhi_Heat_Action_Plan_2024_25.pdf"
   },
   {
     "title": "Bihar Heat Action Plan - Bihar, India",
@@ -1635,7 +1635,7 @@
     "location": "25.9644427, 85.2722472",
     "country_location": "20.593684, 78.96288",
     "url": "http://bsdma.org/images/publication/Bihar%20Heat%20Action%20Plan.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Bihar_2019_Bihar_Heat_Action_Plan.pdf"
   },
   {
     "title": "Churu Heat Action Plan - Churu, India",
@@ -1656,7 +1656,7 @@
     "location": "28.2925364, 74.9707262",
     "country_location": "20.593684, 78.96288",
     "url": "https://heathealth.info/wp-content/uploads/MHT-Churu-Heat-Action-Plan-compressed.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Rajasthan_2025_Churu_Heat_Action_Plan.pdf"
   },
   {
     "title": "Varanasi Heat Action Plan - Varanasi, India",
@@ -1677,7 +1677,7 @@
     "location": "25.3176452, 82.9739144",
     "country_location": "20.593684, 78.96288",
     "url": "https://heathealth.info/wp-content/uploads/Varanasi-Heat-Action-Plan-MHT-NRDC-IIPHG-compressed.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Uttar_Pradesh_2025_Varanasi_Heat_Action_Plan.pdf"
   },
   {
     "title": "Arizona Extreme Heat Preparedness Plan - Arizona, United States of America",
@@ -1698,7 +1698,7 @@
     "location": "34.0489281, -111.0937311",
     "country_location": "38.7945952, -106.5348379",
     "url": "https://heathealth.info/wp-content/uploads/extreme-heat-preparedness-plan-2024-03-1-compressed.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_Arizona_2024_Arizona_Extreme_Heat_Preparedness_Plan.pdf"
   },
   {
     "title": "Extreme Heat Action Plan: Adaptation Agenda for 2024–2030 - New York, United States of America",
@@ -1719,7 +1719,7 @@
     "location": "40.7127753, -74.0059728",
     "country_location": "38.7945952, -106.5348379",
     "url": "https://dec.ny.gov/sites/default/files/2024-06/extremeheatactionplan.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_New_York_2024_Extreme_Heat_Action_Plan_Adaptation_Agenda_for.pdf"
   },
   {
     "title": "National Heat Strategy 2024-2030 - United States of America",
@@ -1740,7 +1740,7 @@
     "location": "38.7945952, -106.5348379",
     "country_location": "38.7945952, -106.5348379",
     "url": "https://heathealth.info/wp-content/uploads/National_Heat_Strategy-2024-2030.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America__2024_National_Heat_Strategy_2024_2030.pdf"
   },
   {
     "title": "Protecting Californians From Extreme Heat: A State Action Plan to Build Community Resilience - California, United States of America",
@@ -1761,7 +1761,7 @@
     "location": "36.778261, -119.4179324",
     "country_location": "38.7945952, -106.5348379",
     "url": "https://resources.ca.gov/-/media/CNRA-Website/Files/Initiatives/Climate-Resilience/2022-Final-Extreme-Heat-Action-Plan.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_California_2022_Protecting_Californians_From_Extreme_Heat_A_State.pdf"
   },
   {
     "title": "Los Angeles County Heat Action Plan - Los Angeles County, United States of America",
@@ -1782,7 +1782,7 @@
     "location": "34.3871821, -118.1122679",
     "country_location": "38.7945952, -106.5348379",
     "url": "https://assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/d9822e58-5316-4df0-986e-232e963e2658/LA%20CHAP%20Feb2026_FINAL%20Interactive.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_California_2026_Los_Angeles_County_Heat_Action_Plan.pdf"
   },
   {
     "title": "Consumer Version Extreme Heat Response Plan - San Diego County, United States of America",
@@ -1803,7 +1803,7 @@
     "location": "33.0933809, -116.6081653",
     "country_location": "38.7945952, -106.5348379",
     "url": "https://www.sandiegocounty.gov/content/dam/sdc/hhsa/programs/phs/ExtremeHeat/EHRP_Consumer_Version.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_California_2025_Consumer_Version_Extreme_Heat_Response_Plan.pdf"
   },
   {
     "title": "Heat Ready London: Adapting the city to a warmer climate - London, United Kingdom",
@@ -1824,7 +1824,7 @@
     "location": "51.5072178, -0.1275862",
     "country_location": "55.378051, -3.435973",
     "url": "https://www.london.gov.uk/programmes-strategies/environment-and-climate-change/climate-change/climate-adaptation/heat-risk/heat-ready-london?auHash=wrW364vRCzDauLdi4mCkf6EojlCT3slihjZwMUEzV1w",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/United_Kingdom_England_2026_92.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_Kingdom_England_2026_Heat_Ready_London_Adapting_the_city_to_a_warmer.pdf"
   },
   {
     "title": "Adverse Weather and Health Plan: Protecting health from weather related harm, 2026 to 2027 - England, United Kingdom",
@@ -1845,7 +1845,7 @@
     "location": "52.83816401015793, -2.327480843616569",
     "country_location": "55.378051, -3.435973",
     "url": "https://assets.publishing.service.gov.uk/media/69cbbd2b024cdf09254f3f57/Adverse_Weather_and_Health_Plan_2026_2027.pdf?utm_",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/United_Kingdom_England_2026_93.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_Kingdom_England_2026_Adverse_Weather_and_Health_Plan_Protecting_health.pdf"
   },
   {
     "title": "Heatwave Plan for England: Protecting Health and Reducing Harm From Extreme Heat and Heatwaves - England, United Kingdom",
@@ -1866,7 +1866,7 @@
     "location": "52.83816401015793, -2.327480843616569",
     "country_location": "55.378051, -3.435973",
     "url": "https://assets.publishing.service.gov.uk/media/5a7c83bde5274a559005a655/dh_127235.pdf",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/United_Kingdom_England_2011_94.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_Kingdom_England_2011_Heatwave_Plan_for_England_Protecting_Health_and.pdf"
   },
   {
     "title": "Greater Sydney Heat Smart City Plan 2025–2030 - Greater Sydney, Australia",
@@ -1887,7 +1887,7 @@
     "location": "-33.8817547, 150.8609358",
     "country_location": "-25.274398, 133.775136",
     "url": "https://wsroc.com.au/projects/project-turn-down-the-heat/greater-sydney-heat-smart-city-plan",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Australia_New_South_Wales_2024_97.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Australia_New_South_Wales_2024_Greater_Sydney_Heat_Smart_City_Plan_2025_2030.pdf"
   },
   {
     "title": "Plan National Climat de l’Algérie / Algeria National Climate Plan - Algeria",
@@ -1908,7 +1908,7 @@
     "location": "28.033886, 1.659626",
     "country_location": "28.033886, 1.659626",
     "url": "https://heathealth.info/resources/algeria-national-climate-plan/",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Algeria__2019_98.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Algeria__2019_Plan_National_Climat_de_l_Algerie_Algeria.pdf"
   },
   {
     "title": "Extreme Heat Subplan - Merri-bek, Australia",
@@ -1929,7 +1929,7 @@
     "location": "-37.7240653, 144.9501708",
     "country_location": "-25.274398, 133.775136",
     "url": "https://www.merri-bek.vic.gov.au/globalassets/website-merri-bek/areas/my-council/emergency-management/extreme-heat-sub-plan-2023---2026.pdf",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Australia_Victoria_2024_99.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Australia_Victoria_2024_Extreme_Heat_Subplan.pdf"
   },
   {
     "title": "Heatwave State Hazard Plan - Western Australia, Australia",
@@ -1950,7 +1950,7 @@
     "location": "-27.6728168, 121.6283098",
     "country_location": "-25.274398, 133.775136",
     "url": "https://www.wa.gov.au/system/files/2025-11/state_hazard_plan_heatwave_3.03.pdf",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Australia_Western_Australia_2025_100.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Australia_Western_Australia_2025_Heatwave_State_Hazard_Plan.pdf"
   },
   {
     "title": "Heatwave plan for Victoria: Protecting health and reducing harm from heatwaves - Victoria, Australia",
@@ -1971,7 +1971,7 @@
     "location": "-36.9847807, 143.3906074",
     "country_location": "-25.274398, 133.775136",
     "url": "https://heathealth.info/resources/heatwave-plan-for-victoria-protecting-health-and-reducing-harm-from-heatwaves/",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Australia_Victoria_2011_103.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Australia_Victoria_2011_Heatwave_plan_for_Victoria_Protecting_health_and.pdf"
   },
   {
     "title": "Urban Heat Strategy - Wollongong, Australia",
@@ -1992,7 +1992,7 @@
     "location": "-34.4248336, 150.8931132",
     "country_location": "-25.274398, 133.775136",
     "url": "https://wollongong.nsw.gov.au/__data/assets/pdf_file/0014/210830/Urban-Heat-Strategy.pdf",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Australia_New_South_Wales_2023_104.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Australia_New_South_Wales_2023_Urban_Heat_Strategy.pdf"
   },
   {
     "title": "Maryland Department of Health Extreme Heat Emergency Plan 2026 Version 4.0 - Maryland, United States of America",
@@ -2013,7 +2013,7 @@
     "location": "39.0457549, -76.64127119999999",
     "country_location": "38.7945952, -106.5348379",
     "url": "https://health.maryland.gov/preparedness/Documents/MDH%20Extreme%20Heat%20Emergency%20Plan%202026_signed.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_Maryland_2026_Maryland_Department_of_Health_Extreme_Heat.pdf"
   },
   {
     "title": "Handreiking Lokaal Hitteplan / Local Heat Plan Guidance - Netherlands",
@@ -2034,7 +2034,7 @@
     "location": "52.132633, 5.291265999999999",
     "country_location": "52.132633, 5.291265999999999",
     "url": "https://klimaatadaptatienederland.nl/hulpmiddelen/overzicht/lokaal-hitteplan/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Netherlands__2026_Handreiking_Lokaal_Hitteplan_Local_Heat_Plan.pdf"
   },
   {
     "title": "Report on Extreme Heat Exposure and Actions for Gujarat - Gujarat, India",
@@ -2055,7 +2055,7 @@
     "location": "22.6708317, 71.5723953",
     "country_location": "20.593684, 78.96288",
     "url": "https://gidm.gujarat.gov.in/sites/default/files/Report-on-Extreme-Heat-Exposure-and-Actions-for-Gujarat-jun-2023.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Gujarat_2023_Report_on_Extreme_Heat_Exposure_and_Actions_for.pdf"
   },
   {
     "title": "EHAP Progress Update, July 2025-June 2026 - New York, United States of America",
@@ -2076,7 +2076,7 @@
     "location": "40.7127753, -74.0059728",
     "country_location": "38.7945952, -106.5348379",
     "url": "https://dec.ny.gov/sites/default/files/2026-06/ehapupdate.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_New_York_2026_EHAP_Progress_Update_July_2025_June_2026.pdf"
   },
   {
     "title": "Climate Change Adaptation Strategy: 2024-2025 Update and Action Plan - Vancouver, Canada",
@@ -2097,7 +2097,7 @@
     "location": "49.2827291, -123.1207375",
     "country_location": "56.130366, -106.346771",
     "url": "https://vancouver.ca/files/cov/vancouver-climate-change-adaptation-strategy-2024-25.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Canada_British_Columbia_2024_Climate_Change_Adaptation_Strategy_2024_2025.pdf"
   },
   {
     "title": "Protocolo de Enfrentamento ao Calor Extremo / Protocol for Responding to Extreme Heat - Rio de Janeiro, Brazil",
@@ -2118,7 +2118,7 @@
     "location": "-22.9068467, -43.1728965",
     "country_location": "-14.235004, -51.92528",
     "url": "https://heathealth.info/resources/protocolo-de-enfrentamento-ao-calor-extremo-rio-de-janeiro-brazil/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Brazil_Rio_de_Janeiro_2024_Protocolo_de_Enfrentamento_ao_Calor_Extremo.pdf"
   },
   {
     "title": "Estrategia para hacer frente al calor. Plan Calor 2025-2035 / Strategy to Combat Heat: Heat Plan 2025-2035 - Barcelona, Spain",
@@ -2139,7 +2139,7 @@
     "location": "41.3874374, 2.1686496",
     "country_location": "40.46366700000001, -3.74922",
     "url": "https://heathealth.info/resources/plan-calor-barcelona/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Spain_Catalonia_2025_Estrategia_para_hacer_frente_al_calor_Plan_Calor.pdf"
   },
   {
     "title": "California’s Extreme Heat Action Plan: A State Strategy for Protecting Californians from Extreme Heat - California, United States of America",
@@ -2160,7 +2160,7 @@
     "location": "36.778261, -119.4179324",
     "country_location": "38.7945952, -106.5348379",
     "url": "https://resources.ca.gov/-/media/CNRA-Website/Files/Initiatives/Climate-Resilience/DRAFT_Extreme_Heat_Action_Plan_2026.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_California_2026_California_s_Extreme_Heat_Action_Plan_A_State.pdf"
   },
   {
     "title": "उष्मालाट कृती आराखडा 2026 / Heat Wave Action Plan 2026 - Wardha District, India",
@@ -2181,7 +2181,7 @@
     "location": "20.8049123, 78.5660852",
     "country_location": "20.593684, 78.96288",
     "url": "https://wardha.gov.in/en/notice/heatwave-action-plan-2026/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Maharashtra_2026_2026_Heat_Wave_Action_Plan_2026.pdf"
   },
   {
     "title": "Nashik District Heat Wave Action Plan 2026 - Nashik District, India",
@@ -2202,7 +2202,7 @@
     "location": "19.9993372, 73.7900039",
     "country_location": "20.593684, 78.96288",
     "url": "https://nashik.gov.in/en/document/heat-wave-action-plan/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Maharashtra_2026_Nashik_District_Heat_Wave_Action_Plan_2026.pdf"
   },
   {
     "title": "Mayor Bass’ Climate Action Plan for Los Angeles - Los Angeles, United States",
@@ -2223,7 +2223,7 @@
     "location": "34.0549076, -118.242643",
     "country_location": "38.7945952, -106.5348379",
     "url": "https://plan.mayor.lacity.gov/sites/g/files/wph2176/files/2026-04/MayorBassClimateActionPlanforLosAngeles_2026_1.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_California_2026_Mayor_Bass_Climate_Action_Plan_for_Los_Angeles.pdf"
   },
   {
     "title": "Heat Wave Action Plan 2025-26 - Dhaulpur District, India",
@@ -2244,7 +2244,7 @@
     "location": "26.7253701, 77.6536125",
     "country_location": "20.593684, 78.96288",
     "url": "https://dmrelief.rajasthan.gov.in/content/dam/dmr/files/heatwave2025/Dholpur.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Rajasthan_2025_Heat_Wave_Action_Plan_2025_26.pdf"
   },
   {
     "title": "Heat Action Plan for Orange County - Orange County, United States",
@@ -2265,7 +2265,7 @@
     "location": "36.0263022, -79.1096901",
     "country_location": "38.7945952, -106.5348379",
     "url": "https://www.orangecountync.gov/DocumentCenter/View/34004/Heat-Action-Plan-Draft",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_North_Carolina_2025_Heat_Action_Plan_for_Orange_County.pdf"
   },
   {
     "title": "Heat Action Plan for Palanpur City 2025 - Palanpur, India",
@@ -2286,7 +2286,7 @@
     "location": "24.1724338, 72.434581",
     "country_location": "20.593684, 78.96288",
     "url": "https://cravis.ai/resources/action-plan",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Gujarat_2025_Heat_Action_Plan_for_Palanpur_City_2025.pdf"
   },
   {
     "title": "Heat Action Plan for Bhavnagar City 2025 - Bhavnagar, India",
@@ -2307,7 +2307,7 @@
     "location": "21.7644725, 72.15193040000001",
     "country_location": "20.593684, 78.96288",
     "url": "https://cravis.ai/resources/action-plan",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Gujarat_2025_Heat_Action_Plan_for_Bhavnagar_City_2025.pdf"
   },
   {
     "title": "Heat Action Plan for Panaji City 2025 - Panaji, India",
@@ -2328,7 +2328,7 @@
     "location": "15.5009538, 73.8293928",
     "country_location": "20.593684, 78.96288",
     "url": "https://cravis.ai/resources/action-plan",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Goa_2025_Heat_Action_Plan_for_Panaji_City_2025.pdf"
   },
   {
     "title": "Delhi Heat Action Plan 2025 - Delhi, India",
@@ -2349,7 +2349,7 @@
     "location": "28.7040592, 77.10249019999999",
     "country_location": "20.593684, 78.96288",
     "url": "https://cravis.ai/resources/action-plan",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Delhi_2025_Delhi_Heat_Action_Plan_2025.pdf"
   },
   {
     "title": "Heat Action Plan for Angul City 2025 - Angul, India",
@@ -2370,7 +2370,7 @@
     "location": "20.8379124, 85.09779139999999",
     "country_location": "20.593684, 78.96288",
     "url": "https://cravis.ai/resources/action-plan",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Odisha_2025_Heat_Action_Plan_for_Angul_City_2025.pdf"
   },
   {
     "title": "Heat Action Plan for Boudhgarh Notified Area Council (NAC) 2025 - Boudhgarh, India",
@@ -2391,7 +2391,7 @@
     "location": "20.8418205, 84.3200184",
     "country_location": "20.593684, 78.96288",
     "url": "https://cravis.ai/resources/action-plan",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Odisha_2025_Heat_Action_Plan_for_Boudhgarh_Notified_Area.pdf"
   },
   {
     "title": "Heat Action Plan for Baripada City 2025 - Baripada, India",
@@ -2412,7 +2412,7 @@
     "location": "21.9319838, 86.7465928",
     "country_location": "20.593684, 78.96288",
     "url": "https://cravis.ai/resources/action-plan",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Odisha_2025_Heat_Action_Plan_for_Baripada_City_2025.pdf"
   },
   {
     "title": "Heat Action Plan for Cuttack City 2025 - Cuttack, India",
@@ -2433,7 +2433,7 @@
     "location": "20.462521, 85.8829895",
     "country_location": "20.593684, 78.96288",
     "url": "https://cravis.ai/resources/action-plan",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Odisha_2025_Heat_Action_Plan_for_Cuttack_City_2025.pdf"
   },
   {
     "title": "Heat Action Plan for Jharsuguda City 2025 - Jharsuguda, India",
@@ -2454,7 +2454,7 @@
     "location": "21.8554375, 84.0061661",
     "country_location": "20.593684, 78.96288",
     "url": "https://cravis.ai/resources/action-plan",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Odisha_2025_Heat_Action_Plan_for_Jharsuguda_City_2025.pdf"
   },
   {
     "title": "Heat Action Plan for Paralakhemundi City 2025 - Paralakhemundi, India",
@@ -2475,7 +2475,7 @@
     "location": "18.7782929, 84.0936483",
     "country_location": "20.593684, 78.96288",
     "url": "https://cravis.ai/resources/action-plan",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Odisha_2025_Heat_Action_Plan_for_Paralakhemundi_City_2025.pdf"
   },
   {
     "title": "Heat Action Plan for Rourkela City 2025 - Rourkela, India",
@@ -2496,7 +2496,7 @@
     "location": "22.260423, 84.8535844",
     "country_location": "20.593684, 78.96288",
     "url": "https://cravis.ai/resources/action-plan",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Odisha_2025_Heat_Action_Plan_for_Rourkela_City_2025.pdf"
   },
   {
     "title": "Heat Action Plan for Sambalpur City 2025 - Sambalpur, India",
@@ -2517,7 +2517,7 @@
     "location": "21.4668716, 83.9811665",
     "country_location": "20.593684, 78.96288",
     "url": "https://cravis.ai/resources/action-plan",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Odisha_2025_Heat_Action_Plan_for_Sambalpur_City_2025.pdf"
   },
   {
     "title": "Heat Action Plan for Sundargarh City 2025 - Sundargarh, India",
@@ -2538,7 +2538,7 @@
     "location": "22.120021, 84.037224",
     "country_location": "20.593684, 78.96288",
     "url": "https://cravis.ai/resources/action-plan",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Odisha_2025_Heat_Action_Plan_for_Sundargarh_City_2025.pdf"
   },
   {
     "title": "Heat Action Plan for Titilagarh City 2025 - Titilagarh, India",
@@ -2559,7 +2559,7 @@
     "location": "20.2916998, 83.1528038",
     "country_location": "20.593684, 78.96288",
     "url": "https://cravis.ai/resources/action-plan",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Odisha_2025_Heat_Action_Plan_for_Titilagarh_City_2025.pdf"
   },
   {
     "title": "National Action Plan on Heat Related Illnesses - India",
@@ -2580,7 +2580,7 @@
     "location": "20.593684, 78.96288",
     "country_location": "20.593684, 78.96288",
     "url": "https://ncdc.mohfw.gov.in/uploads/pdf/heat12.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India__2021_National_Action_Plan_on_Heat_Related_Illnesses.pdf"
   },
   {
     "title": "National Climate Change and Health Policy and Revised Action Plan - Marshall Islands",
@@ -2601,7 +2601,7 @@
     "location": "7.131474, 171.184478",
     "country_location": "7.131474, 171.184478",
     "url": "https://www.preventionweb.net/publication/policies-and-plans/marshall-island-national-climate-change-and-health-policy-and",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Marshall_Islands__2022_National_Climate_Change_and_Health_Policy_and.pdf"
   },
   {
     "title": "Protecting the public and minimizing health effects from heat: towards the development of a Heat-Health Action Framework for the Prefecture of Hyogo, Japan - Hyogo Prefecture, Japan",
@@ -2622,7 +2622,7 @@
     "location": "34.8579518, 134.5453787",
     "country_location": "36.204824, 138.252924",
     "url": "https://heathealth.info/resources/protecting-the-public-and-minimizing-health-effects-from-heat-towards-the-development-of-a-heat-health-action-framework-for-the-prefecture-of-hyogo-japan/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Japan_Hyogo_Prefecture_2013_Protecting_the_public_and_minimizing_health.pdf"
   },
   {
     "title": "Heatwave – Hot Weather Conditions: Emergency Preparedness and Response Plan, Northwest Syria - Northwest Syria, Syria",
@@ -2643,7 +2643,7 @@
     "location": "34.80207499999999, 38.996815",
     "country_location": "34.80207499999999, 38.996815",
     "url": "https://heathealth.info/resources/heatwave-hot-weather-conditions-emergency-preparedness-and-response-plan-northwest-syria/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Syria_Northwest_Syria_2024_Heatwave_Hot_Weather_Conditions_Emergency.pdf"
   },
   {
     "title": "Heat Wave Guidelines 2024 - Pakistan",
@@ -2664,7 +2664,7 @@
     "location": "30.375321, 69.34511599999999",
     "country_location": "30.375321, 69.34511599999999",
     "url": "https://heathealth.info/resources/pakistan-heatwave-guidelines-2024/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Pakistan__2024_Heat_Wave_Guidelines_2024.pdf"
   },
   {
     "title": "Kuwait National Adaptation Plan 2019-2030 - Kuwait",
@@ -2685,7 +2685,7 @@
     "location": "29.31166, 47.481766",
     "country_location": "29.31166, 47.481766",
     "url": "https://heathealth.info/resources/kuwait-national-adaptation-plan-2019-2030/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Kuwait__2019_Kuwait_National_Adaptation_Plan_2019_2030.pdf"
   },
   {
     "title": "Amsterdams Hitteplan 2024 / Amsterdam Heat Plan 2024 - Amsterdam, Netherlands",
@@ -2706,7 +2706,7 @@
     "location": "52.3675734, 4.9041389",
     "country_location": "52.132633, 5.291265999999999",
     "url": "https://heathealth.info/resources/amsterdams-hitteplan-2024-amsterdam-heat-plan-2024/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Netherlands_Amsterdam_2024_Amsterdams_Hitteplan_2024_Amsterdam_Heat_Plan_2024.pdf"
   },
   {
     "title": "Plan de actuación ante episodios de altas temperaturas: Plan específico de intervención, centros sociosanitarios / Action Plan for Extreme Heat Events: Specific Intervention Plan for Social and Health Care Centers - Madrid, Spain",
@@ -2727,7 +2727,7 @@
     "location": "40.41672790000001, -3.7032905",
     "country_location": "40.46366700000001, -3.74922",
     "url": "https://heathealth.info/resources/plan-de-actuacion-ante-episodios-de-altas-temperaturas-action-plan-for-extreme-heat-events-madrid-spain/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Spain_Madrid_2024_Plan_de_actuacion_ante_episodios_de_altas.pdf"
   },
   {
     "title": "Pla d'actuació per prevenir els efectes de les onades de calor sobre la salut (POCS) / Action Plan to Prevent the Effects of Heatwaves on Health (POCS) - Catalonia, Spain",
@@ -2748,7 +2748,7 @@
     "location": "41.5911589, 1.5208624",
     "country_location": "40.46366700000001, -3.74922",
     "url": "https://heathealth.info/resources/pla-dactuacio-per-prevenir-els-efectes-de-les-onades-de-calor-sobre-la-salut-pocs-catalonia-spain/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Spain_Catalonia_2022_Pla_d_actuacio_per_prevenir_els_efectes_de_les.pdf"
   },
   {
     "title": "Beating the Heat: Tamil Nadu Heat Mitigation Strategy - Tamil Nadu, India",
@@ -2769,7 +2769,7 @@
     "location": "11.1271225, 78.6568942",
     "country_location": "20.593684, 78.96288",
     "url": "https://data.opencity.in/dataset/beating-the-heat-tamil-nadu-heat-mitigation-strategy-2024/resource/cc55cdd6-667d-4b53-8ef2-a710039c5779",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Tamil_Nadu_2024_Beating_the_Heat_Tamil_Nadu_Heat_Mitigation.pdf"
   },
   {
     "title": "Heat Wave Action Plan of Andhra Pradesh - Andhra Pradesh, India",
@@ -2790,7 +2790,7 @@
     "location": "15.9128998, 79.7399875",
     "country_location": "20.593684, 78.96288",
     "url": "https://heathealth.info/resources/heat-wave-action-plan-of-andhra-pradesh-india/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Andhra_Pradesh_2016_Heat_Wave_Action_Plan_of_Andhra_Pradesh.pdf"
   },
   {
     "title": "Chatham County Heat Action Plan - Chatham County, United States of America",
@@ -2811,7 +2811,7 @@
     "location": "35.6978371, -79.29021329999999",
     "country_location": "38.7945952, -106.5348379",
     "url": "https://heathealth.info/resources/chatham-county-heat-action-plan-u-s/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_North_Carolina_2024_Chatham_County_Heat_Action_Plan.pdf"
   },
   {
     "title": "Response Plan for Extreme Heat Event - Saint Lucia",
@@ -2832,7 +2832,7 @@
     "location": "13.909444, -60.978893",
     "country_location": "13.909444, -60.978893",
     "url": "https://heathealth.info/resources/response-plan-for-extreme-heat-event-saint-lucia/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Saint_Lucia__2006_Response_Plan_for_Extreme_Heat_Event.pdf"
   },
   {
     "title": "Community Climate Adaptation Plan for Waterloo Region - Waterloo Region, Canada",
@@ -2853,7 +2853,7 @@
     "location": "43.4757989, -80.54384499999999",
     "country_location": "56.130366, -106.346771",
     "url": "https://www.preventionweb.net/publication/policies-and-plans/canada-waterloo-region-community-climate-adaptation-plan",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Canada_Ontario_2019_Community_Climate_Adaptation_Plan_for_Waterloo.pdf"
   },
   {
     "title": "Manitoba Heat Alert and Response System Guide - Manitoba, Canada",
@@ -2874,7 +2874,7 @@
     "location": "53.7608608, -98.81387629999999",
     "country_location": "56.130366, -106.346771",
     "url": "https://heathealth.info/resources/manitoba-heat-alert-and-response-system-guide-canada/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Canada_Manitoba_2024_Manitoba_Heat_Alert_and_Response_System_Guide.pdf"
   },
   {
     "title": "City of Hamilton Community Heat Response Plan - Hamilton, Canada",
@@ -2895,7 +2895,7 @@
     "location": "43.2557206, -79.8711024",
     "country_location": "56.130366, -106.346771",
     "url": "https://heathealth.info/wp-content/uploads/BOH23019-Appendix-A-City-of-Hamilton-Community-Heat-Response-Plan-May-2023.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Canada_Ontario_2023_City_of_Hamilton_Community_Heat_Response_Plan.pdf"
   },
   {
     "title": "National Adaptation Plan for Zambia - Zambia",
@@ -2916,7 +2916,7 @@
     "location": "-13.133897, 27.849332",
     "country_location": "-13.133897, 27.849332",
     "url": "https://heathealth.info/resources/national-adaptation-plan-zambia/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Zambia__2023_National_Adaptation_Plan_for_Zambia.pdf"
   },
   {
     "title": "New Jersey Extreme Heat Resilience Action Plan - New Jersey, United States of America",
@@ -2937,7 +2937,7 @@
     "location": "40.0583238, -74.4056612",
     "country_location": "38.7945952, -106.5348379",
     "url": "https://dep.nj.gov/wp-content/uploads/climatechange/extreme_heat_rap_071924-screen-version.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_New_Jersey_2024_New_Jersey_Extreme_Heat_Resilience_Action_Plan.pdf"
   },
   {
     "title": "Plan de gestion des vagues de chaleur / Heatwave Management Plan - France",
@@ -2958,7 +2958,7 @@
     "location": "46.227638, 2.213749",
     "country_location": "46.227638, 2.213749",
     "url": "https://heathealth.info/resources/plan-de-gestion-des-vagues-de-chaleur-france-heatwave-management-plan/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/France__2023_Plan_de_gestion_des_vagues_de_chaleur_Heatwave.pdf"
   },
   {
     "title": "City of Toronto Heat Relief Strategy - Toronto, Canada",
@@ -2979,7 +2979,7 @@
     "location": "43.6548253, -79.388447",
     "country_location": "56.130366, -106.346771",
     "url": "https://heathealth.info/resources/city-of-toronto-heat-relief-strategy-2024/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Canada_Ontario_2024_City_of_Toronto_Heat_Relief_Strategy.pdf"
   },
   {
     "title": "Heat Action Roadmap: An action roadmap to prepare for extreme heat - Tucson, United States of America",
@@ -3000,7 +3000,7 @@
     "location": "32.2539787, -110.9741769",
     "country_location": "38.7945952, -106.5348379",
     "url": "https://heathealth.info/resources/heat-action-roadmap-tucson-az/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_Arizona_2024_Heat_Action_Roadmap_An_action_roadmap_to_prepare.pdf"
   },
   {
     "title": "Miami-Dade County Extreme Heat Action Plan - Miami-Dade County, United States of America",
@@ -3021,7 +3021,7 @@
     "location": "25.5516034, -80.6326916",
     "country_location": "38.7945952, -106.5348379",
     "url": "https://www.miamidade.gov/resources/environment/documents/2022-heat-action-plan.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_Florida_2022_Miami_Dade_County_Extreme_Heat_Action_Plan.pdf"
   },
   {
     "title": "Extreme Heat Preparedness Guide - British Columbia, Canada",
@@ -3042,7 +3042,7 @@
     "location": "53.7266683, -127.6476206",
     "country_location": "56.130366, -106.346771",
     "url": "https://www2.gov.bc.ca/assets/gov/public-safety-and-emergency-services/emergency-preparedness-response-recovery/embc/preparedbc/preparedbc-guides/preparedbc_extreme_heat_guide.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Canada_British_Columbia_2025_Extreme_Heat_Preparedness_Guide.pdf"
   },
   {
     "title": "Bangladesh Early Action Protocol Summary: Heatwave EAP - Dhaka, Bangladesh",
@@ -3063,7 +3063,7 @@
     "location": "23.804093, 90.4152376",
     "country_location": "23.684994, 90.356331",
     "url": "https://heathealth.info/wp-content/uploads/EAP_Heatwave_Bangladesh.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Bangladesh_Dhaka_2023_Bangladesh_Early_Action_Protocol_Summary_Heatwave.pdf"
   },
   {
     "title": "Myanmar’s National Adaptation Programme of Action (NAPA) to Climate Change - Myanmar",
@@ -3084,7 +3084,7 @@
     "location": "21.916221, 95.955974",
     "country_location": "21.916221, 95.955974",
     "url": "https://heathealth.info/resources/myanmar-national-adaptation-programme-of-action-napa-to-climate-change/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Myanmar__2012_Myanmar_s_National_Adaptation_Programme_of_Action.pdf"
   },
   {
     "title": "Plano de Contingência para Temperaturas Extremas Adversas – Módulo Calor 2014 / Contingency Plan for Extreme Adverse Temperatures – Heat Module 2014 - Portugal",
@@ -3105,7 +3105,7 @@
     "location": "39.39987199999999, -8.224454",
     "country_location": "39.39987199999999, -8.224454",
     "url": "https://heathealth.info/resources/portugal-plano-de-contingencia-para-temperaturas-extremas-adversas-modulo-calor-contingency-plan-for-extreme-adverse-temperatures-heat-module/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Portugal__2014_Plano_de_Contingencia_para_Temperaturas_Extremas.pdf"
   },
   {
     "title": "City of Philadelphia Natural Hazard Mitigation Plan - Philadelphia, United States of America",
@@ -3126,7 +3126,7 @@
     "location": "39.9525839, -75.1652215",
     "country_location": "38.7945952, -106.5348379",
     "url": "https://heathealth.info/resources/city-of-philadelphia-natural-hazard-mitigation-plan/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_Pennsylvania_2012_City_of_Philadelphia_Natural_Hazard_Mitigation.pdf"
   },
   {
     "title": "Contingency Plan for Excessive Heat Emergencies - California, United States of America",
@@ -3147,7 +3147,7 @@
     "location": "36.778261, -119.4179324",
     "country_location": "38.7945952, -106.5348379",
     "url": "https://heathealth.info/resources/contingency-plan-for-excessive-heat-emergencies/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_California_2008_Contingency_Plan_for_Excessive_Heat_Emergencies.pdf"
   },
   {
     "title": "Arizona’s Climate and Health Adaptation Plan - Arizona, United States of America",
@@ -3168,7 +3168,7 @@
     "location": "34.0489281, -111.0937311",
     "country_location": "38.7945952, -106.5348379",
     "url": "https://heathealth.info/resources/extreme-heat-incident-annex/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_Arizona_2017_Arizona_s_Climate_and_Health_Adaptation_Plan.pdf"
   },
   {
     "title": "Heat Action Plan Toolkit: Guidance and resources to help North Carolina communities prepare for extreme heat - North Carolina, United States of America",
@@ -3189,7 +3189,7 @@
     "location": "35.7595731, -79.01929969999999",
     "country_location": "38.7945952, -106.5348379",
     "url": "https://www.deq.nc.gov/energy-climate/state-resilience-office/resilience-resources-local-communities/heat-action-plan-toolkit",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_North_Carolina_2024_Heat_Action_Plan_Toolkit_Guidance_and_resources.pdf"
   },
   {
     "title": "കേരള സംസ്ഥാന ഉഷ്ണകാല ദുരന്ത ലഘൂകരണ പ്രവർത്തന മാർഗ്ഗരേഖ / Kerala Heat Action Plan - Kerala, India",
@@ -3210,7 +3210,7 @@
     "location": "10.1631526, 76.64127119999999",
     "country_location": "20.593684, 78.96288",
     "url": "https://heathealth.info/resources/kerala-heat-action-plan-india/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/India_Kerala_2020_Kerala_Heat_Action_Plan.pdf"
   },
   {
     "title": "Colombia. Antioquia. Medellin Climate Action Plan. 2021. - Medellín, Colombia",
@@ -3231,7 +3231,7 @@
     "location": "6.2476376, -75.56581530000001",
     "country_location": "4.570868, -74.297333",
     "url": "https://heathealth.info/resources/plan-de-accion-climatica-de-medellin-2020-2050-climate-action-plan-for-medellin-2020-2050/",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Colombia_Antioquia_2021_Colombia_Antioquia_Medellin_Climate_Action_Plan.pdf"
   },
   {
     "title": "Plan nacional de actuaciones preventivas de los efectos del exceso de temperatura sobre la salud / National Plan for Preventive Actions against the Health Effects of Excess Temperatures - Spain",
@@ -3252,7 +3252,7 @@
     "location": "40.46366700000001, -3.74922",
     "country_location": "40.46366700000001, -3.74922",
     "url": "https://www.sanidad.gob.es/areas/sanidadAmbiental/riesgosAmbientales/calorExtremo/publicaciones/docs/planNacionalExcesoTemperaturas_2026.pdf?utm_",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Spain__2026_Plan_nacional_de_actuaciones_preventivas_de_los.pdf"
   },
   {
     "title": "Guide ORSEC départemental S6: disposition spécifique « Gestion sanitaire des vagues de chaleur » / ORSEC Departmental S6 Guide: Specific Arrangement for the Health Management of Heat Waves - France",
@@ -3273,7 +3273,7 @@
     "location": "46.227638, 2.213749",
     "country_location": "46.227638, 2.213749",
     "url": "https://sante.gouv.fr/IMG/pdf/guide_orsec_vagues_de_chaleur_2021_05_18.pdf?utm_",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/France__2021_Guide_ORSEC_departemental_S6_disposition.pdf"
   },
   {
     "title": "Nationaler Hitzeschutzplan Österreich / National Heat Protection Plan Austria - Austria",
@@ -3294,7 +3294,7 @@
     "location": "47.516231, 14.550072",
     "country_location": "47.516231, 14.550072",
     "url": "https://www.sozialministerium.gv.at/Themen/Gesundheit/Hitze/Information-und-Kommunikation.html?utm_",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Austria__2026_Nationaler_Hitzeschutzplan_Osterreich_National.pdf"
   },
   {
     "title": "Heatwave Management Sub-plan: Sub-plan of the QHDISPLAN - Queensland, Australia",
@@ -3315,7 +3315,7 @@
     "location": "-22.575197, 144.0847926",
     "country_location": "-25.274398, 133.775136",
     "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0032/628268/heatwave-response-plan.pdf?utm_",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Australia_Queensland_2025_Heatwave_Management_Sub_plan_Sub_plan_of_the.pdf"
   },
   {
     "title": "NT Heatwave Hazard Plan - Northern Territory, Australia",
@@ -3336,7 +3336,7 @@
     "location": "-19.4914108, 132.5509603",
     "country_location": "-25.274398, 133.775136",
     "url": "https://securent.nt.gov.au/__data/assets/pdf_file/0015/1560102/nt-heatwave-hazard-plan-2025.pdf?utm_",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Australia_Northern_Territory_2025_NT_Heatwave_Hazard_Plan.pdf"
   },
   {
     "title": "State Emergency Management Plan Extreme Heat Sub-Plan - Victoria, Australia",
@@ -3357,7 +3357,7 @@
     "location": "-36.9847807, 143.3906074",
     "country_location": "-25.274398, 133.775136",
     "url": "https://www.emv.vic.gov.au/responsibilities/state-emergency-management-plan-sub-plans/semp-extreme-heat-sub-plan",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Australia_Victoria_2025_State_Emergency_Management_Plan_Extreme_Heat_Sub.pdf"
   },
   {
     "title": "Corangamite Shire Heatwave Plan 2025 - Corangamite Shire, Australia",
@@ -3378,7 +3378,7 @@
     "location": "-38.1491105, 143.1319209",
     "country_location": "-25.274398, 133.775136",
     "url": "https://www.corangamite.vic.gov.au/files/assets/public/v/2/documents/plans-amp-strategies/health-amp-wellbeing/corangamite-shire-heatwave-plan-2025.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Australia_Victoria_2025_Corangamite_Shire_Heatwave_Plan_2025.pdf"
   },
   {
     "title": "Yarriambiack Shire Council Heatwave Plan 2025-2028 - Yarriambiack Shire, Australia",
@@ -3399,7 +3399,7 @@
     "location": "-35.9703773, 142.4465474",
     "country_location": "-25.274398, 133.775136",
     "url": "https://www.yarriambiack.vic.gov.au/files/sharedassets/public/v/1/documents/policies-publications/other-plans/heatwave-plan-2025-2028.pdf?utm_",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Australia_Victoria_2025_Yarriambiack_Shire_Council_Heatwave_Plan_2025_2028.pdf"
   },
   {
     "title": "Wodonga Extreme Heat Plan - Wodonga, Australia",
@@ -3420,7 +3420,7 @@
     "location": "-36.1244699, 146.8885229",
     "country_location": "-25.274398, 133.775136",
     "url": "https://www.wodonga.vic.gov.au/Portals/0/Documents/2024/Extreme%20Heat%20Plan.pdf?ver=YQTlygOSsyFkohikGBB9kg==&utm_",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Australia_Victoria_2025_Wodonga_Extreme_Heat_Plan.pdf"
   },
   {
     "title": "City of Kamloops Extreme Heat Response Plan - Kamloops, Canada",
@@ -3441,7 +3441,7 @@
     "location": "50.674522, -120.3272674",
     "country_location": "56.130366, -106.346771",
     "url": "https://www.kamloops.ca/sites/default/files/2024-09/2024-05-09-Extreme%20Heat%20Response%20Plan.pdf?utm_",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Canada_British_Columbia_2024_City_of_Kamloops_Extreme_Heat_Response_Plan.pdf"
   },
   {
     "title": "King County Extreme Heat Mitigation Strategy - King County, United States of America",
@@ -3462,7 +3462,7 @@
     "location": "47.5480339, -121.9836029",
     "country_location": "38.7945952, -106.5348379",
     "url": "https://cdn.kingcounty.gov/-/media/king-county/depts/dnrp/nature-recreation/environment-ecology-conservation/climate/preparation/241220_13570m_kc-extreme-heat-strategy_web.pdf?hash=AA63F0E02B01958566C0AFEFD7E37B7C&rev=b8f43f80ef68418eb2ae2dc9c22c8f3b&utm_",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_Washington_2024_King_County_Extreme_Heat_Mitigation_Strategy.pdf"
   },
   {
     "title": "Isle of Wight Council Heatwave Plan - Isle of Wight, United Kingdom",
@@ -3483,7 +3483,7 @@
     "location": "50.69384789999999, -1.304734",
     "country_location": "55.378051, -3.435973",
     "url": "https://www.iow.gov.uk/media/2436/Heatwave-Plan/pdf/Public_Health_IWC_Heatwave_Plan_FINAL_2025_V7_1.pdf?m=1769790389903&utm_",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_Kingdom_England_2026_Isle_of_Wight_Council_Heatwave_Plan.pdf"
   },
   {
     "title": "Extreme Heat Response Plan - Seattle and King County, United States of America",
@@ -3504,7 +3504,7 @@
     "location": "47.6061389, -122.3328481",
     "country_location": "38.7945952, -106.5348379",
     "url": "https://cdn.kingcounty.gov/-/media/king-county/depts/dph/documents/safety-injury-prevention/emergency-preparedness/extreme-heat-response-plan.pdf?hash=FB9F039220D845D617F4D527C04EEB88&rev=b3f0288329b348f7bb219ad9c93e6d5a&utm_",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_Washington_2024_Extreme_Heat_Response_Plan.pdf"
   },
   {
     "title": "Indigo Shire Extreme Heat Plan 2025–2028 - Indigo Shire, Australia",
@@ -3525,7 +3525,7 @@
     "location": "-36.2306763, 146.6962857",
     "country_location": "-25.274398, 133.775136",
     "url": "https://www.indigoshire.vic.gov.au/About-Council/Planning-for-our-Future/Plans-Strategies-and-Master-Plans/Heatwave-Plan?utm_",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Australia_Victoria_2025_Indigo_Shire_Extreme_Heat_Plan_2025_2028.pdf"
   },
   {
     "title": "Pyrenees Shire Council Heatwave Plan - Pyrenees Shire, Australia",
@@ -3546,7 +3546,7 @@
     "location": "-37.3879637, 143.4770359",
     "country_location": "-25.274398, 133.775136",
     "url": "https://www.pyrenees.vic.gov.au/files/assets/public/v/6/emergencies/pyrenees-heatwave-plan-v2-2024-updates.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Australia_Victoria_2024_Pyrenees_Shire_Council_Heatwave_Plan.pdf"
   },
   {
     "title": "Frankston City Heat Health Plan – a complementary plan to the MEMP - Frankston City, Australia",
@@ -3567,7 +3567,7 @@
     "location": "-38.140391, 145.1596592",
     "country_location": "-25.274398, 133.775136",
     "url": "https://www.frankston.vic.gov.au/files/assets/public/v/1/our-community/health-and-wellbeing/heatwave/pdfs/fcc-heat-health-public-complementary-plan-to-the-memp-mar2024-v1.pdf?utm_",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Australia_Victoria_2024_Frankston_City_Heat_Health_Plan_a_complementary.pdf"
   },
   {
     "title": "Extreme Heat Plan - Northern Grampians Shire, Australia",
@@ -3588,7 +3588,7 @@
     "location": "-36.9044244, 142.9599661",
     "country_location": "-25.274398, 133.775136",
     "url": "https://www.ngshire.vic.gov.au/files/assets/public/v/1/document-resources/emergency-management/ngsc-extreme-heat-plan-v2.0-january-2024.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Australia_Victoria_2024_Extreme_Heat_Plan.pdf"
   },
   {
     "title": "Whittlesea Extreme Heat Sub-Plan - City of Whittlesea, Australia",
@@ -3609,7 +3609,7 @@
     "location": "-37.5382852, 145.093449",
     "country_location": "-25.274398, 133.775136",
     "url": "https://www.whittlesea.vic.gov.au/files/assets/public/v/1/documents/services/emergencies/2022-2023-whittlesea-extreme-heat-sub-plan.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Australia_Victoria_2022_Whittlesea_Extreme_Heat_Sub_Plan.pdf"
   },
   {
     "title": "Severe Adverse Weather & Health Plan for London Borough of Waltham Forest - London Borough of Waltham Forest, United Kingdom",
@@ -3630,7 +3630,7 @@
     "location": "51.5901724, -0.0173754",
     "country_location": "55.378051, -3.435973",
     "url": "https://thehub-beta.walthamforest.gov.uk/sites/default/files/2026-01/LBWF_Severe_Adverse_Weather_%26_Health_Plan_v1.5.pdf?utm_",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_Kingdom_England_2025_Severe_Adverse_Weather_Health_Plan_for_London.pdf"
   },
   {
     "title": "Mitchell Shire Heat Plan - Mitchell Shire, Australia",
@@ -3651,7 +3651,7 @@
     "location": "-37.1847484, 145.0493375",
     "country_location": "-25.274398, 133.775136",
     "url": "https://www.mitchellshire.vic.gov.au/assets/general-downloads/Finance%20and%20Assets/Mitchell_Heat_Plan_2015.pdf?filename=Mitchell_Heat_Plan_2015.pdf&title=Heatwave+Plan",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Australia_Victoria_2015_Mitchell_Shire_Heat_Plan.pdf"
   },
   {
     "title": "Maribyrnong Extreme Heat Sub-Plan - City of Maribyrnong, Australia",
@@ -3672,7 +3672,7 @@
     "location": "-37.7950697, 144.8841246",
     "country_location": "-25.274398, 133.775136",
     "url": "https://www.maribyrnong.vic.gov.au/files/assets/public/v/1/planning-services-documents/regulatory-services/emergency-management/memp-extreme-heat-sub-plan-v1.3-nov-2020.pdf",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Australia_Victoria_2020_Maribyrnong_Extreme_Heat_Sub_Plan.pdf"
   },
   {
     "title": "Adverse Weather and Health Plan - Portsmouth, United Kingdom",
@@ -3693,7 +3693,7 @@
     "location": "50.8197675, -1.0879769",
     "country_location": "55.378051, -3.435973",
     "url": "https://www.southampton.gov.uk/media/v23jazhg/joint-adverse-weather-and-health-plan-v1-0.pdf?utm_",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_Kingdom_England_2023_Adverse_Weather_and_Health_Plan.pdf"
   },
   {
     "title": "Climate Change Strategy and Action Plan Annual Implementation Report: Financial Year 2023/24 - Cape Town, South Africa",
@@ -3714,7 +3714,7 @@
     "location": "-33.922087, 18.4231418",
     "country_location": "-30.559482, 22.937506",
     "url": "https://resource.capetown.gov.za/documentcentre/Documents/City%20research%20reports%20and%20review/ClimateChangeStrategyandActionPlanAnnualImplementationReport2023-24.pdf?utm_",
-    "pdf_link": ""
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/South_Africa_Western_Cape_2024_Climate_Change_Strategy_and_Action_Plan_Annual.pdf"
   },
   {
     "title": "ACTUALIZACIÓN DEL PLAN DE ADAPTACIÓN AL CAMBIO CLIMÁTICO SECTOR SALUD - Chile",
@@ -3735,6 +3735,6 @@
     "location": "-35.675147, -71.542969",
     "country_location": "-35.675147, -71.542969",
     "url": "https://degreyd.minsal.cl/wp-content/uploads/2025/02/Actualizacion-Plan-Sectorial-de-Cambio-Climatico-VF.pdf.pdf",
-    "pdf_link": "https://raw.githubusercontent.com/asruano/heat_health_action_plan_registry/main/pdfs/Chile__2024_3.pdf"
+    "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Chile__2024_ACTUALIZACION_DEL_PLAN_DE_ADAPTACION_AL_CAMBIO.pdf"
   }
 ]
