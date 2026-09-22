@@ -191,3 +191,15 @@ footer .table-note {
   margin: 0;
   font-weight: 500;
 }
+
+.download-btn {
+  display: inline-block;
+  margin-left: 1rem;
+  padding: 0.4rem 0.9rem;
+  border-radius: 6px;
+  background: #b33a2b;
+  color: #fff;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+.download-btn:hover { opacity: 0.85; }
