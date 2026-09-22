@@ -203,3 +203,8 @@ footer .table-note {
   font-size: 0.9rem;
 }
 .download-btn:hover { opacity: 0.85; }
+
+.plan-source-link {
+  margin-left: 0.6rem;
+  font-size: 0.85rem;
+}
