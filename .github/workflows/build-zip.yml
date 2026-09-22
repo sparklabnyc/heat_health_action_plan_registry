@@ -1,0 +1,29 @@
+name: Build plans zip
+on:
+  push:
+    branches: [main]
+    paths: ['pdfs/**', 'plans_index.csv', 'plans_index.json']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: build-zip
+  cancel-in-progress: true
+jobs:
+  zip:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build zip from files the index uses
+        run: |
+          jq -r '.[].pdf_link | select(. != null and . != "")' plans_index.json \
+            | sed 's|.*/||' | sort -u | sed 's|^|pdfs/|' > keep.txt
+          zip hhap_plans.zip -@ < keep.txt
+          zip hhap_plans.zip plans_index.csv
+      - env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release view plans-latest || gh release create plans-latest \
+            --title "All plans (auto-updated)" \
+            --notes "Auto-built zip of every plan with a hosted PDF, plus the index CSV."
+          gh release upload plans-latest hhap_plans.zip --clobber
