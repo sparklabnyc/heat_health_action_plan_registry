@@ -169,7 +169,7 @@ function getPlanLinks(plan) {
     pdf: isHttp(plan.pdf_link) ? plan.pdf_link : (isHttp(plan.pdf_drive_link) ? plan.pdf_drive_link : null),
     source: isHttp(plan.url) ? plan.url : null
   };
-}f
+}
 
 // ── MAP VIEW ────────────────────────────────────────────────────────────────
 
