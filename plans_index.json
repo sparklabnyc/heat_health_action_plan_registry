@@ -3736,5 +3736,26 @@
     "country_location": "-35.675147, -71.542969",
     "url": "https://degreyd.minsal.cl/wp-content/uploads/2025/02/Actualizacion-Plan-Sectorial-de-Cambio-Climatico-VF.pdf.pdf",
     "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Chile__2024_ACTUALIZACION_DEL_PLAN_DE_ADAPTACION_AL_CAMBIO.pdf"
+  },
+  {
+    "title": "Adverse Weather and Health Plan - Supporting Evidence - United Kingdom",
+    "format": "Action Plan",
+    "type": "Action Plan",
+    "resource_type": "Resource Library, Action Plan",
+    "topics": "Governance and Policy",
+    "country": "United Kingdom",
+    "country_display": "United Kingdom",
+    "region": "Europe & Central Asia",
+    "state": "",
+    "city": "",
+    "language": "English",
+    "year": 2024,
+    "organization": "UK Health Security Agency (UKHSA)",
+    "landscapes": "Household, Institutional, Urban",
+    "description": "",
+    "location": "55.378051, -3.435973",
+    "country_location": "55.378051, -3.435973",
+    "url": "https://www.gov.uk/government/publications/adverse-weather-and-health-plan",
+    "pdf_link": ""
   }
 ]
