@@ -1,0 +1,21 @@
+{
+  "title": "City of Phoenix 2025 Heat Response Plan - Phoenix, United States of America",
+  "format": "Action Plan",
+  "type": "Action Plan",
+  "resource_type": "Resource Library, Action Plan",
+  "topics": "Governance and Policy",
+  "country": "United States of America",
+  "country_display": "United States of America",
+  "region": "North America",
+  "state": "Arizona",
+  "city": "Phoenix",
+  "language": "English",
+  "year": 2025,
+  "organization": "City of Phoenix",
+  "landscapes": "Arid, Healthcare, Household, Institutional, Occupational, Urban",
+  "description": "The Heat Response Plan details the programs and services that Phoenix delivers to residents and visitors to prevent illness, death, and other serious and immediate adverse health outcomes associated with indoor and outdoor heat exposure. ",
+  "location": "33.4482948, -112.0725488",
+  "country_location": "38.7945952, -106.5348379",
+  "url": "https://www.phoenix.gov/content/dam/phoenix/heatsite/documents/FINAL%20-%202025%20HEAT%20RESPONSE%20PLAN.pdf",
+  "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/United_States_of_America_Arizona_2025_216.pdf"
+}
