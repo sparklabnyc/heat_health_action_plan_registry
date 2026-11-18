@@ -1,0 +1,21 @@
+{
+  "title": "Anexo Plan Nacional de Emergencias - Amenaza Calor Extremo - Chile",
+  "format": "Action Plan",
+  "type": "Action Plan",
+  "resource_type": "Resource Library, Action Plan",
+  "topics": "Governance and Policy",
+  "country": "Chile",
+  "country_display": "Chile",
+  "region": "Latin America & Caribbean",
+  "state": "",
+  "city": "",
+  "language": "Spanish",
+  "year": 2023,
+  "organization": "Servicio Nacional de Prevención y Respuesta ante Desastres (SENAPRED)",
+  "landscapes": "Healthcare",
+  "description": "This national annex to the National Emergency Plan defines response actions and expected health impacts of extreme heat events. It sets guidelines for regional, provincial, and municipal levels, coordinated by each disaster risk management committee under current law.",
+  "location": "-35.675147, -71.542969",
+  "country_location": "-35.675147, -71.542969",
+  "url": "https://bibliogrd.senapred.gob.cl/web/bitstream/handle/1671/6412/Res%20N°1680%20Anexo%20Plan%20Calor%20extremo.pdf?sequence=1&isAllowed=y",
+  "pdf_link": "https://raw.githubusercontent.com/sparklabnyc/heat_health_action_plan_registry/main/pdfs/Chile__2023_214.pdf"
+}
